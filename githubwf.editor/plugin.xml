@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated githubwfOpt -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="githubwf.presentation.GithubwfModelWizardID"
+            name="%_UI_GithubwfModelWizard_label"
+            class="githubwf.presentation.GithubwfModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/GithubwfModelFile.gif">
+         <description>%_UI_GithubwfModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated githubwfOpt -->
+      <editor
+            id="githubwf.presentation.GithubwfEditorID"
+            name="%_UI_GithubwfEditor_label"
+            icon="icons/full/obj16/GithubwfModelFile.gif"
+            extensions="githubwf"
+            class="githubwf.presentation.GithubwfEditor"
+            contributorClass="githubwf.presentation.GithubwfActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

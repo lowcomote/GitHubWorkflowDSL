@@ -1,0 +1,1849 @@
+-- OCL contraints for /C:/Users/aless/eclipse/jsonschemadsl/workspaces/22.runtime-json-schema/githubwf/githubwf
+import 'http://jku.bise.at/githubwf'
+
+package githubwf
+
+	context githubwf::GlobsItems
+
+	inv GlobsItemsMinLength('The length of GlobsItems must be greater than 1.0'):
+	if items.size() >= 1.0
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf0Tuple
+
+	inv NormalJobRuns_45onOneOf1AnyOf0TupleMinItemsTuple('The minimum number of items for NormalJobRuns_45onOneOf1AnyOf0Tuple is 1.0'):
+	if  getItemsNumber() >= 1.0
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf1Tuple
+
+	inv NormalJobRuns_45onOneOf1AnyOf1TupleMinItemsTuple('The minimum number of items for NormalJobRuns_45onOneOf1AnyOf1Tuple is 2.0'):
+	if  getItemsNumber() >= 2.0
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf2Tuple
+
+	inv NormalJobRuns_45onOneOf1AnyOf2TupleMinItemsTuple('The minimum number of items for NormalJobRuns_45onOneOf1AnyOf2Tuple is 2.0'):
+	if  getItemsNumber() >= 2.0
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf3Tuple
+
+	inv NormalJobRuns_45onOneOf1AnyOf3TupleMinItemsTuple('The minimum number of items for NormalJobRuns_45onOneOf1AnyOf3Tuple is 3.0'):
+	if  getItemsNumber() >= 3.0
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf4Tuple
+
+	inv NormalJobRuns_45onOneOf1AnyOf4TupleMinItemsTuple('The minimum number of items for NormalJobRuns_45onOneOf1AnyOf4Tuple is 3.0'):
+	if  getItemsNumber() >= 3.0
+	then true
+	else null
+	endif
+
+	context githubwf::ContainerVolumesItems
+
+	inv ContainerVolumesItemsPattern('The value of ContainerVolumesItems must match the regular expression ^[^:]+:[^:]+$'):
+	if self.regexMatch()
+	then true
+	else null
+	endif
+
+	context githubwf::ExpressionSyntax
+
+	inv ExpressionSyntaxPattern('The value of ExpressionSyntax must match the regular expression ^\\$\\{\\{(.|[\r\n])*\\}\\}$'):
+	if self.regexMatch()
+	then true
+	else null
+	endif
+
+	context githubwf::StringContainingExpressionSyntax
+
+	inv StringContainingExpressionSyntaxPattern('The value of StringContainingExpressionSyntax must match the regular expression ^.*\\$\\{\\{(.|[\r\n])*\\}\\}.*$'):
+	if self.regexMatch()
+	then true
+	else null
+	endif
+
+	context githubwf::Name
+
+	inv NamePattern('The value of Name must match the regular expression ^[_a-zA-Z][a-zA-Z0-9_-]*$'):
+	if self.regexMatch()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobUses
+
+	inv ReusableWorkflowCallJobUsesPattern('The value of ReusableWorkflowCallJobUses must match the regular expression ^(.+/)+(.+)\\.(ya?ml)(@.+)?$'):
+	if self.regexMatch()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2ScheduleItemsCron
+
+	inv GithubwfRootOnOneOf2ScheduleItemsCronPattern('The value of GithubwfRootOnOneOf2ScheduleItemsCron must match the regular expression ^(((\\d+,)+\\d+|((\\d+|\\*)/\\d+|((JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)(-(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC))?))|(\\d+-\\d+)|\\d+|\\*|((MON|TUE|WED|THU|FRI|SAT|SUN)(-(MON|TUE|WED|THU|FRI|SAT|SUN))?)) ?){5}$'):
+	if self.regexMatch()
+	then true
+	else null
+	endif
+
+	context githubwf::Concurrency 
+
+	inv ConcurrencyRequiredgroup ('Concurrency requires the property group'):
+	if  not self.get('group').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::Container 
+
+	inv ContainerRequiredimage ('Container requires the property image'):
+	if  not self.get('image').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::Environment 
+
+	inv EnvironmentRequiredname ('Environment requires the property name'):
+	if  not self.get('name').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0NotTypeObject 
+
+	inv RefOneOf0AllOf0NotTypeObjectRequiredbranches ('RefOneOf0AllOf0NotTypeObject requires the property branches'):
+	if  not self.get('branches').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0NotTypeObject 
+
+	inv RefOneOf0AllOf0NotTypeObjectRequiredbranches_45ignore ('RefOneOf0AllOf0NotTypeObject requires the property branches_45ignore'):
+	if  not self.get('branches_45ignore').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1NotTypeObject 
+
+	inv RefOneOf0AllOf1NotTypeObjectRequiredtags ('RefOneOf0AllOf1NotTypeObject requires the property tags'):
+	if  not self.get('tags').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1NotTypeObject 
+
+	inv RefOneOf0AllOf1NotTypeObjectRequiredtags_45ignore ('RefOneOf0AllOf1NotTypeObject requires the property tags_45ignore'):
+	if  not self.get('tags_45ignore').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2NotTypeObject 
+
+	inv RefOneOf0AllOf2NotTypeObjectRequiredpaths ('RefOneOf0AllOf2NotTypeObject requires the property paths'):
+	if  not self.get('paths').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2NotTypeObject 
+
+	inv RefOneOf0AllOf2NotTypeObjectRequiredpaths_45ignore ('RefOneOf0AllOf2NotTypeObject requires the property paths_45ignore'):
+	if  not self.get('paths_45ignore').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategy 
+
+	inv ReusableWorkflowCallJobStrategyRequiredmatrix ('ReusableWorkflowCallJobStrategy requires the property matrix'):
+	if  not self.get('matrix').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJob 
+
+	inv ReusableWorkflowCallJobRequireduses ('ReusableWorkflowCallJob requires the property uses'):
+	if  not self.get('uses').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0OneOf0 
+
+	inv NormalJobStepsItemsAllOf0OneOf0Requireduses ('NormalJobStepsItemsAllOf0OneOf0 requires the property uses'):
+	if  not self.get('uses').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0OneOf1 
+
+	inv NormalJobStepsItemsAllOf0OneOf1Requiredrun ('NormalJobStepsItemsAllOf0OneOf1 requires the property run'):
+	if  not self.get('run').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategy 
+
+	inv NormalJobStrategyRequiredmatrix ('NormalJobStrategy requires the property matrix'):
+	if  not self.get('matrix').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJob 
+
+	inv NormalJobRequiredruns_45on ('NormalJob requires the property runs_45on'):
+	if  not self.get('runs_45on').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0Requiredtype ('GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0 requires the property type'):
+	if  not self.get('type').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObject 
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObjectRequiredrequired ('GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObject requires the property required'):
+	if  not self.get('required').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObject 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObjectRequiredtype ('GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObject requires the property type'):
+	if  not self.get('type').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObject 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObjectRequiredtype ('GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObject requires the property type'):
+	if  not self.get('type').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObject 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObjectRequiredoptions ('GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObject requires the property options'):
+	if  not self.get('options').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Requireddescription ('GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0 requires the property description'):
+	if  not self.get('description').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRoot 
+
+	inv GithubwfRootRequiredon ('GithubwfRoot requires the property on'):
+	if  not self.get('on').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRoot 
+
+	inv GithubwfRootRequiredjobs ('GithubwfRoot requires the property jobs'):
+	if  not self.get('jobs').oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixPatternProperties0 
+
+	inv ReusableWorkflowCallJobStrategyMatrixPatternProperties0patternProperties0Regex ('the key must match the regular expression ^(in|ex)clude$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixPatternProperties0 
+
+	inv NormalJobStrategyMatrixPatternProperties0patternProperties0Regex ('the key must match the regular expression ^(in|ex)clude$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Pull_requestPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Pull_requestPatternProperties0patternProperties0Regex ('the key must match the regular expression ^(branche|tag|path)s(-ignore)?$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Pull_request_targetPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Pull_request_targetPatternProperties0patternProperties0Regex ('the key must match the regular expression ^(branche|tag|path)s(-ignore)?$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2PushPatternProperties0 
+
+	inv GithubwfRootOnOneOf2PushPatternProperties0patternProperties0Regex ('the key must match the regular expression ^(branche|tag|path)s(-ignore)?$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0patternProperties0Regex ('the key must match the regular expression ^[_a-zA-Z][a-zA-Z0-9_-]*$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0patternProperties0Regex ('the key must match the regular expression ^[_a-zA-Z][a-zA-Z0-9_-]*$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0patternProperties0Regex ('the key must match the regular expression ^[_a-zA-Z][a-zA-Z0-9_-]*$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_runPatternProperties0 
+
+	inv GithubwfRootOnOneOf2Workflow_runPatternProperties0patternProperties0Regex ('the key must match the regular expression ^branches(-ignore)?$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootJobsPatternProperties0 
+
+	inv GithubwfRootJobsPatternProperties0patternProperties0Regex ('the key must match the regular expression ^[_a-zA-Z][a-zA-Z0-9_-]*$'):
+	if  self.find()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf1 
+
+	inv NormalJobStepsItemsAllOf1DependenciesArrayworking_45directoryrun ('NormalJobStepsItemsAllOf1 requires that if property working_45directory is present, also the property run must exist'):
+	if  not self.get('working_45directory').oclIsUndefined()
+	then 
+		if not self.get('run').oclIsUndefined() then true
+		else null
+		endif				
+	else true
+	endif
+	
+
+
+	context githubwf::NormalJobStepsItemsAllOf1 
+
+	inv NormalJobStepsItemsAllOf1DependenciesArrayshellrun ('NormalJobStepsItemsAllOf1 requires that if property shell is present, also the property run must exist'):
+	if  not self.get('shell').oclIsUndefined()
+	then 
+		if not self.get('run').oclIsUndefined() then true
+		else null
+		endif				
+	else true
+	endif
+	
+
+
+	context githubwf::EventObjectAdditionalProperties 
+
+	inv EventObjectAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EventObjectAdditionalProperties 
+
+	inv EventObjectAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConfigurationOneOf3AdditionalProperties 
+
+	inv ConfigurationOneOf3AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConfigurationOneOf3AdditionalProperties 
+
+	inv ConfigurationOneOf3AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EnvOneOf0AdditionalProperties 
+
+	inv EnvOneOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EnvOneOf0AdditionalProperties 
+
+	inv EnvOneOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixPatternProperties0ItemsAdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixPatternProperties0ItemsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixPatternProperties0ItemsAdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixPatternProperties0ItemsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixAdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixAdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobOutputsAdditionalProperties 
+
+	inv NormalJobOutputsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobOutputsAdditionalProperties 
+
+	inv NormalJobOutputsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixPatternProperties0ItemsAdditionalProperties 
+
+	inv NormalJobStrategyMatrixPatternProperties0ItemsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixPatternProperties0ItemsAdditionalProperties 
+
+	inv NormalJobStrategyMatrixPatternProperties0ItemsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixAdditionalProperties 
+
+	inv NormalJobStrategyMatrixAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixAdditionalProperties 
+
+	inv NormalJobStrategyMatrixAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobServicesAdditionalProperties 
+
+	inv NormalJobServicesAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobServicesAdditionalProperties 
+
+	inv NormalJobServicesAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConcurrencyCancel_45in_45progressAdditionalProperties 
+
+	inv ConcurrencyCancel_45in_45progressAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConcurrencyCancel_45in_45progressAdditionalProperties 
+
+	inv ConcurrencyCancel_45in_45progressAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConfigurationAdditionalProperties 
+
+	inv ConfigurationAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConfigurationAdditionalProperties 
+
+	inv ConfigurationAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ContainerCredentialsAdditionalProperties 
+
+	inv ContainerCredentialsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ContainerCredentialsAdditionalProperties 
+
+	inv ContainerCredentialsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ContainerPortsItemsAdditionalProperties 
+
+	inv ContainerPortsItemsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ContainerPortsItemsAdditionalProperties 
+
+	inv ContainerPortsItemsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::PermissionsAdditionalProperties 
+
+	inv PermissionsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::PermissionsAdditionalProperties 
+
+	inv PermissionsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EnvAdditionalProperties 
+
+	inv EnvAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EnvAdditionalProperties 
+
+	inv EnvAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EnvOneOf0AdditionalPropertiesAdditionalProperties 
+
+	inv EnvOneOf0AdditionalPropertiesAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EnvOneOf0AdditionalPropertiesAdditionalProperties 
+
+	inv EnvOneOf0AdditionalPropertiesAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EventObjectOneOf0AdditionalProperties 
+
+	inv EventObjectOneOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::EventObjectOneOf0AdditionalProperties 
+
+	inv EventObjectOneOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefAdditionalProperties 
+
+	inv RefAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefAdditionalProperties 
+
+	inv RefAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AdditionalProperties 
+
+	inv RefOneOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AdditionalProperties 
+
+	inv RefOneOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0AdditionalProperties 
+
+	inv RefOneOf0AllOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0AdditionalProperties 
+
+	inv RefOneOf0AllOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0NotAdditionalProperties 
+
+	inv RefOneOf0AllOf0NotAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0NotAdditionalProperties 
+
+	inv RefOneOf0AllOf0NotAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1AdditionalProperties 
+
+	inv RefOneOf0AllOf1AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1AdditionalProperties 
+
+	inv RefOneOf0AllOf1AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1NotAdditionalProperties 
+
+	inv RefOneOf0AllOf1NotAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1NotAdditionalProperties 
+
+	inv RefOneOf0AllOf1NotAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2AdditionalProperties 
+
+	inv RefOneOf0AllOf2AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2AdditionalProperties 
+
+	inv RefOneOf0AllOf2AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2NotAdditionalProperties 
+
+	inv RefOneOf0AllOf2NotAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2NotAdditionalProperties 
+
+	inv RefOneOf0AllOf2NotAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ShellAdditionalProperties 
+
+	inv ShellAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ShellAdditionalProperties 
+
+	inv ShellAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::JobNeedsAdditionalProperties 
+
+	inv JobNeedsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::JobNeedsAdditionalProperties 
+
+	inv JobNeedsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobSecretsAdditionalProperties 
+
+	inv ReusableWorkflowCallJobSecretsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobSecretsAdditionalProperties 
+
+	inv ReusableWorkflowCallJobSecretsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixOneOf0AdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixOneOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixOneOf0AdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixOneOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesAdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesAdditionalProperties 
+
+	inv ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobConcurrencyAdditionalProperties 
+
+	inv ReusableWorkflowCallJobConcurrencyAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobConcurrencyAdditionalProperties 
+
+	inv ReusableWorkflowCallJobConcurrencyAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onAdditionalProperties 
+
+	inv NormalJobRuns_45onAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onAdditionalProperties 
+
+	inv NormalJobRuns_45onAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf0AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf0AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf1AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf1AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf1AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf1AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf2AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf2AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf2AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf2AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf3AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf3AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf3AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf3AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf4AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf4AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf4AdditionalProperties 
+
+	inv NormalJobRuns_45onOneOf1AnyOf4AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobEnvironmentAdditionalProperties 
+
+	inv NormalJobEnvironmentAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobEnvironmentAdditionalProperties 
+
+	inv NormalJobEnvironmentAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAdditionalProperties 
+
+	inv NormalJobStepsItemsAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAdditionalProperties 
+
+	inv NormalJobStepsItemsAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0AdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0AdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0OneOf0AdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf0OneOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0OneOf0AdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf0OneOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0OneOf1AdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf0OneOf1AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0OneOf1AdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf0OneOf1AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalProperties 
+
+	inv NormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixOneOf0AdditionalProperties 
+
+	inv NormalJobStrategyMatrixOneOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixOneOf0AdditionalProperties 
+
+	inv NormalJobStrategyMatrixOneOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixAdditionalPropertiesAdditionalProperties 
+
+	inv NormalJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixAdditionalPropertiesAdditionalProperties 
+
+	inv NormalJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobContinue_45on_45errorAdditionalProperties 
+
+	inv NormalJobContinue_45on_45errorAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobContinue_45on_45errorAdditionalProperties 
+
+	inv NormalJobContinue_45on_45errorAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobContainerAdditionalProperties 
+
+	inv NormalJobContainerAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobContainerAdditionalProperties 
+
+	inv NormalJobContainerAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobConcurrencyAdditionalProperties 
+
+	inv NormalJobConcurrencyAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobConcurrencyAdditionalProperties 
+
+	inv NormalJobConcurrencyAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnAdditionalProperties 
+
+	inv GithubwfRootOnAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnAdditionalProperties 
+
+	inv GithubwfRootOnAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_callAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_callAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalProperties 
+
+	inv GithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootConcurrencyAdditionalProperties 
+
+	inv GithubwfRootConcurrencyAdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootConcurrencyAdditionalProperties 
+
+	inv GithubwfRootConcurrencyAdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootJobsPatternProperties0AdditionalProperties 
+
+	inv GithubwfRootJobsPatternProperties0AdditionalPropertiesValidatorOnProperties ('key can not be equals to a defined property'):
+	if  self.validateKeyOnDefinedProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootJobsPatternProperties0AdditionalProperties 
+
+	inv GithubwfRootJobsPatternProperties0AdditionalPropertiesValidatorOnPatternProperties (' key can not match the patterns of the defined pattern properties'):
+	if  self.validateKeyOnDefinedPatternProperties().oclIsUndefined()
+	then true
+	else null
+	endif
+
+	context githubwf::ConcurrencyCancel_45in_45progressTypeInteger
+
+	inv ConcurrencyCancel_45in_45progressTypeIntegerIsInteger('The value of ConcurrencyCancel_45in_45progressTypeInteger.cancel_45in_45progress must be integer'):
+	if cancel_45in_45progress.floor() = cancel_45in_45progress
+	then true
+	else null
+	endif
+
+	context githubwf::ConfigurationTypeInteger
+
+	inv ConfigurationTypeIntegerIsInteger('The value of ConfigurationTypeInteger.configuration must be integer'):
+	if configuration.floor() = configuration
+	then true
+	else null
+	endif
+
+	context githubwf::ContainerPortsItemsTypeInteger
+
+	inv ContainerPortsItemsTypeIntegerIsInteger('The value of ContainerPortsItemsTypeInteger.items must be integer'):
+	if items.floor() = items
+	then true
+	else null
+	endif
+
+	context githubwf::PermissionsTypeInteger
+
+	inv PermissionsTypeIntegerIsInteger('The value of PermissionsTypeInteger.permissions must be integer'):
+	if permissions.floor() = permissions
+	then true
+	else null
+	endif
+
+	context githubwf::EnvTypeInteger
+
+	inv EnvTypeIntegerIsInteger('The value of EnvTypeInteger.env must be integer'):
+	if env.floor() = env
+	then true
+	else null
+	endif
+
+	context githubwf::EnvOneOf0AdditionalPropertiesTypeInteger
+
+	inv EnvOneOf0AdditionalPropertiesTypeIntegerIsInteger('The value of EnvOneOf0AdditionalPropertiesTypeInteger.additionalProperties must be integer'):
+	if additionalProperties.floor() = additionalProperties
+	then true
+	else null
+	endif
+
+	context githubwf::EventObjectTypeInteger
+
+	inv EventObjectTypeIntegerIsInteger('The value of EventObjectTypeInteger.eventObject must be integer'):
+	if eventObject.floor() = eventObject
+	then true
+	else null
+	endif
+
+	context githubwf::RefTypeInteger
+
+	inv RefTypeIntegerIsInteger('The value of RefTypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0TypeInteger
+
+	inv RefOneOf0AllOf0TypeIntegerIsInteger('The value of RefOneOf0AllOf0TypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf0NotTypeInteger
+
+	inv RefOneOf0AllOf0NotTypeIntegerIsInteger('The value of RefOneOf0AllOf0NotTypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1TypeInteger
+
+	inv RefOneOf0AllOf1TypeIntegerIsInteger('The value of RefOneOf0AllOf1TypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf1NotTypeInteger
+
+	inv RefOneOf0AllOf1NotTypeIntegerIsInteger('The value of RefOneOf0AllOf1NotTypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2TypeInteger
+
+	inv RefOneOf0AllOf2TypeIntegerIsInteger('The value of RefOneOf0AllOf2TypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::RefOneOf0AllOf2NotTypeInteger
+
+	inv RefOneOf0AllOf2NotTypeIntegerIsInteger('The value of RefOneOf0AllOf2NotTypeInteger.ref must be integer'):
+	if ref.floor() = ref
+	then true
+	else null
+	endif
+
+	context githubwf::ShellTypeInteger
+
+	inv ShellTypeIntegerIsInteger('The value of ShellTypeInteger.shell must be integer'):
+	if shell.floor() = shell
+	then true
+	else null
+	endif
+
+	context githubwf::JobNeedsTypeInteger
+
+	inv JobNeedsTypeIntegerIsInteger('The value of JobNeedsTypeInteger.jobNeeds must be integer'):
+	if jobNeeds.floor() = jobNeeds
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobSecretsTypeInteger
+
+	inv ReusableWorkflowCallJobSecretsTypeIntegerIsInteger('The value of ReusableWorkflowCallJobSecretsTypeInteger.secrets must be integer'):
+	if secrets.floor() = secrets
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixTypeInteger
+
+	inv ReusableWorkflowCallJobStrategyMatrixTypeIntegerIsInteger('The value of ReusableWorkflowCallJobStrategyMatrixTypeInteger.matrix must be integer'):
+	if matrix.floor() = matrix
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesTypeInteger
+
+	inv ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesTypeIntegerIsInteger('The value of ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesTypeInteger.additionalProperties must be integer'):
+	if additionalProperties.floor() = additionalProperties
+	then true
+	else null
+	endif
+
+	context githubwf::ReusableWorkflowCallJobConcurrencyTypeInteger
+
+	inv ReusableWorkflowCallJobConcurrencyTypeIntegerIsInteger('The value of ReusableWorkflowCallJobConcurrencyTypeInteger.concurrency must be integer'):
+	if concurrency.floor() = concurrency
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onTypeInteger
+
+	inv NormalJobRuns_45onTypeIntegerIsInteger('The value of NormalJobRuns_45onTypeInteger.runs_45on must be integer'):
+	if runs_45on.floor() = runs_45on
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf0TypeInteger
+
+	inv NormalJobRuns_45onOneOf1AnyOf0TypeIntegerIsInteger('The value of NormalJobRuns_45onOneOf1AnyOf0TypeInteger.runs_45on must be integer'):
+	if runs_45on.floor() = runs_45on
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf1TypeInteger
+
+	inv NormalJobRuns_45onOneOf1AnyOf1TypeIntegerIsInteger('The value of NormalJobRuns_45onOneOf1AnyOf1TypeInteger.runs_45on must be integer'):
+	if runs_45on.floor() = runs_45on
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf2TypeInteger
+
+	inv NormalJobRuns_45onOneOf1AnyOf2TypeIntegerIsInteger('The value of NormalJobRuns_45onOneOf1AnyOf2TypeInteger.runs_45on must be integer'):
+	if runs_45on.floor() = runs_45on
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf3TypeInteger
+
+	inv NormalJobRuns_45onOneOf1AnyOf3TypeIntegerIsInteger('The value of NormalJobRuns_45onOneOf1AnyOf3TypeInteger.runs_45on must be integer'):
+	if runs_45on.floor() = runs_45on
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobRuns_45onOneOf1AnyOf4TypeInteger
+
+	inv NormalJobRuns_45onOneOf1AnyOf4TypeIntegerIsInteger('The value of NormalJobRuns_45onOneOf1AnyOf4TypeInteger.runs_45on must be integer'):
+	if runs_45on.floor() = runs_45on
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobEnvironmentTypeInteger
+
+	inv NormalJobEnvironmentTypeIntegerIsInteger('The value of NormalJobEnvironmentTypeInteger.environment must be integer'):
+	if environment.floor() = environment
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsTypeInteger
+
+	inv NormalJobStepsItemsTypeIntegerIsInteger('The value of NormalJobStepsItemsTypeInteger.items must be integer'):
+	if items.floor() = items
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf0TypeInteger
+
+	inv NormalJobStepsItemsAllOf0TypeIntegerIsInteger('The value of NormalJobStepsItemsAllOf0TypeInteger.items must be integer'):
+	if items.floor() = items
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStepsItemsAllOf1Continue_45on_45errorTypeInteger
+
+	inv NormalJobStepsItemsAllOf1Continue_45on_45errorTypeIntegerIsInteger('The value of NormalJobStepsItemsAllOf1Continue_45on_45errorTypeInteger.continue_45on_45error must be integer'):
+	if continue_45on_45error.floor() = continue_45on_45error
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixTypeInteger
+
+	inv NormalJobStrategyMatrixTypeIntegerIsInteger('The value of NormalJobStrategyMatrixTypeInteger.matrix must be integer'):
+	if matrix.floor() = matrix
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobStrategyMatrixAdditionalPropertiesTypeInteger
+
+	inv NormalJobStrategyMatrixAdditionalPropertiesTypeIntegerIsInteger('The value of NormalJobStrategyMatrixAdditionalPropertiesTypeInteger.additionalProperties must be integer'):
+	if additionalProperties.floor() = additionalProperties
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobContinue_45on_45errorTypeInteger
+
+	inv NormalJobContinue_45on_45errorTypeIntegerIsInteger('The value of NormalJobContinue_45on_45errorTypeInteger.continue_45on_45error must be integer'):
+	if continue_45on_45error.floor() = continue_45on_45error
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobContainerTypeInteger
+
+	inv NormalJobContainerTypeIntegerIsInteger('The value of NormalJobContainerTypeInteger.container must be integer'):
+	if container.floor() = container
+	then true
+	else null
+	endif
+
+	context githubwf::NormalJobConcurrencyTypeInteger
+
+	inv NormalJobConcurrencyTypeIntegerIsInteger('The value of NormalJobConcurrencyTypeInteger.concurrency must be integer'):
+	if concurrency.floor() = concurrency
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnTypeInteger
+
+	inv GithubwfRootOnTypeIntegerIsInteger('The value of GithubwfRootOnTypeInteger.on must be integer'):
+	if on.floor() = on
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeInteger
+
+	inv GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_callTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_callTypeInteger.workflow_call must be integer'):
+	if workflow_call.floor() = workflow_call
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_callSecretsTypeInteger.secrets must be integer'):
+	if secrets.floor() = secrets
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeInteger.required must be integer'):
+	if required.floor() = required
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchTypeInteger.workflow_dispatch must be integer'):
+	if workflow_dispatch.floor() = workflow_dispatch
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeInteger.default_ must be integer'):
+	if default_.floor() = default_
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2Workflow_runPatternProperties0TypeInteger
+
+	inv GithubwfRootOnOneOf2Workflow_runPatternProperties0TypeIntegerIsInteger('The value of GithubwfRootOnOneOf2Workflow_runPatternProperties0TypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootOnOneOf2ScheduleItemsTypeInteger
+
+	inv GithubwfRootOnOneOf2ScheduleItemsTypeIntegerIsInteger('The value of GithubwfRootOnOneOf2ScheduleItemsTypeInteger.items must be integer'):
+	if items.floor() = items
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootConcurrencyTypeInteger
+
+	inv GithubwfRootConcurrencyTypeIntegerIsInteger('The value of GithubwfRootConcurrencyTypeInteger.concurrency must be integer'):
+	if concurrency.floor() = concurrency
+	then true
+	else null
+	endif
+
+	context githubwf::GithubwfRootJobsPatternProperties0TypeInteger
+
+	inv GithubwfRootJobsPatternProperties0TypeIntegerIsInteger('The value of GithubwfRootJobsPatternProperties0TypeInteger.patternProperties0 must be integer'):
+	if patternProperties0.floor() = patternProperties0
+	then true
+	else null
+	endif
+
+endpackage
+

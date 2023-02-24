@@ -1,0 +1,177 @@
+/**
+ */
+package githubwf.impl;
+
+import githubwf.GithubwfPackage;
+import githubwf.NormalJobIf;
+import githubwf.NormalJobIfAbstract;
+
+import org.eclipse.emf.common.notify.Notification;
+import org.eclipse.emf.common.notify.NotificationChain;
+
+import org.eclipse.emf.ecore.EClass;
+import org.eclipse.emf.ecore.InternalEObject;
+
+import org.eclipse.emf.ecore.impl.ENotificationImpl;
+
+/**
+ * <!-- begin-user-doc -->
+ * An implementation of the model object '<em><b>Normal Job If</b></em>'.
+ * <!-- end-user-doc -->
+ * <p>
+ * The following features are implemented:
+ * </p>
+ * <ul>
+ *   <li>{@link githubwf.impl.NormalJobIfImpl#getIf_ <em>If </em>}</li>
+ * </ul>
+ *
+ * @generated
+ */
+public class NormalJobIfImpl extends NormalJobPropertiesAbstractImpl implements NormalJobIf {
+	/**
+	 * The cached value of the '{@link #getIf_() <em>If </em>}' containment reference.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getIf_()
+	 * @generated
+	 * @ordered
+	 */
+	protected NormalJobIfAbstract if_;
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	protected NormalJobIfImpl() {
+		super();
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	protected EClass eStaticClass() {
+		return GithubwfPackage.eINSTANCE.getNormalJobIf();
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public NormalJobIfAbstract getIf_() {
+		return if_;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public NotificationChain basicSetIf_(NormalJobIfAbstract newIf_, NotificationChain msgs) {
+		NormalJobIfAbstract oldIf_ = if_;
+		if_ = newIf_;
+		if (eNotificationRequired()) {
+			ENotificationImpl notification = new ENotificationImpl(this, Notification.SET, GithubwfPackage.NORMAL_JOB_IF__IF_, oldIf_, newIf_);
+			if (msgs == null) msgs = notification; else msgs.add(notification);
+		}
+		return msgs;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public void setIf_(NormalJobIfAbstract newIf_) {
+		if (newIf_ != if_) {
+			NotificationChain msgs = null;
+			if (if_ != null)
+				msgs = ((InternalEObject)if_).eInverseRemove(this, EOPPOSITE_FEATURE_BASE - GithubwfPackage.NORMAL_JOB_IF__IF_, null, msgs);
+			if (newIf_ != null)
+				msgs = ((InternalEObject)newIf_).eInverseAdd(this, EOPPOSITE_FEATURE_BASE - GithubwfPackage.NORMAL_JOB_IF__IF_, null, msgs);
+			msgs = basicSetIf_(newIf_, msgs);
+			if (msgs != null) msgs.dispatch();
+		}
+		else if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, GithubwfPackage.NORMAL_JOB_IF__IF_, newIf_, newIf_));
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public NotificationChain eInverseRemove(InternalEObject otherEnd, int featureID, NotificationChain msgs) {
+		switch (featureID) {
+			case GithubwfPackage.NORMAL_JOB_IF__IF_:
+				return basicSetIf_(null, msgs);
+		}
+		return super.eInverseRemove(otherEnd, featureID, msgs);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public Object eGet(int featureID, boolean resolve, boolean coreType) {
+		switch (featureID) {
+			case GithubwfPackage.NORMAL_JOB_IF__IF_:
+				return getIf_();
+		}
+		return super.eGet(featureID, resolve, coreType);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public void eSet(int featureID, Object newValue) {
+		switch (featureID) {
+			case GithubwfPackage.NORMAL_JOB_IF__IF_:
+				setIf_((NormalJobIfAbstract)newValue);
+				return;
+		}
+		super.eSet(featureID, newValue);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public void eUnset(int featureID) {
+		switch (featureID) {
+			case GithubwfPackage.NORMAL_JOB_IF__IF_:
+				setIf_((NormalJobIfAbstract)null);
+				return;
+		}
+		super.eUnset(featureID);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public boolean eIsSet(int featureID) {
+		switch (featureID) {
+			case GithubwfPackage.NORMAL_JOB_IF__IF_:
+				return if_ != null;
+		}
+		return super.eIsSet(featureID);
+	}
+
+} //NormalJobIfImpl

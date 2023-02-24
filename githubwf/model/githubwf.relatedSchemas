@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="ASCII"?>
+<relatedSchemas:RelatedSchemas xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:relatedSchemas="http://at.jku.bise/relatedSchemas">
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//RefOneOf0"/>
+    <allOf>
+      <allOfs href="githubwfOpt.ecore#//RefOneOf0AllOf0"/>
+      <allOfs href="githubwfOpt.ecore#//RefOneOf0AllOf1"/>
+      <allOfs href="githubwfOpt.ecore#//RefOneOf0AllOf2"/>
+    </allOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobStepsItems"/>
+    <allOf>
+      <allOfs href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0"/>
+      <allOfs href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1"/>
+    </allOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0"/>
+    <allOf>
+      <allOfs href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0"/>
+      <allOfs href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1"/>
+    </allOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Shell"/>
+    <anyOf>
+      <anyOfs href="githubwfOpt.ecore#//ShellAnyOf0"/>
+      <anyOfs href="githubwfOpt.ecore#//ShellAnyOf1"/>
+    </anyOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1"/>
+    <anyOf>
+      <anyOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0"/>
+      <anyOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1"/>
+      <anyOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2"/>
+      <anyOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3"/>
+      <anyOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4"/>
+    </anyOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progress"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Configuration"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ConfigurationOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ConfigurationOneOf1"/>
+      <oneOfs href="githubwfOpt.ecore#//ConfigurationOneOf2"/>
+      <oneOfs href="githubwfOpt.ecore#//ConfigurationOneOf3"/>
+      <oneOfs href="githubwfOpt.ecore#//ConfigurationOneOf4"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ContainerPortsItems"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ContainerPortsItemsOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ContainerPortsItemsOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Permissions"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//PermissionsOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//PermissionsOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Env"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//EnvOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//EnvOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//EnvOneOf0AdditionalProperties"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//EnvOneOf0AdditionalPropertiesOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//EnvOneOf0AdditionalPropertiesOneOf1"/>
+      <oneOfs href="githubwfOpt.ecore#//EnvOneOf0AdditionalPropertiesOneOf2"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//EventObject"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//EventObjectOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//EventObjectOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Ref"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//RefOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//RefOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//JobNeeds"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//JobNeedsOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//JobNeedsOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecrets"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrix"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalProperties"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrency"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45on"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf2"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobEnvironment"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobEnvironmentOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobEnvironmentOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45error"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobStrategyMatrix"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStrategyMatrixOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStrategyMatrixOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalProperties"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalPropertiesOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalPropertiesOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobContinue_45on_45error"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobContainer"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobContainerOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobContainerOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobConcurrency"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobConcurrencyOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//NormalJobConcurrencyOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOn"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootOnOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootOnOneOf1"/>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootOnOneOf2"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootConcurrency"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootConcurrencyOneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootConcurrencyOneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0"/>
+    <oneOf>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0OneOf0"/>
+      <oneOfs href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0OneOf1"/>
+    </oneOf>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//RefOneOf0AllOf0"/>
+    <not>
+      <not href="githubwfOpt.ecore#//RefOneOf0AllOf0Not"/>
+    </not>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//RefOneOf0AllOf1"/>
+    <not>
+      <not href="githubwfOpt.ecore#//RefOneOf0AllOf1Not"/>
+    </not>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//RefOneOf0AllOf2"/>
+    <not>
+      <not href="githubwfOpt.ecore#//RefOneOf0AllOf2Not"/>
+    </not>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Architecture"/>
+    <constEnum>
+      <enum propertyName="architecture">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//PermissionsOneOf0"/>
+    <constEnum>
+      <enum propertyName="permissions">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.6/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.6/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.1/@items.1"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Permissions_45level"/>
+    <constEnum>
+      <enum propertyName="permissions_45level">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.8/@value/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.8/@value/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.8/@value/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Event"/>
+    <constEnum>
+      <enum propertyName="event">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.6"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.7"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.8"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.9"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.10"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.11"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.12"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.13"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.14"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.15"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.16"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.17"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.18"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.19"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.20"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.21"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.22"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.23"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.24"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.25"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.26"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.27"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.28"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.29"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.30"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.31"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.32"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.11/@value/@keywordDefinition.2/@items.33"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//Machine"/>
+    <constEnum>
+      <enum propertyName="machine">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.16/@value/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.16/@value/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.16/@value/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ShellAnyOf1"/>
+    <constEnum>
+      <enum propertyName="shell">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.20/@value/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.2/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.20/@value/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.2/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.20/@value/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.2/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.20/@value/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.2/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.20/@value/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.2/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.20/@value/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.2/@items.5"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsOneOf1"/>
+    <constEnum>
+      <enum propertyName="secrets">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.24/@value/@keywordDefinition.3/@keySchemaPairs.6/@value/@keywordDefinition.2/@oneOf/@items.1/@keywordDefinition.1/@items.0"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf0"/>
+    <constEnum>
+      <enum propertyName="runs_45on">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.6"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.7"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.8"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.9"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.10"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.0/@keywordDefinition.2/@items.11"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Branch_protection_ruleTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_runTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.1/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.1/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.1/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.1/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_suiteTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.2/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.2/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.2/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2DiscussionTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.6"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.7"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.8"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.9"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.10"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.11"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.7/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.12"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Discussion_commentTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.8/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.8/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.8/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Issue_commentTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.11/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.11/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.11/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2IssuesTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.6"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.7"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.8"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.9"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.10"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.11"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.12"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.13"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.14"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.12/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.15"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2LabelTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.13/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.13/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.13/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MemberTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.14/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.14/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.14/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Merge_groupTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.15/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MilestoneTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.16/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.16/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.16/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.16/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.16/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ProjectTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.18/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.18/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.18/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.18/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.18/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.18/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.5"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_cardTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.19/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.19/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.19/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.19/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.19/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_columnTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.20/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.20/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.20/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.20/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.6"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.7"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.8"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.9"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.10"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.11"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.12"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.13"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.14"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.15"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.22/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.16"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_reviewTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.23/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.23/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.23/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_review_commentTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.24/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.24/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.24/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.6"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.7"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.8"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.9"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.10"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.11"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.12"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.13"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.14"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.15"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.16"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Registry_packageTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.27/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.27/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ReleaseTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.3"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.4"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.5"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.28/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.6"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0Type"/>
+    <constEnum>
+      <enum propertyName="type">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.31/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.3/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.31/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.3/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.31/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.3/@items.2"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Type"/>
+    <constEnum>
+      <enum propertyName="type">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.32/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.4/@value/@keywordDefinition.2/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.32/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.4/@value/@keywordDefinition.2/@items.1"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.32/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.4/@value/@keywordDefinition.2/@items.2"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.32/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.4/@value/@keywordDefinition.2/@items.3"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runTypesItems"/>
+    <constEnum>
+      <enum propertyName="items">
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.33/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.0"/>
+        <enum href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.33/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.1/@anyOf/@anyOf1/@keywordDefinition.1/@items.1"/>
+      </enum>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0Items0"/>
+    <constEnum>
+      <const propertyName="items0">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.1/@keywordDefinition.2/@anyOf/@items.0/@keywordDefinition.0/@anyOf/@anyOf2/@items.0/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1Items0"/>
+    <constEnum>
+      <const propertyName="items0">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.1/@keywordDefinition.2/@anyOf/@items.1/@keywordDefinition.0/@anyOf/@anyOf2/@items.0/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2Items0"/>
+    <constEnum>
+      <const propertyName="items0">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.1/@keywordDefinition.2/@anyOf/@items.2/@keywordDefinition.0/@anyOf/@anyOf2/@items.0/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3Items0"/>
+    <constEnum>
+      <const propertyName="items0">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.1/@keywordDefinition.2/@anyOf/@items.3/@keywordDefinition.0/@anyOf/@anyOf2/@items.0/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4Items0"/>
+    <constEnum>
+      <const propertyName="items0">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.3/@keySchemaPairs.25/@value/@keywordDefinition.3/@keySchemaPairs.3/@value/@keywordDefinition.2/@oneOf/@items.1/@keywordDefinition.2/@anyOf/@items.4/@keywordDefinition.0/@anyOf/@anyOf2/@items.0/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfType"/>
+    <constEnum>
+      <const propertyName="type">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.32/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.4/@allOf/@items.0/@keywordDefinition.0/@if/@keywordDefinition.0/@keySchemaPairs.0/@value/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfType"/>
+    <constEnum>
+      <const propertyName="type">
+        <const href="../githubwf.jschema#//@schema/@keywordDefinition.4/@keySchemaPairs.1/@value/@keywordDefinition.2/@oneOf/@items.2/@keywordDefinition.1/@keySchemaPairs.32/@value/@keywordDefinition.2/@keySchemaPairs.0/@value/@keywordDefinition.3/@keySchemaPairs.0/@value/@keywordDefinition.4/@allOf/@items.1/@keywordDefinition.0/@if/@keywordDefinition.0/@keySchemaPairs.0/@value/@keywordDefinition.0/@const"/>
+      </const>
+    </constEnum>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0"/>
+    <ifThenElse>
+      <if href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0If"/>
+      <then href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0Then"/>
+      <else href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0Else"/>
+    </ifThenElse>
+  </enclosingschemas>
+  <enclosingschemas>
+    <enclosingSchema href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1"/>
+    <ifThenElse>
+      <if href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1If"/>
+      <then href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1Then"/>
+    </ifThenElse>
+  </enclosingschemas>
+</relatedSchemas:RelatedSchemas>

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="ASCII"?>
+<jsongrammar:JsonGrammar xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:jsongrammar="http://at.jku.bise/jsongrammar/1.0" nsURI="http://jku.bise.at/githubwf">
+  <detailedGrammar>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ConcurrencyGroup/group"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeString/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeInteger/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeNumber/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeBoolean/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeObject/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeArray/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeNull/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressOneOf0/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ContainerImage/image"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ContainerCredentials/credentials"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ContainerCredentialsUsername/username"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ContainerCredentialsPassword/password"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ContainerOptions/options"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//DefaultsRun/run"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//EnvironmentName/name"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//EnvironmentUrl/url"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobName/name"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobIfTypeBoolean/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobIfTypeNumber/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobIfTypeString/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobUses/uses"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeString/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeInteger/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeNumber/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeBoolean/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeObject/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeArray/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeNull/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsOneOf1/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategy/strategy"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeString/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeInteger/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeNumber/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeBoolean/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeObject/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeArray/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeNull/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixOneOf0/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyFail_45fast/fail_45fast"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMax_45parallel/max_45parallel"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeString/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeInteger/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeNumber/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeBoolean/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeObject/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeArray/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeNull/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyOneOf0/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobName/name"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeString/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeInteger/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeNumber/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeBoolean/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeObject/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeArray/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onTypeNull/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf0/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeString/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeInteger/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeNumber/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeBoolean/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeObject/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeNull/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeString/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeInteger/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeNumber/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeBoolean/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeObject/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeNull/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeString/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeInteger/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeNumber/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeBoolean/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeObject/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeNull/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeString/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeInteger/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeNumber/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeBoolean/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeObject/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeNull/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeString/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeInteger/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeNumber/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeBoolean/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeObject/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeNull/runs_45on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeString/environment"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeInteger/environment"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeNumber/environment"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeBoolean/environment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeObject/environment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeArray/environment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobEnvironmentTypeNull/environment"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobEnvironmentOneOf0/environment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobOutputs/outputs"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobIfTypeBoolean/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobIfTypeNumber/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobIfTypeString/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf0Uses/uses"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf1Run/run"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Id/id"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1IfTypeBoolean/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1IfTypeNumber/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1IfTypeString/if_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Name/name"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Uses/uses"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Run/run"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1WithArgs/args"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1WithEntrypoint/entrypoint"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeString/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeInteger/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeNumber/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeBoolean/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeObject/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeArray/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeNull/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorOneOf0/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Timeout_45minutes/timeout_45minutes"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobTimeout_45minutes/timeout_45minutes"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStrategy/strategy"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeString/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeInteger/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeNumber/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeBoolean/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeObject/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeArray/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeNull/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStrategyMatrixOneOf0/matrix"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStrategyFail_45fast/fail_45fast"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobStrategyMax_45parallel/max_45parallel"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeString/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeInteger/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeNumber/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeBoolean/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeObject/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeArray/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeNull/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorOneOf0/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContainerTypeString/container"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContainerTypeInteger/container"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContainerTypeNumber/container"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContainerTypeBoolean/container"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContainerTypeObject/container"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContainerTypeArray/container"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContainerTypeNull/container"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobContainerOneOf0/container"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobServices/services"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeString/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeInteger/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeNumber/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeBoolean/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeObject/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeArray/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobConcurrencyTypeNull/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//NormalJobConcurrencyOneOf0/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootName/name"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnTypeString/on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnTypeInteger/on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnTypeNumber/on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnTypeBoolean/on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnTypeObject/on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnTypeArray/on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnTypeNull/on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2/on"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeString/workflow_call"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeInteger/workflow_call"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeNumber/workflow_call"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeBoolean/workflow_call"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeObject/workflow_call"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeArray/workflow_call"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeNull/workflow_call"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputs/inputs"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0Description/description"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DeprecationMessage/deprecationMessage"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0Required/required"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0Type/type"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBoolean/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumber/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeString/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeString/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeInteger/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeNumber/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeBoolean/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeObject/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeArray/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeNull/secrets"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0Description/description"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeString/required"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeInteger/required"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumber/required"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBoolean/required"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObject/required"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArray/required"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNull/required"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeString/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeInteger/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeNumber/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeBoolean/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeObject/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeArray/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeNull/workflow_dispatch"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputs/inputs"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Description/description"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DeprecationMessage/deprecationMessage"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Required/required"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeString/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeInteger/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumber/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBoolean/default_"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObject/default_"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArray/default_"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNull/default_"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Type/type"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfType/type"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenDefault/default_"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseDefault/default_"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfType/type"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ScheduleItemsCron/cron"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeString/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeInteger/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeNumber/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeBoolean/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeObject/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeArray/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeNull/concurrency"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootConcurrencyOneOf0/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootJobs/jobs"/>
+    <keywords xsi:type="ecore:EAttribute" href="githubwfOpt.ecore#//GithubwfRootRun_45name/run_45name"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeArray/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeArray/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeArray/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeArray/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeArray/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ContainerPorts/ports"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ContainerVolumes/volumes"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobSteps/steps"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf1/on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Options/options"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runWorkflows/workflows"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Schedule/schedule"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressOneOf1/cancel_45in_45progress"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ContainerEnv/env"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//DefaultsRunShell/shell"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//DefaultsRunWorking_45directory/working_45directory"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventActions/actions"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventChecks/checks"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventContents/contents"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventDeployments/deployments"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventDiscussions/discussions"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventId_45token/id_45token"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventIssues/issues"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventPackages/packages"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventPages/pages"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventPull_45requests/pull_45requests"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventRepository_45projects/repository_45projects"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventSecurity_45events/security_45events"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//Permissions_45eventStatuses/statuses"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//RefBranches/branches"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//RefBranches_45ignore/branches_45ignore"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//RefTags/tags"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//RefTags_45ignore/tags_45ignore"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//RefPaths/paths"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//RefPaths_45ignore/paths_45ignore"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobNeeds/needs"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobPermissions/permissions"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobWith/with"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsOneOf0/secrets"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixOneOf1/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyOneOf1/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobNeeds/needs"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobPermissions/permissions"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf2/runs_45on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobEnvironmentOneOf1/environment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobEnv/env"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobDefaults/defaults"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Working_45directory/working_45directory"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Shell/shell"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1With/with"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Env/env"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorOneOf1/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobStrategyMatrixOneOf1/matrix"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorOneOf1/continue_45on_45error"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobContainerOneOf1/container"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//NormalJobConcurrencyOneOf1/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf0/on"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Branch_protection_rule/branch_protection_rule"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Branch_protection_ruleTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_run/check_run"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_runTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_suite/check_suite"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_suiteTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Create/create"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Delete/delete"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Deployment/deployment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Deployment_status/deployment_status"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Discussion/discussion"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2DiscussionTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Discussion_comment/discussion_comment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Discussion_commentTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Fork/fork"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Gollum/gollum"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Issue_comment/issue_comment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Issue_commentTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Issues/issues"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2IssuesTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Label/label"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2LabelTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Member/member"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MemberTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Merge_group/merge_group"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Merge_groupTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Milestone/milestone"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MilestoneTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Page_build/page_build"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project/project"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ProjectTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_card/project_card"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_cardTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_column/project_column"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_columnTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Public/public_"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request/pull_request"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_review/pull_request_review"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_reviewTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_review_comment/pull_request_review_comment"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_review_commentTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_target/pull_request_target"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Push/push"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Registry_package/registry_package"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Registry_packageTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Release/release"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ReleaseTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Status/status"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Watch/watch"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_run/workflow_run"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runTypes/types"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Repository_dispatch/repository_dispatch"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootEnv/env"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootDefaults/defaults"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootConcurrencyOneOf1/concurrency"/>
+    <keywords xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootPermissions/permissions"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRoot/githubwfRoot"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//Concurrency/concurrency"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeObject/cancel_45in_45progress"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ConfigurationTypeObject/configuration"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ConfigurationOneOf3/configuration"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//Container/container"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ContainerCredentials/credentials"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ContainerPortsItemsTypeObject/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//Defaults/defaults"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//DefaultsRun/run"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//PermissionsTypeObject/permissions"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//Permissions_45event/permissions_45event"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//EnvTypeObject/env"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//EnvOneOf0/env"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//EnvOneOf0AdditionalPropertiesTypeObject/additionalProperties"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//Environment/environment"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//EventObjectTypeObject/eventObject"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//EventObjectOneOf0/eventObject"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefTypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0AllOf0TypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0AllOf0NotTypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0AllOf1TypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0AllOf1NotTypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0AllOf2TypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//RefOneOf0AllOf2NotTypeObject/ref"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ShellTypeObject/shell"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//JobNeedsTypeObject/jobNeeds"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJob/reusableWorkflowCallJob"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeObject/secrets"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategy/strategy"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeObject/matrix"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixOneOf0/matrix"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixPatternProperties0Items/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesTypeObject/additionalProperties"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeObject/concurrency"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJob/normalJob"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobRuns_45onTypeObject/runs_45on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeObject/runs_45on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeObject/runs_45on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeObject/runs_45on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeObject/runs_45on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeObject/runs_45on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobEnvironmentTypeObject/environment"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobOutputs/outputs"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStepsItemsTypeObject/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0TypeObject/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf0/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf1/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeObject/continue_45on_45error"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStrategy/strategy"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeObject/matrix"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixOneOf0/matrix"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixPatternProperties0Items/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalPropertiesTypeObject/additionalProperties"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeObject/continue_45on_45error"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobContainerTypeObject/container"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobServices/services"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//NormalJobConcurrencyTypeObject/concurrency"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnTypeObject/on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2/on"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeObject/workflow_call"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputs/inputs"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeObject/secrets"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObject/required"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeObject/workflow_dispatch"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputs/inputs"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObject/default_"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPatternProperties0TypeObject/patternProperties0"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ScheduleItemsTypeObject/items"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeObject/concurrency"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootJobs/jobs"/>
+    <curlyBracesReferences href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0TypeObject/patternProperties0"/>
+    <bracketsReferences href="http://at.jku.bise/jsonMM#//ArrayValue/value"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressTypeArray/cancel_45in_45progress"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ConfigurationTypeArray/configuration"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ContainerPortsItemsTypeArray/items"/>
+    <bracketsReferences href="githubwfOpt.ecore#//PermissionsTypeArray/permissions"/>
+    <bracketsReferences href="githubwfOpt.ecore#//EnvTypeArray/env"/>
+    <bracketsReferences href="githubwfOpt.ecore#//EnvOneOf0AdditionalPropertiesTypeArray/additionalProperties"/>
+    <bracketsReferences href="githubwfOpt.ecore#//EventObjectTypeArray/eventObject"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefTypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefOneOf0AllOf0TypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefOneOf0AllOf0NotTypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefOneOf0AllOf1TypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefOneOf0AllOf1NotTypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefOneOf0AllOf2TypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//RefOneOf0AllOf2NotTypeArray/ref"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ShellTypeArray/shell"/>
+    <bracketsReferences href="githubwfOpt.ecore#//Types/types"/>
+    <bracketsReferences href="githubwfOpt.ecore#//JobNeedsTypeArray/jobNeeds"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsTypeArray/secrets"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixTypeArray/matrix"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesTypeArray/additionalProperties"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyTypeArray/concurrency"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onTypeArray/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobEnvironmentTypeArray/environment"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStepsItemsTypeArray/items"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0TypeArray/items"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorTypeArray/continue_45on_45error"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixTypeArray/matrix"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalPropertiesTypeArray/additionalProperties"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorTypeArray/continue_45on_45error"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobContainerTypeArray/container"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobConcurrencyTypeArray/concurrency"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnTypeArray/on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestPatternProperties0/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callTypeArray/workflow_call"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsTypeArray/secrets"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArray/required"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchTypeArray/workflow_dispatch"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArray/default_"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPatternProperties0TypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ScheduleItemsTypeArray/items"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootConcurrencyTypeArray/concurrency"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0TypeArray/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0TypeArray/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1TypeArray/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2TypeArray/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3TypeArray/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4TypeArray/runs_45on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ConfigurationOneOf4/configuration"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ContainerPorts/ports"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ContainerVolumes/volumes"/>
+    <bracketsReferences href="githubwfOpt.ecore#//Globs/globs"/>
+    <bracketsReferences href="githubwfOpt.ecore#//JobNeedsOneOf0/jobNeeds"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixPatternProperties0/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesOneOf0/additionalProperties"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobSteps/steps"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixPatternProperties0/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalPropertiesOneOf0/additionalProperties"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf1/on"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2PushPatternProperties0/patternProperties0"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0Options/options"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runWorkflows/workflows"/>
+    <bracketsReferences href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Schedule/schedule"/>
+    <keyValue href="http://at.jku.bise/jsonMM#//KeyValuePair/key"/>
+    <keyValue href="githubwfOpt.ecore#//EventObjectAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ConfigurationOneOf3AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//EnvOneOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixPatternProperties0ItemsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobOutputsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStrategyMatrixPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStrategyMatrixPatternProperties0ItemsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobServicesAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2PushPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0/key"/>
+    <keyValue href="githubwfOpt.ecore#//ConcurrencyCancel_45in_45progressAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ConfigurationAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ContainerCredentialsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ContainerPortsItemsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//PermissionsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//EnvAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//EnvOneOf0AdditionalPropertiesAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//EventObjectOneOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AllOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AllOf0NotAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AllOf1AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AllOf1NotAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AllOf2AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//RefOneOf0AllOf2NotAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ShellAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//JobNeedsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobSecretsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixOneOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobStrategyMatrixAdditionalPropertiesAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//ReusableWorkflowCallJobConcurrencyAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobRuns_45onAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobEnvironmentAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStepsItemsAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf0OneOf1AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStrategyMatrixOneOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobStrategyMatrixAdditionalPropertiesAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobContinue_45on_45errorAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobContainerAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//NormalJobConcurrencyAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootConcurrencyAdditionalProperties/key"/>
+    <keyValue href="githubwfOpt.ecore#//GithubwfRootJobsPatternProperties0AdditionalProperties/key"/>
+    <curlyBracesEClass href="http://at.jku.bise/jsonMM#//ObjectValue"/>
+    <rootEClass href="githubwfOpt.ecore#//GithubwfRoot"/>
+    <tuples href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf0Tuple"/>
+    <tuples href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf1Tuple"/>
+    <tuples href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf2Tuple"/>
+    <tuples href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf3Tuple"/>
+    <tuples href="githubwfOpt.ecore#//NormalJobRuns_45onOneOf1AnyOf4Tuple"/>
+  </detailedGrammar>
+</jsongrammar:JsonGrammar>
