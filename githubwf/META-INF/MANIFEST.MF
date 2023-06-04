@@ -10,14 +10,6 @@ Bundle-Localization: plugin
 Export-Package: githubwf,githubwf.impl,githubwf.util
 Require-Bundle: org.eclipse.core.runtime,org.eclipse.emf.ecore;visibilit
  y:=reexport,org.eclipse.emf.ecore.xmi;visibility:=reexport,jsonMM;visib
- ility:=reexport,jku.se.atl.transformation.utils,jku.se.atl.transformati
- on.utils,jku.se.atl.transformation.utils,jku.se.atl.transformation.util
- s,jku.se.atl.transformation.utils,jku.se.atl.transformation.utils,jku.s
- e.atl.transformation.utils,jku.se.atl.transformation.utils,jku.se.atl.t
- ransformation.utils,jku.se.atl.transformation.utils,jku.se.atl.transfor
- mation.utils,jku.se.atl.transformation.utils,jku.se.atl.transformation.
- utils,jku.se.atl.transformation.utils,jku.se.atl.transformation.utils,j
- ku.se.atl.transformation.utils,jku.se.atl.transformation.utils,jku.se.a
- tl.transformation.utils,jku.se.atl.transformation.utils
+ ility:=reexport,jku.se.atl.transformation.utils
 Bundle-ActivationPolicy: lazy
 

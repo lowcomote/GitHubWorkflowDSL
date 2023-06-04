@@ -4,6 +4,8 @@ package githubwf;
 
 import org.eclipse.emf.common.util.EList;
 
+import org.eclipse.emf.ecore.EObject;
+
 /**
  * <!-- begin-user-doc -->
  * A representation of the model object '<em><b>Root On One Of2 Pull request Pattern Properties0</b></em>'.
@@ -22,7 +24,7 @@ import org.eclipse.emf.common.util.EList;
  *        annotation="Type Type='array'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Pull_requestPatternProperties0 extends GithubwfRootOnOneOf2Pull_requestPropertiesAbstract {
+public interface GithubwfRootOnOneOf2Pull_requestPatternProperties0 extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Key</b></em>' attribute.
 	 * <!-- begin-user-doc -->

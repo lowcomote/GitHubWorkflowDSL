@@ -218,10 +218,10 @@ public class GithubwfRootOnOneOf2Validator extends AbstractGithubwfRootOnOneOf2V
 	}
 
 	@Check
-	public void validateGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0(githubwf.GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0 patternProperties){
+	public void validateGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0(githubwf.GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0 patternProperties){
 		if(this.processedPatternProperties.contains(patternProperties)) return;
 		githubwf.GithubwfPackage ePackage = githubwf.GithubwfPackage.eINSTANCE;
-		EClass underValidationEClass = (EClass) ePackage.getEClassifier("GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0");
+		EClass underValidationEClass = (EClass) ePackage.getEClassifier("GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0");
 		List<EClass> matchingSiblings = Utils.findMatchingPatternPropertiesSiblings(underValidationEClass, patternProperties.getKey(), ePackage);
 		
 		if(!matchingSiblings.isEmpty()){
@@ -328,10 +328,10 @@ public class GithubwfRootOnOneOf2Validator extends AbstractGithubwfRootOnOneOf2V
 	}
 
 	@Check
-	public void validateGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0(githubwf.GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0 patternProperties){
+	public void validateGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0(githubwf.GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0 patternProperties){
 		if(this.processedPatternProperties.contains(patternProperties)) return;
 		githubwf.GithubwfPackage ePackage = githubwf.GithubwfPackage.eINSTANCE;
-		EClass underValidationEClass = (EClass) ePackage.getEClassifier("GithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0");
+		EClass underValidationEClass = (EClass) ePackage.getEClassifier("GithubwfRootOnOneOf2Workflow_callInputsPatternProperties0");
 		List<EClass> matchingSiblings = Utils.findMatchingPatternPropertiesSiblings(underValidationEClass, patternProperties.getKey(), ePackage);
 		
 		if(!matchingSiblings.isEmpty()){

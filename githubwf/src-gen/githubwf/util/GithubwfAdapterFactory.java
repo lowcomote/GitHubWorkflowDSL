@@ -2872,10 +2872,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 				return createNormalJobStepsItemsAllOf1IfTypeStringAdapter();
 			}
 			@Override
-			public Adapter caseNormalJobStepsItemsAllOf1WithPropertiesAbstract(NormalJobStepsItemsAllOf1WithPropertiesAbstract object) {
-				return createNormalJobStepsItemsAllOf1WithPropertiesAbstractAdapter();
-			}
-			@Override
 			public Adapter caseNormalJobStepsItemsAllOf1Continue_45on_45errorAbstract(NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract object) {
 				return createNormalJobStepsItemsAllOf1Continue_45on_45errorAbstractAdapter();
 			}
@@ -3204,80 +3200,8 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 				return createGithubwfRootOnOneOf2PropertiesAbstractAdapter();
 			}
 			@Override
-			public Adapter caseGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract(GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Check_runPropertiesAbstract(GithubwfRootOnOneOf2Check_runPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Check_runPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Check_suitePropertiesAbstract(GithubwfRootOnOneOf2Check_suitePropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Check_suitePropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2DiscussionPropertiesAbstract(GithubwfRootOnOneOf2DiscussionPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2DiscussionPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract(GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Discussion_commentPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Issue_commentPropertiesAbstract(GithubwfRootOnOneOf2Issue_commentPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Issue_commentPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2IssuesPropertiesAbstract(GithubwfRootOnOneOf2IssuesPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2IssuesPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2LabelPropertiesAbstract(GithubwfRootOnOneOf2LabelPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2LabelPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2MemberPropertiesAbstract(GithubwfRootOnOneOf2MemberPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2MemberPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Merge_groupPropertiesAbstract(GithubwfRootOnOneOf2Merge_groupPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Merge_groupPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2MilestonePropertiesAbstract(GithubwfRootOnOneOf2MilestonePropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2MilestonePropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2ProjectPropertiesAbstract(GithubwfRootOnOneOf2ProjectPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2ProjectPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Project_cardPropertiesAbstract(GithubwfRootOnOneOf2Project_cardPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Project_cardPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Project_columnPropertiesAbstract(GithubwfRootOnOneOf2Project_columnPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Project_columnPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Pull_requestPropertiesAbstract(GithubwfRootOnOneOf2Pull_requestPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Pull_requestPropertiesAbstractAdapter();
-			}
-			@Override
 			public Adapter caseGithubwfRootOnOneOf2Pull_requestPatternProperties0Items(GithubwfRootOnOneOf2Pull_requestPatternProperties0Items object) {
 				return createGithubwfRootOnOneOf2Pull_requestPatternProperties0ItemsAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract(GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract(GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract(GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstractAdapter();
 			}
 			@Override
 			public Adapter caseGithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract(GithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract object) {
@@ -3322,18 +3246,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 			@Override
 			public Adapter caseGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull(GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull object) {
 				return createGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2PushPropertiesAbstract(GithubwfRootOnOneOf2PushPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2PushPropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Registry_packagePropertiesAbstract(GithubwfRootOnOneOf2Registry_packagePropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Registry_packagePropertiesAbstractAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2ReleasePropertiesAbstract(GithubwfRootOnOneOf2ReleasePropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2ReleasePropertiesAbstractAdapter();
 			}
 			@Override
 			public Adapter caseGithubwfRootOnOneOf2Workflow_callAbstract(GithubwfRootOnOneOf2Workflow_callAbstract object) {
@@ -3930,10 +3842,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 			@Override
 			public Adapter caseGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull(GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull object) {
 				return createGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNullAdapter();
-			}
-			@Override
-			public Adapter caseGithubwfRootOnOneOf2Workflow_runPropertiesAbstract(GithubwfRootOnOneOf2Workflow_runPropertiesAbstract object) {
-				return createGithubwfRootOnOneOf2Workflow_runPropertiesAbstractAdapter();
 			}
 			@Override
 			public Adapter caseGithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract(GithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract object) {
@@ -13946,20 +13854,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 	}
 
 	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.NormalJobStepsItemsAllOf1WithPropertiesAbstract <em>Normal Job Steps Items All Of1 With Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.NormalJobStepsItemsAllOf1WithPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createNormalJobStepsItemsAllOf1WithPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
 	 * Creates a new adapter for an object of class '{@link githubwf.NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract <em>Normal Job Steps Items All Of1 Continue 45on 45error Abstract</em>}'.
 	 * <!-- begin-user-doc -->
 	 * This default implementation returns null so that we can easily ignore cases;
@@ -15108,216 +15002,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 	}
 
 	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract <em>Root On One Of2 Branch protection rule Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Check_runPropertiesAbstract <em>Root On One Of2 Check run Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Check_runPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Check_runPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Check_suitePropertiesAbstract <em>Root On One Of2 Check suite Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Check_suitePropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Check_suitePropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2DiscussionPropertiesAbstract <em>Root On One Of2 Discussion Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2DiscussionPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2DiscussionPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract <em>Root On One Of2 Discussion comment Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Discussion_commentPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Issue_commentPropertiesAbstract <em>Root On One Of2 Issue comment Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Issue_commentPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Issue_commentPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2IssuesPropertiesAbstract <em>Root On One Of2 Issues Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2IssuesPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2IssuesPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2LabelPropertiesAbstract <em>Root On One Of2 Label Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2LabelPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2LabelPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2MemberPropertiesAbstract <em>Root On One Of2 Member Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2MemberPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2MemberPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Merge_groupPropertiesAbstract <em>Root On One Of2 Merge group Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Merge_groupPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Merge_groupPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2MilestonePropertiesAbstract <em>Root On One Of2 Milestone Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2MilestonePropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2MilestonePropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2ProjectPropertiesAbstract <em>Root On One Of2 Project Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2ProjectPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2ProjectPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Project_cardPropertiesAbstract <em>Root On One Of2 Project card Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Project_cardPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Project_cardPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Project_columnPropertiesAbstract <em>Root On One Of2 Project column Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Project_columnPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Project_columnPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Pull_requestPropertiesAbstract <em>Root On One Of2 Pull request Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_requestPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Pull_requestPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
 	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Pull_requestPatternProperties0Items <em>Root On One Of2 Pull request Pattern Properties0 Items</em>}'.
 	 * <!-- begin-user-doc -->
 	 * This default implementation returns null so that we can easily ignore cases;
@@ -15328,48 +15012,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 	 * @generated
 	 */
 	public Adapter createGithubwfRootOnOneOf2Pull_requestPatternProperties0ItemsAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract <em>Root On One Of2 Pull request review Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract <em>Root On One Of2 Pull request review comment Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract <em>Root On One Of2 Pull request target Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstractAdapter() {
 		return null;
 	}
 
@@ -15524,48 +15166,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 	 * @generated
 	 */
 	public Adapter createGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2PushPropertiesAbstract <em>Root On One Of2 Push Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2PushPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2PushPropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Registry_packagePropertiesAbstract <em>Root On One Of2 Registry package Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Registry_packagePropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Registry_packagePropertiesAbstractAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2ReleasePropertiesAbstract <em>Root On One Of2 Release Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2ReleasePropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2ReleasePropertiesAbstractAdapter() {
 		return null;
 	}
 
@@ -17652,20 +17252,6 @@ public class GithubwfAdapterFactory extends AdapterFactoryImpl {
 	 * @generated
 	 */
 	public Adapter createGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNullAdapter() {
-		return null;
-	}
-
-	/**
-	 * Creates a new adapter for an object of class '{@link githubwf.GithubwfRootOnOneOf2Workflow_runPropertiesAbstract <em>Root On One Of2 Workflow run Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * This default implementation returns null so that we can easily ignore cases;
-	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
-	 * <!-- end-user-doc -->
-	 * @return the new adapter.
-	 * @see githubwf.GithubwfRootOnOneOf2Workflow_runPropertiesAbstract
-	 * @generated
-	 */
-	public Adapter createGithubwfRootOnOneOf2Workflow_runPropertiesAbstractAdapter() {
 		return null;
 	}
 

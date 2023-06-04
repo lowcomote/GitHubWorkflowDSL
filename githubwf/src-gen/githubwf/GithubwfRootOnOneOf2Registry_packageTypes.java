@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -19,7 +20,7 @@ package githubwf;
  * @model annotation="Default Default='[published,updated]'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Registry_packageTypes extends GithubwfRootOnOneOf2Registry_packagePropertiesAbstract {
+public interface GithubwfRootOnOneOf2Registry_packageTypes extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Types</b></em>' containment reference.
 	 * <!-- begin-user-doc -->

@@ -8264,34 +8264,6 @@ public interface GithubwfPackage extends EPackage {
 	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_OPERATION_COUNT = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.NormalJobStepsItemsAllOf1WithPropertiesAbstractImpl <em>Normal Job Steps Items All Of1 With Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.NormalJobStepsItemsAllOf1WithPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1WithPropertiesAbstract()
-	 * @generated
-	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT = 701;
-
-	/**
-	 * The number of structural features of the '<em>Normal Job Steps Items All Of1 With Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Normal Job Steps Items All Of1 With Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.NormalJobStepsItemsAllOf1WithArgsImpl <em>Normal Job Steps Items All Of1 With Args</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -8308,7 +8280,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS__ARGS = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS__ARGS = 0;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Steps Items All Of1 With Args</em>' class.
@@ -8317,7 +8289,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS_FEATURE_COUNT = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Normal Job Steps Items All Of1 With Args</em>' class.
@@ -8326,7 +8298,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS_OPERATION_COUNT = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.NormalJobStepsItemsAllOf1WithEntrypointImpl <em>Normal Job Steps Items All Of1 With Entrypoint</em>}' class.
@@ -8345,7 +8317,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT__ENTRYPOINT = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT__ENTRYPOINT = 0;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Steps Items All Of1 With Entrypoint</em>' class.
@@ -8354,7 +8326,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT_FEATURE_COUNT = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Normal Job Steps Items All Of1 With Entrypoint</em>' class.
@@ -8363,7 +8335,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT_OPERATION_COUNT = NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.NormalJobStepsItemsAllOf1EnvImpl <em>Normal Job Steps Items All Of1 Env</em>}' class.
@@ -8668,7 +8640,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_PROPERTIES_ABSTRACT = 713;
+	int NORMAL_JOB_STRATEGY_PROPERTIES_ABSTRACT = 712;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Properties Abstract</em>' class.
@@ -8816,7 +8788,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_PROPERTIES_ABSTRACT = 720;
+	int NORMAL_JOB_STRATEGY_MATRIX_PROPERTIES_ABSTRACT = 719;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Matrix Properties Abstract</em>' class.
@@ -8972,7 +8944,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixPatternProperties0ItemsPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_PATTERN_PROPERTIES0_ITEMS_PROPERTIES_ABSTRACT = 726;
+	int NORMAL_JOB_STRATEGY_MATRIX_PATTERN_PROPERTIES0_ITEMS_PROPERTIES_ABSTRACT = 725;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Matrix Pattern Properties0 Items Properties Abstract</em>' class.
@@ -9581,7 +9553,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobServicesPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_SERVICES_PROPERTIES_ABSTRACT = 760;
+	int NORMAL_JOB_SERVICES_PROPERTIES_ABSTRACT = 759;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Services Properties Abstract</em>' class.
@@ -10367,7 +10339,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT = 783;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT = 782;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Properties Abstract</em>' class.
@@ -10425,34 +10397,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractImpl <em>Root On One Of2 Branch protection rule Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT = 784;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Branch protection rule Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Branch protection rule Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Branch_protection_ruleTypesImpl <em>Root On One Of2 Branch protection rule Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -10469,7 +10413,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Branch protection rule Types</em>' class.
@@ -10478,7 +10422,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Branch protection rule Types</em>' class.
@@ -10487,7 +10431,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Branch_protection_ruleTypesItemsImpl <em>Root On One Of2 Branch protection rule Types Items</em>}' class.
@@ -10564,34 +10508,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Check_runPropertiesAbstractImpl <em>Root On One Of2 Check run Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Check_runPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Check_runPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT = 785;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Check run Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Check run Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Check_runTypesImpl <em>Root On One Of2 Check run Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -10608,7 +10524,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Check run Types</em>' class.
@@ -10617,7 +10533,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Check run Types</em>' class.
@@ -10626,7 +10542,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Check_runTypesItemsImpl <em>Root On One Of2 Check run Types Items</em>}' class.
@@ -10703,34 +10619,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Check_suitePropertiesAbstractImpl <em>Root On One Of2 Check suite Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Check_suitePropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Check_suitePropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT = 786;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Check suite Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Check suite Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Check_suiteTypesImpl <em>Root On One Of2 Check suite Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -10747,7 +10635,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Check suite Types</em>' class.
@@ -10756,7 +10644,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Check suite Types</em>' class.
@@ -10765,7 +10653,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Check_suiteTypesItemsImpl <em>Root On One Of2 Check suite Types Items</em>}' class.
@@ -10990,34 +10878,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2DiscussionPropertiesAbstractImpl <em>Root On One Of2 Discussion Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2DiscussionPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2DiscussionPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT = 787;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Discussion Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Discussion Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2DiscussionTypesImpl <em>Root On One Of2 Discussion Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11034,7 +10894,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Discussion Types</em>' class.
@@ -11043,7 +10903,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Discussion Types</em>' class.
@@ -11052,7 +10912,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2DiscussionTypesItemsImpl <em>Root On One Of2 Discussion Types Items</em>}' class.
@@ -11129,34 +10989,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Discussion_commentPropertiesAbstractImpl <em>Root On One Of2 Discussion comment Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Discussion_commentPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT = 788;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Discussion comment Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Discussion comment Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Discussion_commentTypesImpl <em>Root On One Of2 Discussion comment Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11173,7 +11005,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Discussion comment Types</em>' class.
@@ -11182,7 +11014,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Discussion comment Types</em>' class.
@@ -11191,7 +11023,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Discussion_commentTypesItemsImpl <em>Root On One Of2 Discussion comment Types Items</em>}' class.
@@ -11342,34 +11174,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Issue_commentPropertiesAbstractImpl <em>Root On One Of2 Issue comment Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Issue_commentPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Issue_commentPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT = 789;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Issue comment Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Issue comment Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Issue_commentTypesImpl <em>Root On One Of2 Issue comment Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11386,7 +11190,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Issue comment Types</em>' class.
@@ -11395,7 +11199,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Issue comment Types</em>' class.
@@ -11404,7 +11208,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Issue_commentTypesItemsImpl <em>Root On One Of2 Issue comment Types Items</em>}' class.
@@ -11481,34 +11285,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2IssuesPropertiesAbstractImpl <em>Root On One Of2 Issues Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2IssuesPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2IssuesPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT = 790;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Issues Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Issues Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2IssuesTypesImpl <em>Root On One Of2 Issues Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11525,7 +11301,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Issues Types</em>' class.
@@ -11534,7 +11310,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Issues Types</em>' class.
@@ -11543,7 +11319,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2IssuesTypesItemsImpl <em>Root On One Of2 Issues Types Items</em>}' class.
@@ -11620,34 +11396,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2LabelPropertiesAbstractImpl <em>Root On One Of2 Label Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2LabelPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2LabelPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT = 791;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Label Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Label Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2LabelTypesImpl <em>Root On One Of2 Label Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11664,7 +11412,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Label Types</em>' class.
@@ -11673,7 +11421,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Label Types</em>' class.
@@ -11682,7 +11430,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2LabelTypesItemsImpl <em>Root On One Of2 Label Types Items</em>}' class.
@@ -11759,34 +11507,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2MemberPropertiesAbstractImpl <em>Root On One Of2 Member Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2MemberPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2MemberPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT = 792;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Member Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Member Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2MemberTypesImpl <em>Root On One Of2 Member Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11803,7 +11523,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Member Types</em>' class.
@@ -11812,7 +11532,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Member Types</em>' class.
@@ -11821,7 +11541,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2MemberTypesItemsImpl <em>Root On One Of2 Member Types Items</em>}' class.
@@ -11898,34 +11618,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Merge_groupPropertiesAbstractImpl <em>Root On One Of2 Merge group Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Merge_groupPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Merge_groupPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT = 793;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Merge group Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Merge group Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Merge_groupTypesImpl <em>Root On One Of2 Merge group Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -11942,7 +11634,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Merge group Types</em>' class.
@@ -11951,7 +11643,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Merge group Types</em>' class.
@@ -11960,7 +11652,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Merge_groupTypesItemsImpl <em>Root On One Of2 Merge group Types Items</em>}' class.
@@ -12037,34 +11729,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2MilestonePropertiesAbstractImpl <em>Root On One Of2 Milestone Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2MilestonePropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2MilestonePropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT = 794;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Milestone Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Milestone Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2MilestoneTypesImpl <em>Root On One Of2 Milestone Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -12081,7 +11745,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Milestone Types</em>' class.
@@ -12090,7 +11754,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Milestone Types</em>' class.
@@ -12099,7 +11763,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2MilestoneTypesItemsImpl <em>Root On One Of2 Milestone Types Items</em>}' class.
@@ -12213,34 +11877,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2ProjectPropertiesAbstractImpl <em>Root On One Of2 Project Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2ProjectPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ProjectPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT = 795;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Project Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Project Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2ProjectTypesImpl <em>Root On One Of2 Project Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -12257,7 +11893,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Project Types</em>' class.
@@ -12266,7 +11902,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Project Types</em>' class.
@@ -12275,7 +11911,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2ProjectTypesItemsImpl <em>Root On One Of2 Project Types Items</em>}' class.
@@ -12352,34 +11988,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Project_cardPropertiesAbstractImpl <em>Root On One Of2 Project card Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Project_cardPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Project_cardPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT = 796;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Project card Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Project card Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Project_cardTypesImpl <em>Root On One Of2 Project card Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -12396,7 +12004,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Project card Types</em>' class.
@@ -12405,7 +12013,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Project card Types</em>' class.
@@ -12414,7 +12022,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Project_cardTypesItemsImpl <em>Root On One Of2 Project card Types Items</em>}' class.
@@ -12491,34 +12099,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Project_columnPropertiesAbstractImpl <em>Root On One Of2 Project column Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Project_columnPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Project_columnPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT = 797;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Project column Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Project column Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Project_columnTypesImpl <em>Root On One Of2 Project column Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -12535,7 +12115,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Project column Types</em>' class.
@@ -12544,7 +12124,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Project column Types</em>' class.
@@ -12553,7 +12133,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Project_columnTypesItemsImpl <em>Root On One Of2 Project column Types Items</em>}' class.
@@ -12667,34 +12247,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_requestPropertiesAbstractImpl <em>Root On One Of2 Pull request Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Pull_requestPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_requestPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT = 798;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Pull request Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Pull request Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_requestTypesImpl <em>Root On One Of2 Pull request Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -12711,7 +12263,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request Types</em>' class.
@@ -12720,7 +12272,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Pull request Types</em>' class.
@@ -12729,7 +12281,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_requestTypesItemsImpl <em>Root On One Of2 Pull request Types Items</em>}' class.
@@ -12785,7 +12337,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0__KEY = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0__KEY = 0;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -12794,7 +12346,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = 1;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request Pattern Properties0</em>' class.
@@ -12803,7 +12355,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_FEATURE_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_FEATURE_COUNT = 2;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -12812,7 +12364,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___FIND__STRING = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___FIND__STRING = 0;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -12821,7 +12373,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___FIND = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___FIND = 1;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Pattern Properties</em>' operation.
@@ -12830,7 +12382,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = 2;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Properties</em>' operation.
@@ -12839,7 +12391,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT + 3;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = 3;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Pull request Pattern Properties0</em>' class.
@@ -12848,7 +12400,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT_OPERATION_COUNT + 4;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_OPERATION_COUNT = 4;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_reviewImpl <em>Root On One Of2 Pull request review</em>}' class.
@@ -12888,34 +12440,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractImpl <em>Root On One Of2 Pull request review Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT = 800;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Pull request review Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Pull request review Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_reviewTypesImpl <em>Root On One Of2 Pull request review Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -12932,7 +12456,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request review Types</em>' class.
@@ -12941,7 +12465,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Pull request review Types</em>' class.
@@ -12950,7 +12474,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_reviewTypesItemsImpl <em>Root On One Of2 Pull request review Types Items</em>}' class.
@@ -13027,34 +12551,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractImpl <em>Root On One Of2 Pull request review comment Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT = 801;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Pull request review comment Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Pull request review comment Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_review_commentTypesImpl <em>Root On One Of2 Pull request review comment Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -13071,7 +12567,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request review comment Types</em>' class.
@@ -13080,7 +12576,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Pull request review comment Types</em>' class.
@@ -13089,7 +12585,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_review_commentTypesItemsImpl <em>Root On One Of2 Pull request review comment Types Items</em>}' class.
@@ -13166,34 +12662,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstractImpl <em>Root On One Of2 Pull request target Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT = 802;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Pull request target Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Pull request target Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_targetTypesImpl <em>Root On One Of2 Pull request target Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -13210,7 +12678,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request target Types</em>' class.
@@ -13219,7 +12687,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Pull request target Types</em>' class.
@@ -13228,7 +12696,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Pull_request_targetTypesItemsImpl <em>Root On One Of2 Pull request target Types Items</em>}' class.
@@ -13284,7 +12752,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0__KEY = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0__KEY = 0;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -13293,7 +12761,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = 1;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request target Pattern Properties0</em>' class.
@@ -13302,7 +12770,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_FEATURE_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_FEATURE_COUNT = 2;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -13311,7 +12779,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___FIND__STRING = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___FIND__STRING = 0;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -13320,7 +12788,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___FIND = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___FIND = 1;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Pattern Properties</em>' operation.
@@ -13329,7 +12797,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = 2;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Properties</em>' operation.
@@ -13338,7 +12806,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT + 3;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = 3;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Pull request target Pattern Properties0</em>' class.
@@ -13347,7 +12815,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT_OPERATION_COUNT + 4;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_OPERATION_COUNT = 4;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2PushImpl <em>Root On One Of2 Push</em>}' class.
@@ -13387,34 +12855,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2PushPropertiesAbstractImpl <em>Root On One Of2 Push Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2PushPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2PushPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT = 814;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Push Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Push Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2PushPatternProperties0Impl <em>Root On One Of2 Push Pattern Properties0</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -13431,7 +12871,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0__KEY = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0__KEY = 0;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -13440,7 +12880,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = 1;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Push Pattern Properties0</em>' class.
@@ -13449,7 +12889,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_FEATURE_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0_FEATURE_COUNT = 2;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -13458,7 +12898,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___FIND__STRING = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___FIND__STRING = 0;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -13467,7 +12907,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___FIND = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___FIND = 1;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Pattern Properties</em>' operation.
@@ -13476,7 +12916,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = 2;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Properties</em>' operation.
@@ -13485,7 +12925,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 3;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = 3;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Push Pattern Properties0</em>' class.
@@ -13494,7 +12934,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT_OPERATION_COUNT + 4;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0_OPERATION_COUNT = 4;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2PushPatternProperties0ItemsImpl <em>Root On One Of2 Push Pattern Properties0 Items</em>}' class.
@@ -13571,34 +13011,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Registry_packagePropertiesAbstractImpl <em>Root On One Of2 Registry package Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Registry_packagePropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Registry_packagePropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT = 815;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Registry package Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Registry package Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Registry_packageTypesImpl <em>Root On One Of2 Registry package Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -13615,7 +13027,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Registry package Types</em>' class.
@@ -13624,7 +13036,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Registry package Types</em>' class.
@@ -13633,7 +13045,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Registry_packageTypesItemsImpl <em>Root On One Of2 Registry package Types Items</em>}' class.
@@ -13710,34 +13122,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2ReleasePropertiesAbstractImpl <em>Root On One Of2 Release Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2ReleasePropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ReleasePropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT = 816;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Release Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Release Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2ReleaseTypesImpl <em>Root On One Of2 Release Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -13754,7 +13138,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Release Types</em>' class.
@@ -13763,7 +13147,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Release Types</em>' class.
@@ -13772,7 +13156,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2ReleaseTypesItemsImpl <em>Root On One Of2 Release Types Items</em>}' class.
@@ -13930,7 +13314,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_PROPERTIES_ABSTRACT = 823;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_PROPERTIES_ABSTRACT = 801;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Properties Abstract</em>' class.
@@ -14004,7 +13388,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callInputsPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PROPERTIES_ABSTRACT = 828;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PROPERTIES_ABSTRACT = 806;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Inputs Properties Abstract</em>' class.
@@ -14168,7 +13552,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 829;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 807;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Inputs Pattern Properties0 Properties Abstract</em>' class.
@@ -14418,7 +13802,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PROPERTIES_ABSTRACT = 840;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PROPERTIES_ABSTRACT = 818;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Secrets Properties Abstract</em>' class.
@@ -14528,7 +13912,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 850;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 828;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Secrets Pattern Properties0 Properties Abstract</em>' class.
@@ -14667,7 +14051,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_PROPERTIES_ABSTRACT = 871;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_PROPERTIES_ABSTRACT = 849;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Properties Abstract</em>' class.
@@ -14741,7 +14125,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PROPERTIES_ABSTRACT = 876;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PROPERTIES_ABSTRACT = 854;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Properties Abstract</em>' class.
@@ -14914,7 +14298,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 877;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 855;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 Properties Abstract</em>' class.
@@ -15275,7 +14659,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_PROPERTIES_ABSTRACT = 906;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_PROPERTIES_ABSTRACT = 884;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 If Properties Abstract</em>' class.
@@ -15377,7 +14761,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_PROPERTIES_ABSTRACT = 917;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_PROPERTIES_ABSTRACT = 895;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 Then Properties Abstract</em>' class.
@@ -15479,7 +14863,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElsePropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_PROPERTIES_ABSTRACT = 928;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_PROPERTIES_ABSTRACT = 906;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 Else Properties Abstract</em>' class.
@@ -15618,7 +15002,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_PROPERTIES_ABSTRACT = 950;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_PROPERTIES_ABSTRACT = 928;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of1 If Properties Abstract</em>' class.
@@ -15750,34 +15134,6 @@ public interface GithubwfPackage extends EPackage {
 	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
 
 	/**
-	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Workflow_runPropertiesAbstractImpl <em>Root On One Of2 Workflow run Properties Abstract</em>}' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see githubwf.impl.GithubwfRootOnOneOf2Workflow_runPropertiesAbstractImpl
-	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPropertiesAbstract()
-	 * @generated
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT = 966;
-
-	/**
-	 * The number of structural features of the '<em>Root On One Of2 Workflow run Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT = 0;
-
-	/**
-	 * The number of operations of the '<em>Root On One Of2 Workflow run Properties Abstract</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT = 0;
-
-	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Workflow_runTypesImpl <em>Root On One Of2 Workflow run Types</em>}' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -15794,7 +15150,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES__TYPES = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES__TYPES = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow run Types</em>' class.
@@ -15803,7 +15159,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Workflow run Types</em>' class.
@@ -15812,7 +15168,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Workflow_runTypesItemsImpl <em>Root On One Of2 Workflow run Types Items</em>}' class.
@@ -15868,7 +15224,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS__WORKFLOWS = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS__WORKFLOWS = 0;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow run Workflows</em>' class.
@@ -15877,7 +15233,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS_FEATURE_COUNT = 1;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Workflow run Workflows</em>' class.
@@ -15886,7 +15242,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS_OPERATION_COUNT = 0;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Workflow_runWorkflowsItemsImpl <em>Root On One Of2 Workflow run Workflows Items</em>}' class.
@@ -15942,7 +15298,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0__KEY = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0__KEY = 0;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -15951,7 +15307,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0__PATTERN_PROPERTIES0 = 1;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow run Pattern Properties0</em>' class.
@@ -15960,7 +15316,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_FEATURE_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_FEATURE_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_FEATURE_COUNT = 2;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -15969,7 +15325,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___FIND__STRING = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 0;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___FIND__STRING = 0;
 
 	/**
 	 * The operation id for the '<em>Find</em>' operation.
@@ -15978,7 +15334,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___FIND = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 1;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___FIND = 1;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Pattern Properties</em>' operation.
@@ -15987,7 +15343,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 2;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PATTERN_PROPERTIES = 2;
 
 	/**
 	 * The operation id for the '<em>Validate Key On Defined Properties</em>' operation.
@@ -15996,7 +15352,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 3;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0___VALIDATE_KEY_ON_DEFINED_PROPERTIES = 3;
 
 	/**
 	 * The number of operations of the '<em>Root On One Of2 Workflow run Pattern Properties0</em>' class.
@@ -16005,7 +15361,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_OPERATION_COUNT = GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT_OPERATION_COUNT + 4;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_OPERATION_COUNT = 4;
 
 	/**
 	 * The meta object id for the '{@link githubwf.impl.GithubwfRootOnOneOf2Repository_dispatchImpl <em>Root On One Of2 Repository dispatch</em>}' class.
@@ -16126,7 +15482,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_PROPERTIES_ABSTRACT = 984;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_PROPERTIES_ABSTRACT = 961;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Schedule Items Properties Abstract</em>' class.
@@ -16431,7 +15787,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PROPERTIES_ABSTRACT = 999;
+	int GITHUBWF_ROOT_JOBS_PROPERTIES_ABSTRACT = 976;
 
 	/**
 	 * The number of structural features of the '<em>Root Jobs Properties Abstract</em>' class.
@@ -29959,7 +29315,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ABSTRACT = 702;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ABSTRACT = 701;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Steps Items All Of1 Continue 45on 45error Abstract</em>' class.
@@ -29987,7 +29343,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeString()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_STRING = 703;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_STRING = 702;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -30024,7 +29380,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeInteger()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_INTEGER = 704;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_INTEGER = 703;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -30061,7 +29417,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeNumber()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_NUMBER = 705;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_NUMBER = 704;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -30098,7 +29454,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeBoolean()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_BOOLEAN = 706;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_BOOLEAN = 705;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -30135,7 +29491,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeObject()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_OBJECT = 707;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_OBJECT = 706;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' containment reference list.
@@ -30181,7 +29537,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_PROPERTIES_ABSTRACT = 708;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_PROPERTIES_ABSTRACT = 707;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Steps Items All Of1 Continue 45on 45error Properties Abstract</em>' class.
@@ -30209,7 +29565,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalProperties()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ADDITIONAL_PROPERTIES = 709;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ADDITIONAL_PROPERTIES = 708;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -30273,7 +29629,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeArray()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_ARRAY = 710;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_ARRAY = 709;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' containment reference list.
@@ -30310,7 +29666,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorItems()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ITEMS = 711;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ITEMS = 710;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -30347,7 +29703,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeNull()
 	 * @generated
 	 */
-	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_NULL = 712;
+	int NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_TYPE_NULL = 711;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' containment reference.
@@ -30384,7 +29740,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ABSTRACT = 714;
+	int NORMAL_JOB_STRATEGY_MATRIX_ABSTRACT = 713;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Matrix Abstract</em>' class.
@@ -30412,7 +29768,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeString()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_STRING = 715;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_STRING = 714;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' attribute.
@@ -30449,7 +29805,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeInteger()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_INTEGER = 716;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_INTEGER = 715;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' attribute.
@@ -30486,7 +29842,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeNumber()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_NUMBER = 717;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_NUMBER = 716;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' attribute.
@@ -30523,7 +29879,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeBoolean()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_BOOLEAN = 718;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_BOOLEAN = 717;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' attribute.
@@ -30560,7 +29916,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeObject()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_OBJECT = 719;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_OBJECT = 718;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' containment reference list.
@@ -30606,7 +29962,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeArray()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_ARRAY = 721;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_ARRAY = 720;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' containment reference list.
@@ -30643,7 +29999,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixItems()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ITEMS = 722;
+	int NORMAL_JOB_STRATEGY_MATRIX_ITEMS = 721;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -30680,7 +30036,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixTypeNull()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_NULL = 723;
+	int NORMAL_JOB_STRATEGY_MATRIX_TYPE_NULL = 722;
 
 	/**
 	 * The feature id for the '<em><b>Matrix</b></em>' containment reference.
@@ -30717,7 +30073,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixOneOf0PropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ONE_OF0_PROPERTIES_ABSTRACT = 724;
+	int NORMAL_JOB_STRATEGY_MATRIX_ONE_OF0_PROPERTIES_ABSTRACT = 723;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Matrix One Of0 Properties Abstract</em>' class.
@@ -30745,7 +30101,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixOneOf0AdditionalProperties()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ONE_OF0_ADDITIONAL_PROPERTIES = 725;
+	int NORMAL_JOB_STRATEGY_MATRIX_ONE_OF0_ADDITIONAL_PROPERTIES = 724;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -30809,7 +30165,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_ABSTRACT = 727;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_ABSTRACT = 726;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Matrix Additional Properties Abstract</em>' class.
@@ -30837,7 +30193,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeString()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_STRING = 728;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_STRING = 727;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' attribute.
@@ -30874,7 +30230,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeInteger()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_INTEGER = 729;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_INTEGER = 728;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' attribute.
@@ -30911,7 +30267,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeNumber()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_NUMBER = 730;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_NUMBER = 729;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' attribute.
@@ -30948,7 +30304,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeBoolean()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_BOOLEAN = 731;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_BOOLEAN = 730;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' attribute.
@@ -30985,7 +30341,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeObject()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_OBJECT = 732;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_OBJECT = 731;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' containment reference list.
@@ -31031,7 +30387,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_PROPERTIES_ABSTRACT = 733;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_PROPERTIES_ABSTRACT = 732;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Strategy Matrix Additional Properties Properties Abstract</em>' class.
@@ -31059,7 +30415,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesAdditionalProperties()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_ADDITIONAL_PROPERTIES = 734;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_ADDITIONAL_PROPERTIES = 733;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -31123,7 +30479,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeArray()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_ARRAY = 735;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_ARRAY = 734;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' containment reference list.
@@ -31160,7 +30516,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesItems()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_ITEMS = 736;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_ITEMS = 735;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -31197,7 +30553,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobStrategyMatrixAdditionalPropertiesTypeNull()
 	 * @generated
 	 */
-	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_NULL = 737;
+	int NORMAL_JOB_STRATEGY_MATRIX_ADDITIONAL_PROPERTIES_TYPE_NULL = 736;
 
 	/**
 	 * The feature id for the '<em><b>Additional Properties</b></em>' containment reference.
@@ -31234,7 +30590,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_ABSTRACT = 738;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_ABSTRACT = 737;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Continue 45on 45error Abstract</em>' class.
@@ -31262,7 +30618,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeString()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_STRING = 739;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_STRING = 738;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -31299,7 +30655,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeInteger()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_INTEGER = 740;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_INTEGER = 739;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -31336,7 +30692,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeNumber()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_NUMBER = 741;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_NUMBER = 740;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -31373,7 +30729,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeBoolean()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_BOOLEAN = 742;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_BOOLEAN = 741;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' attribute.
@@ -31410,7 +30766,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeObject()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_OBJECT = 743;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_OBJECT = 742;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' containment reference list.
@@ -31456,7 +30812,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_PROPERTIES_ABSTRACT = 744;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_PROPERTIES_ABSTRACT = 743;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Continue 45on 45error Properties Abstract</em>' class.
@@ -31484,7 +30840,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorAdditionalProperties()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_ADDITIONAL_PROPERTIES = 745;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_ADDITIONAL_PROPERTIES = 744;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -31548,7 +30904,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeArray()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_ARRAY = 746;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_ARRAY = 745;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' containment reference list.
@@ -31585,7 +30941,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorItems()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_ITEMS = 747;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_ITEMS = 746;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -31622,7 +30978,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContinue_45on_45errorTypeNull()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_NULL = 748;
+	int NORMAL_JOB_CONTINUE_45ON_45ERROR_TYPE_NULL = 747;
 
 	/**
 	 * The feature id for the '<em><b>Continue 45on 45error</b></em>' containment reference.
@@ -31659,7 +31015,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_ABSTRACT = 749;
+	int NORMAL_JOB_CONTAINER_ABSTRACT = 748;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Container Abstract</em>' class.
@@ -31687,7 +31043,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeString()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_STRING = 750;
+	int NORMAL_JOB_CONTAINER_TYPE_STRING = 749;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' attribute.
@@ -31724,7 +31080,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeInteger()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_INTEGER = 751;
+	int NORMAL_JOB_CONTAINER_TYPE_INTEGER = 750;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' attribute.
@@ -31761,7 +31117,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeNumber()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_NUMBER = 752;
+	int NORMAL_JOB_CONTAINER_TYPE_NUMBER = 751;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' attribute.
@@ -31798,7 +31154,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeBoolean()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_BOOLEAN = 753;
+	int NORMAL_JOB_CONTAINER_TYPE_BOOLEAN = 752;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' attribute.
@@ -31835,7 +31191,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeObject()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_OBJECT = 754;
+	int NORMAL_JOB_CONTAINER_TYPE_OBJECT = 753;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' containment reference list.
@@ -31881,7 +31237,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_PROPERTIES_ABSTRACT = 755;
+	int NORMAL_JOB_CONTAINER_PROPERTIES_ABSTRACT = 754;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Container Properties Abstract</em>' class.
@@ -31909,7 +31265,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerAdditionalProperties()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_ADDITIONAL_PROPERTIES = 756;
+	int NORMAL_JOB_CONTAINER_ADDITIONAL_PROPERTIES = 755;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -31973,7 +31329,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeArray()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_ARRAY = 757;
+	int NORMAL_JOB_CONTAINER_TYPE_ARRAY = 756;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' containment reference list.
@@ -32010,7 +31366,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerItems()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_ITEMS = 758;
+	int NORMAL_JOB_CONTAINER_ITEMS = 757;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -32047,7 +31403,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobContainerTypeNull()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONTAINER_TYPE_NULL = 759;
+	int NORMAL_JOB_CONTAINER_TYPE_NULL = 758;
 
 	/**
 	 * The feature id for the '<em><b>Container</b></em>' containment reference.
@@ -32084,7 +31440,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_ABSTRACT = 761;
+	int NORMAL_JOB_CONCURRENCY_ABSTRACT = 760;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Concurrency Abstract</em>' class.
@@ -32112,7 +31468,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeString()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_STRING = 762;
+	int NORMAL_JOB_CONCURRENCY_TYPE_STRING = 761;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -32149,7 +31505,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeInteger()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_INTEGER = 763;
+	int NORMAL_JOB_CONCURRENCY_TYPE_INTEGER = 762;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -32186,7 +31542,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeNumber()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_NUMBER = 764;
+	int NORMAL_JOB_CONCURRENCY_TYPE_NUMBER = 763;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -32223,7 +31579,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeBoolean()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_BOOLEAN = 765;
+	int NORMAL_JOB_CONCURRENCY_TYPE_BOOLEAN = 764;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -32260,7 +31616,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeObject()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_OBJECT = 766;
+	int NORMAL_JOB_CONCURRENCY_TYPE_OBJECT = 765;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' containment reference list.
@@ -32306,7 +31662,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyPropertiesAbstract()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_PROPERTIES_ABSTRACT = 767;
+	int NORMAL_JOB_CONCURRENCY_PROPERTIES_ABSTRACT = 766;
 
 	/**
 	 * The number of structural features of the '<em>Normal Job Concurrency Properties Abstract</em>' class.
@@ -32334,7 +31690,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyAdditionalProperties()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_ADDITIONAL_PROPERTIES = 768;
+	int NORMAL_JOB_CONCURRENCY_ADDITIONAL_PROPERTIES = 767;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -32398,7 +31754,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeArray()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_ARRAY = 769;
+	int NORMAL_JOB_CONCURRENCY_TYPE_ARRAY = 768;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' containment reference list.
@@ -32435,7 +31791,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyItems()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_ITEMS = 770;
+	int NORMAL_JOB_CONCURRENCY_ITEMS = 769;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -32472,7 +31828,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getNormalJobConcurrencyTypeNull()
 	 * @generated
 	 */
-	int NORMAL_JOB_CONCURRENCY_TYPE_NULL = 771;
+	int NORMAL_JOB_CONCURRENCY_TYPE_NULL = 770;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' containment reference.
@@ -32509,7 +31865,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ABSTRACT = 772;
+	int GITHUBWF_ROOT_ON_ABSTRACT = 771;
 
 	/**
 	 * The number of structural features of the '<em>Root On Abstract</em>' class.
@@ -32537,7 +31893,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_STRING = 773;
+	int GITHUBWF_ROOT_ON_TYPE_STRING = 772;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' attribute.
@@ -32574,7 +31930,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_INTEGER = 774;
+	int GITHUBWF_ROOT_ON_TYPE_INTEGER = 773;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' attribute.
@@ -32611,7 +31967,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_NUMBER = 775;
+	int GITHUBWF_ROOT_ON_TYPE_NUMBER = 774;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' attribute.
@@ -32648,7 +32004,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_BOOLEAN = 776;
+	int GITHUBWF_ROOT_ON_TYPE_BOOLEAN = 775;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' attribute.
@@ -32685,7 +32041,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_OBJECT = 777;
+	int GITHUBWF_ROOT_ON_TYPE_OBJECT = 776;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' containment reference list.
@@ -32731,7 +32087,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_PROPERTIES_ABSTRACT = 778;
+	int GITHUBWF_ROOT_ON_PROPERTIES_ABSTRACT = 777;
 
 	/**
 	 * The number of structural features of the '<em>Root On Properties Abstract</em>' class.
@@ -32759,7 +32115,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ADDITIONAL_PROPERTIES = 779;
+	int GITHUBWF_ROOT_ON_ADDITIONAL_PROPERTIES = 778;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -32823,7 +32179,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_ARRAY = 780;
+	int GITHUBWF_ROOT_ON_TYPE_ARRAY = 779;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' containment reference list.
@@ -32860,7 +32216,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ITEMS = 781;
+	int GITHUBWF_ROOT_ON_ITEMS = 780;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -32897,7 +32253,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_TYPE_NULL = 782;
+	int GITHUBWF_ROOT_ON_TYPE_NULL = 781;
 
 	/**
 	 * The feature id for the '<em><b>On</b></em>' containment reference.
@@ -32934,7 +32290,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_requestPatternProperties0Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_ITEMS = 799;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_ITEMS = 783;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -32971,7 +32327,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_ABSTRACT = 803;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_ABSTRACT = 784;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request target Pattern Properties0 Abstract</em>' class.
@@ -32999,7 +32355,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_STRING = 804;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_STRING = 785;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -33036,7 +32392,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_INTEGER = 805;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_INTEGER = 786;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -33073,7 +32429,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_NUMBER = 806;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_NUMBER = 787;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -33110,7 +32466,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 807;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 788;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -33147,7 +32503,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_OBJECT = 808;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_OBJECT = 789;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -33193,7 +32549,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 809;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 790;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Pull request target Pattern Properties0 Properties Abstract</em>' class.
@@ -33221,7 +32577,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_ADDITIONAL_PROPERTIES = 810;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_ADDITIONAL_PROPERTIES = 791;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -33285,7 +32641,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_ARRAY = 811;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_ARRAY = 792;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -33322,7 +32678,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_ITEMS = 812;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_ITEMS = 793;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -33359,7 +32715,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_NULL = 813;
+	int GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0_TYPE_NULL = 794;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -33396,7 +32752,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_ABSTRACT = 817;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_ABSTRACT = 795;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Abstract</em>' class.
@@ -33424,7 +32780,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_STRING = 818;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_STRING = 796;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' attribute.
@@ -33461,7 +32817,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_INTEGER = 819;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_INTEGER = 797;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' attribute.
@@ -33498,7 +32854,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_NUMBER = 820;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_NUMBER = 798;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' attribute.
@@ -33535,7 +32891,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_BOOLEAN = 821;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_BOOLEAN = 799;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' attribute.
@@ -33572,7 +32928,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_OBJECT = 822;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_OBJECT = 800;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' containment reference list.
@@ -33636,7 +32992,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_ADDITIONAL_PROPERTIES = 824;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_ADDITIONAL_PROPERTIES = 802;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -33700,7 +33056,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_ARRAY = 825;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_ARRAY = 803;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' containment reference list.
@@ -33737,7 +33093,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_ITEMS = 826;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_ITEMS = 804;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -33774,7 +33130,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_NULL = 827;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_TYPE_NULL = 805;
 
 	/**
 	 * The feature id for the '<em><b>Workflow call</b></em>' containment reference.
@@ -33811,7 +33167,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ABSTRACT = 830;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ABSTRACT = 808;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Inputs Pattern Properties0 Default Abstract</em>' class.
@@ -33839,7 +33195,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_BOOLEAN = 831;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_BOOLEAN = 809;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -33876,7 +33232,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_NUMBER = 832;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_NUMBER = 810;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -33913,7 +33269,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_STRING = 833;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_STRING = 811;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -33950,7 +33306,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_ABSTRACT = 834;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_ABSTRACT = 812;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Secrets Abstract</em>' class.
@@ -33978,7 +33334,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_STRING = 835;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_STRING = 813;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' attribute.
@@ -34015,7 +33371,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_INTEGER = 836;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_INTEGER = 814;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' attribute.
@@ -34052,7 +33408,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_NUMBER = 837;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_NUMBER = 815;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' attribute.
@@ -34089,7 +33445,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_BOOLEAN = 838;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_BOOLEAN = 816;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' attribute.
@@ -34126,7 +33482,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_OBJECT = 839;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_OBJECT = 817;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' containment reference list.
@@ -34172,7 +33528,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_ARRAY = 841;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_ARRAY = 819;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' containment reference list.
@@ -34209,7 +33565,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_ITEMS = 842;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_ITEMS = 820;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -34246,7 +33602,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_NULL = 843;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_TYPE_NULL = 821;
 
 	/**
 	 * The feature id for the '<em><b>Secrets</b></em>' containment reference.
@@ -34283,7 +33639,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0Abstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_ABSTRACT = 844;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_ABSTRACT = 822;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Secrets Pattern Properties0 Abstract</em>' class.
@@ -34311,7 +33667,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_STRING = 845;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_STRING = 823;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -34348,7 +33704,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_INTEGER = 846;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_INTEGER = 824;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -34385,7 +33741,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_NUMBER = 847;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_NUMBER = 825;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -34422,7 +33778,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 848;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 826;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -34459,7 +33815,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_OBJECT = 849;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_OBJECT = 827;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -34523,7 +33879,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_ARRAY = 851;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_ARRAY = 829;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -34560,7 +33916,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_ITEMS = 852;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_ITEMS = 830;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -34597,7 +33953,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_NULL = 853;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_TYPE_NULL = 831;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -34634,7 +33990,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_ABSTRACT = 854;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_ABSTRACT = 832;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Secrets Pattern Properties0 Required Abstract</em>' class.
@@ -34662,7 +34018,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_STRING = 855;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_STRING = 833;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' attribute.
@@ -34699,7 +34055,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_INTEGER = 856;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_INTEGER = 834;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' attribute.
@@ -34736,7 +34092,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_NUMBER = 857;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_NUMBER = 835;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' attribute.
@@ -34773,7 +34129,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_BOOLEAN = 858;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_BOOLEAN = 836;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' attribute.
@@ -34810,7 +34166,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_OBJECT = 859;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_OBJECT = 837;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' containment reference list.
@@ -34856,7 +34212,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_PROPERTIES_ABSTRACT = 860;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_PROPERTIES_ABSTRACT = 838;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow call Secrets Pattern Properties0 Required Properties Abstract</em>' class.
@@ -34884,7 +34240,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_ADDITIONAL_PROPERTIES = 861;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_ADDITIONAL_PROPERTIES = 839;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -34948,7 +34304,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_ARRAY = 862;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_ARRAY = 840;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' containment reference list.
@@ -34985,7 +34341,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_ITEMS = 863;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_ITEMS = 841;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -35022,7 +34378,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_NULL = 864;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_CALL_SECRETS_PATTERN_PROPERTIES0_REQUIRED_TYPE_NULL = 842;
 
 	/**
 	 * The feature id for the '<em><b>Required</b></em>' containment reference.
@@ -35059,7 +34415,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_ABSTRACT = 865;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_ABSTRACT = 843;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Abstract</em>' class.
@@ -35087,7 +34443,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_STRING = 866;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_STRING = 844;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' attribute.
@@ -35124,7 +34480,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_INTEGER = 867;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_INTEGER = 845;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' attribute.
@@ -35161,7 +34517,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_NUMBER = 868;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_NUMBER = 846;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' attribute.
@@ -35198,7 +34554,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_BOOLEAN = 869;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_BOOLEAN = 847;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' attribute.
@@ -35235,7 +34591,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_OBJECT = 870;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_OBJECT = 848;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' containment reference list.
@@ -35290,7 +34646,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_ADDITIONAL_PROPERTIES = 872;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_ADDITIONAL_PROPERTIES = 850;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -35354,7 +34710,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_ARRAY = 873;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_ARRAY = 851;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' containment reference list.
@@ -35391,7 +34747,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_ITEMS = 874;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_ITEMS = 852;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -35428,7 +34784,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_NULL = 875;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_TYPE_NULL = 853;
 
 	/**
 	 * The feature id for the '<em><b>Workflow dispatch</b></em>' containment reference.
@@ -35465,7 +34821,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ABSTRACT = 878;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ABSTRACT = 856;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 Default Abstract</em>' class.
@@ -35493,7 +34849,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_STRING = 879;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_STRING = 857;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -35530,7 +34886,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_INTEGER = 880;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_INTEGER = 858;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -35567,7 +34923,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_NUMBER = 881;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_NUMBER = 859;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -35604,7 +34960,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_BOOLEAN = 882;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_BOOLEAN = 860;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' attribute.
@@ -35641,7 +34997,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_OBJECT = 883;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_OBJECT = 861;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' containment reference list.
@@ -35687,7 +35043,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_PROPERTIES_ABSTRACT = 884;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_PROPERTIES_ABSTRACT = 862;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 Default Properties Abstract</em>' class.
@@ -35715,7 +35071,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ADDITIONAL_PROPERTIES = 885;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ADDITIONAL_PROPERTIES = 863;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -35779,7 +35135,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_ARRAY = 886;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_ARRAY = 864;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' containment reference list.
@@ -35816,7 +35172,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ITEMS = 887;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_ITEMS = 865;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -35853,7 +35209,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_NULL = 888;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_DEFAULT_TYPE_NULL = 866;
 
 	/**
 	 * The feature id for the '<em><b>Default </b></em>' containment reference.
@@ -35890,7 +35246,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0Abstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ABSTRACT = 889;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ABSTRACT = 867;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 Abstract</em>' class.
@@ -35918,7 +35274,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_STRING = 890;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_STRING = 868;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -35955,7 +35311,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_INTEGER = 891;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_INTEGER = 869;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -35992,7 +35348,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_NUMBER = 892;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_NUMBER = 870;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36029,7 +35385,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_BOOLEAN = 893;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_BOOLEAN = 871;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36066,7 +35422,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_OBJECT = 894;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_OBJECT = 872;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -36112,7 +35468,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_PROPERTIES_ABSTRACT = 895;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_PROPERTIES_ABSTRACT = 873;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 Properties Abstract</em>' class.
@@ -36140,7 +35496,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ADDITIONAL_PROPERTIES = 896;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ADDITIONAL_PROPERTIES = 874;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -36204,7 +35560,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_ARRAY = 897;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_ARRAY = 875;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -36241,7 +35597,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ITEMS = 898;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ITEMS = 876;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -36278,7 +35634,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_NULL = 899;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_TYPE_NULL = 877;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -36315,7 +35671,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_ABSTRACT = 900;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_ABSTRACT = 878;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 If Abstract</em>' class.
@@ -36343,7 +35699,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_STRING = 901;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_STRING = 879;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36380,7 +35736,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_INTEGER = 902;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_INTEGER = 880;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36417,7 +35773,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_NUMBER = 903;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_NUMBER = 881;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36454,7 +35810,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_BOOLEAN = 904;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_BOOLEAN = 882;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36491,7 +35847,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_OBJECT = 905;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_OBJECT = 883;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -36546,7 +35902,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_ADDITIONAL_PROPERTIES = 907;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_ADDITIONAL_PROPERTIES = 885;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -36610,7 +35966,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_ARRAY = 908;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_ARRAY = 886;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -36647,7 +36003,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_ITEMS = 909;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_ITEMS = 887;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -36684,7 +36040,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_NULL = 910;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_IF_TYPE_NULL = 888;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -36721,7 +36077,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_ABSTRACT = 911;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_ABSTRACT = 889;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 Then Abstract</em>' class.
@@ -36749,7 +36105,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_STRING = 912;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_STRING = 890;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36786,7 +36142,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_INTEGER = 913;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_INTEGER = 891;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36823,7 +36179,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_NUMBER = 914;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_NUMBER = 892;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36860,7 +36216,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_BOOLEAN = 915;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_BOOLEAN = 893;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -36897,7 +36253,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_OBJECT = 916;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_OBJECT = 894;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -36952,7 +36308,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_ADDITIONAL_PROPERTIES = 918;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_ADDITIONAL_PROPERTIES = 896;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -37016,7 +36372,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_ARRAY = 919;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_ARRAY = 897;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -37053,7 +36409,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_ITEMS = 920;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_ITEMS = 898;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -37090,7 +36446,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_NULL = 921;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_THEN_TYPE_NULL = 899;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -37127,7 +36483,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_ABSTRACT = 922;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_ABSTRACT = 900;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of0 Else Abstract</em>' class.
@@ -37155,7 +36511,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_STRING = 923;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_STRING = 901;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37192,7 +36548,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_INTEGER = 924;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_INTEGER = 902;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37229,7 +36585,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_NUMBER = 925;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_NUMBER = 903;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37266,7 +36622,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_BOOLEAN = 926;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_BOOLEAN = 904;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37303,7 +36659,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_OBJECT = 927;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_OBJECT = 905;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -37358,7 +36714,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_ADDITIONAL_PROPERTIES = 929;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_ADDITIONAL_PROPERTIES = 907;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -37422,7 +36778,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_ARRAY = 930;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_ARRAY = 908;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -37459,7 +36815,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_ITEMS = 931;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_ITEMS = 909;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -37496,7 +36852,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_NULL = 932;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF0_ELSE_TYPE_NULL = 910;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -37533,7 +36889,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1Abstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_ABSTRACT = 933;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_ABSTRACT = 911;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of1 Abstract</em>' class.
@@ -37561,7 +36917,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_STRING = 934;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_STRING = 912;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37598,7 +36954,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_INTEGER = 935;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_INTEGER = 913;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37635,7 +36991,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_NUMBER = 936;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_NUMBER = 914;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37672,7 +37028,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_BOOLEAN = 937;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_BOOLEAN = 915;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -37709,7 +37065,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_OBJECT = 938;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_OBJECT = 916;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -37755,7 +37111,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_PROPERTIES_ABSTRACT = 939;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_PROPERTIES_ABSTRACT = 917;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of1 Properties Abstract</em>' class.
@@ -37783,7 +37139,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_ADDITIONAL_PROPERTIES = 940;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_ADDITIONAL_PROPERTIES = 918;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -37847,7 +37203,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_ARRAY = 941;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_ARRAY = 919;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -37884,7 +37240,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_ITEMS = 942;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_ITEMS = 920;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -37921,7 +37277,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_NULL = 943;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_TYPE_NULL = 921;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -37958,7 +37314,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_ABSTRACT = 944;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_ABSTRACT = 922;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of1 If Abstract</em>' class.
@@ -37986,7 +37342,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_STRING = 945;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_STRING = 923;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38023,7 +37379,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_INTEGER = 946;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_INTEGER = 924;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38060,7 +37416,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_NUMBER = 947;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_NUMBER = 925;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38097,7 +37453,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_BOOLEAN = 948;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_BOOLEAN = 926;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38134,7 +37490,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_OBJECT = 949;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_OBJECT = 927;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -38189,7 +37545,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_ADDITIONAL_PROPERTIES = 951;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_ADDITIONAL_PROPERTIES = 929;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -38253,7 +37609,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_ARRAY = 952;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_ARRAY = 930;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -38290,7 +37646,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_ITEMS = 953;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_ITEMS = 931;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -38327,7 +37683,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_NULL = 954;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_IF_TYPE_NULL = 932;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -38364,7 +37720,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_ABSTRACT = 955;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_ABSTRACT = 933;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of1 Then Abstract</em>' class.
@@ -38392,7 +37748,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_STRING = 956;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_STRING = 934;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38429,7 +37785,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_INTEGER = 957;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_INTEGER = 935;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38466,7 +37822,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_NUMBER = 958;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_NUMBER = 936;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38503,7 +37859,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_BOOLEAN = 959;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_BOOLEAN = 937;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38540,7 +37896,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_OBJECT = 960;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_OBJECT = 938;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -38586,7 +37942,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_PROPERTIES_ABSTRACT = 961;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_PROPERTIES_ABSTRACT = 939;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow dispatch Inputs Pattern Properties0 All Of1 Then Properties Abstract</em>' class.
@@ -38614,7 +37970,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_ADDITIONAL_PROPERTIES = 962;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_ADDITIONAL_PROPERTIES = 940;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -38678,7 +38034,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_ARRAY = 963;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_ARRAY = 941;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -38715,7 +38071,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_ITEMS = 964;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_ITEMS = 942;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -38752,7 +38108,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_NULL = 965;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_DISPATCH_INPUTS_PATTERN_PROPERTIES0_ALL_OF1_THEN_TYPE_NULL = 943;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -38789,7 +38145,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_ABSTRACT = 967;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_ABSTRACT = 944;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow run Pattern Properties0 Abstract</em>' class.
@@ -38817,7 +38173,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_STRING = 968;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_STRING = 945;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38854,7 +38210,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_INTEGER = 969;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_INTEGER = 946;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38891,7 +38247,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_NUMBER = 970;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_NUMBER = 947;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38928,7 +38284,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 971;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 948;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -38965,7 +38321,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_OBJECT = 972;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_OBJECT = 949;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -39011,7 +38367,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 973;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 950;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Workflow run Pattern Properties0 Properties Abstract</em>' class.
@@ -39039,7 +38395,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_ADDITIONAL_PROPERTIES = 974;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_ADDITIONAL_PROPERTIES = 951;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -39103,7 +38459,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_ARRAY = 975;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_ARRAY = 952;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -39140,7 +38496,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_ITEMS = 976;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_ITEMS = 953;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -39177,7 +38533,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_NULL = 977;
+	int GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0_TYPE_NULL = 954;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -39214,7 +38570,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_ABSTRACT = 978;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_ABSTRACT = 955;
 
 	/**
 	 * The number of structural features of the '<em>Root On One Of2 Schedule Items Abstract</em>' class.
@@ -39242,7 +38598,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_STRING = 979;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_STRING = 956;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' attribute.
@@ -39279,7 +38635,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_INTEGER = 980;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_INTEGER = 957;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' attribute.
@@ -39316,7 +38672,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_NUMBER = 981;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_NUMBER = 958;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' attribute.
@@ -39353,7 +38709,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_BOOLEAN = 982;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_BOOLEAN = 959;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' attribute.
@@ -39390,7 +38746,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_OBJECT = 983;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_OBJECT = 960;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference list.
@@ -39445,7 +38801,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_ARRAY = 985;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_ARRAY = 962;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference list.
@@ -39482,7 +38838,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_ITEMS = 986;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_ITEMS = 963;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -39519,7 +38875,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootOnOneOf2ScheduleItemsTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_NULL = 987;
+	int GITHUBWF_ROOT_ON_ONE_OF2_SCHEDULE_ITEMS_TYPE_NULL = 964;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -39556,7 +38912,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_ABSTRACT = 988;
+	int GITHUBWF_ROOT_CONCURRENCY_ABSTRACT = 965;
 
 	/**
 	 * The number of structural features of the '<em>Root Concurrency Abstract</em>' class.
@@ -39584,7 +38940,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_STRING = 989;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_STRING = 966;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -39621,7 +38977,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_INTEGER = 990;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_INTEGER = 967;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -39658,7 +39014,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_NUMBER = 991;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_NUMBER = 968;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -39695,7 +39051,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_BOOLEAN = 992;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_BOOLEAN = 969;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' attribute.
@@ -39732,7 +39088,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_OBJECT = 993;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_OBJECT = 970;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' containment reference list.
@@ -39778,7 +39134,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyPropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_PROPERTIES_ABSTRACT = 994;
+	int GITHUBWF_ROOT_CONCURRENCY_PROPERTIES_ABSTRACT = 971;
 
 	/**
 	 * The number of structural features of the '<em>Root Concurrency Properties Abstract</em>' class.
@@ -39806,7 +39162,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyAdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_ADDITIONAL_PROPERTIES = 995;
+	int GITHUBWF_ROOT_CONCURRENCY_ADDITIONAL_PROPERTIES = 972;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -39870,7 +39226,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_ARRAY = 996;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_ARRAY = 973;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' containment reference list.
@@ -39907,7 +39263,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyItems()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_ITEMS = 997;
+	int GITHUBWF_ROOT_CONCURRENCY_ITEMS = 974;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -39944,7 +39300,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootConcurrencyTypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_CONCURRENCY_TYPE_NULL = 998;
+	int GITHUBWF_ROOT_CONCURRENCY_TYPE_NULL = 975;
 
 	/**
 	 * The feature id for the '<em><b>Concurrency</b></em>' containment reference.
@@ -39981,7 +39337,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0Abstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_ABSTRACT = 1000;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_ABSTRACT = 977;
 
 	/**
 	 * The number of structural features of the '<em>Root Jobs Pattern Properties0 Abstract</em>' class.
@@ -40009,7 +39365,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeString()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_STRING = 1001;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_STRING = 978;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -40046,7 +39402,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeInteger()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_INTEGER = 1002;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_INTEGER = 979;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -40083,7 +39439,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeNumber()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_NUMBER = 1003;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_NUMBER = 980;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -40120,7 +39476,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeBoolean()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 1004;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_BOOLEAN = 981;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' attribute.
@@ -40157,7 +39513,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeObject()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_OBJECT = 1005;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_OBJECT = 982;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -40203,7 +39559,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0PropertiesAbstract()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 1006;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_PROPERTIES_ABSTRACT = 983;
 
 	/**
 	 * The number of structural features of the '<em>Root Jobs Pattern Properties0 Properties Abstract</em>' class.
@@ -40231,7 +39587,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0AdditionalProperties()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_ADDITIONAL_PROPERTIES = 1007;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_ADDITIONAL_PROPERTIES = 984;
 
 	/**
 	 * The feature id for the '<em><b>Key</b></em>' attribute.
@@ -40295,7 +39651,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeArray()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_ARRAY = 1008;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_ARRAY = 985;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference list.
@@ -40332,7 +39688,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0Items()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_ITEMS = 1009;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_ITEMS = 986;
 
 	/**
 	 * The feature id for the '<em><b>Items</b></em>' containment reference.
@@ -40369,7 +39725,7 @@ public interface GithubwfPackage extends EPackage {
 	 * @see githubwf.impl.GithubwfPackageImpl#getGithubwfRootJobsPatternProperties0TypeNull()
 	 * @generated
 	 */
-	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_NULL = 1010;
+	int GITHUBWF_ROOT_JOBS_PATTERN_PROPERTIES0_TYPE_NULL = 987;
 
 	/**
 	 * The feature id for the '<em><b>Pattern Properties0</b></em>' containment reference.
@@ -58325,16 +57681,6 @@ public interface GithubwfPackage extends EPackage {
 	EAttribute getNormalJobStepsItemsAllOf1IfTypeString_If_();
 
 	/**
-	 * Returns the meta object for class '{@link githubwf.NormalJobStepsItemsAllOf1WithPropertiesAbstract <em>Normal Job Steps Items All Of1 With Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Normal Job Steps Items All Of1 With Properties Abstract</em>'.
-	 * @see githubwf.NormalJobStepsItemsAllOf1WithPropertiesAbstract
-	 * @generated
-	 */
-	EClass getNormalJobStepsItemsAllOf1WithPropertiesAbstract();
-
-	/**
 	 * Returns the meta object for class '{@link githubwf.NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract <em>Normal Job Steps Items All Of1 Continue 45on 45error Abstract</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -60135,156 +59481,6 @@ public interface GithubwfPackage extends EPackage {
 	EClass getGithubwfRootOnOneOf2PropertiesAbstract();
 
 	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract <em>Root On One Of2 Branch protection rule Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Branch protection rule Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Check_runPropertiesAbstract <em>Root On One Of2 Check run Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Check run Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Check_runPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Check_runPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Check_suitePropertiesAbstract <em>Root On One Of2 Check suite Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Check suite Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Check_suitePropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Check_suitePropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2DiscussionPropertiesAbstract <em>Root On One Of2 Discussion Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Discussion Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2DiscussionPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2DiscussionPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract <em>Root On One Of2 Discussion comment Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Discussion comment Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Issue_commentPropertiesAbstract <em>Root On One Of2 Issue comment Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Issue comment Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Issue_commentPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Issue_commentPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2IssuesPropertiesAbstract <em>Root On One Of2 Issues Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Issues Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2IssuesPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2IssuesPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2LabelPropertiesAbstract <em>Root On One Of2 Label Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Label Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2LabelPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2LabelPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2MemberPropertiesAbstract <em>Root On One Of2 Member Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Member Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2MemberPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2MemberPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Merge_groupPropertiesAbstract <em>Root On One Of2 Merge group Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Merge group Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Merge_groupPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Merge_groupPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2MilestonePropertiesAbstract <em>Root On One Of2 Milestone Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Milestone Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2MilestonePropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2MilestonePropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2ProjectPropertiesAbstract <em>Root On One Of2 Project Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Project Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2ProjectPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2ProjectPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Project_cardPropertiesAbstract <em>Root On One Of2 Project card Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Project card Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Project_cardPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Project_cardPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Project_columnPropertiesAbstract <em>Root On One Of2 Project column Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Project column Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Project_columnPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Project_columnPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Pull_requestPropertiesAbstract <em>Root On One Of2 Pull request Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Pull request Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_requestPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Pull_requestPropertiesAbstract();
-
-	/**
 	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Pull_requestPatternProperties0Items <em>Root On One Of2 Pull request Pattern Properties0 Items</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -60304,36 +59500,6 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 */
 	EReference getGithubwfRootOnOneOf2Pull_requestPatternProperties0Items_Items();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract <em>Root On One Of2 Pull request review Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Pull request review Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract <em>Root On One Of2 Pull request review comment Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Pull request review comment Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract <em>Root On One Of2 Pull request target Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Pull request target Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract();
 
 	/**
 	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract <em>Root On One Of2 Pull request target Pattern Properties0 Abstract</em>}'.
@@ -60584,36 +59750,6 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 */
 	EReference getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull_PatternProperties0();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2PushPropertiesAbstract <em>Root On One Of2 Push Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Push Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2PushPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2PushPropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Registry_packagePropertiesAbstract <em>Root On One Of2 Registry package Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Registry package Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Registry_packagePropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Registry_packagePropertiesAbstract();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2ReleasePropertiesAbstract <em>Root On One Of2 Release Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Release Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2ReleasePropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2ReleasePropertiesAbstract();
 
 	/**
 	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Workflow_callAbstract <em>Root On One Of2 Workflow call Abstract</em>}'.
@@ -63972,16 +63108,6 @@ public interface GithubwfPackage extends EPackage {
 	 * @generated
 	 */
 	EReference getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull_PatternProperties0();
-
-	/**
-	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Workflow_runPropertiesAbstract <em>Root On One Of2 Workflow run Properties Abstract</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for class '<em>Root On One Of2 Workflow run Properties Abstract</em>'.
-	 * @see githubwf.GithubwfRootOnOneOf2Workflow_runPropertiesAbstract
-	 * @generated
-	 */
-	EClass getGithubwfRootOnOneOf2Workflow_runPropertiesAbstract();
 
 	/**
 	 * Returns the meta object for class '{@link githubwf.GithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract <em>Root On One Of2 Workflow run Pattern Properties0 Abstract</em>}'.

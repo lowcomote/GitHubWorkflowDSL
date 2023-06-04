@@ -17,6 +17,7 @@ import org.eclipse.emf.ecore.EClass;
 import org.eclipse.emf.ecore.InternalEObject;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
+import org.eclipse.emf.ecore.impl.MinimalEObjectImpl;
 
 /**
  * <!-- begin-user-doc -->
@@ -32,7 +33,7 @@ import org.eclipse.emf.ecore.impl.ENotificationImpl;
  *
  * @generated
  */
-public class GithubwfRootOnOneOf2Workflow_runPatternProperties0Impl extends GithubwfRootOnOneOf2Workflow_runPropertiesAbstractImpl implements GithubwfRootOnOneOf2Workflow_runPatternProperties0 {
+public class GithubwfRootOnOneOf2Workflow_runPatternProperties0Impl extends MinimalEObjectImpl.Container implements GithubwfRootOnOneOf2Workflow_runPatternProperties0 {
 	/**
 	 * The default value of the '{@link #getKey() <em>Key</em>}' attribute.
 	 * <!-- begin-user-doc -->

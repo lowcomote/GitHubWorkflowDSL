@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -19,7 +20,7 @@ package githubwf;
  * @model annotation="Default Default='[created,edited,deleted]'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Branch_protection_ruleTypes extends GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract {
+public interface GithubwfRootOnOneOf2Branch_protection_ruleTypes extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Types</b></em>' containment reference.
 	 * <!-- begin-user-doc -->

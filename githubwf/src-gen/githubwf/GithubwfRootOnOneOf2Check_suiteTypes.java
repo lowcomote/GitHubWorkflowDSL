@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -19,7 +20,7 @@ package githubwf;
  * @model annotation="Default Default='[completed,requested,rerequested]'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Check_suiteTypes extends GithubwfRootOnOneOf2Check_suitePropertiesAbstract {
+public interface GithubwfRootOnOneOf2Check_suiteTypes extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Types</b></em>' containment reference.
 	 * <!-- begin-user-doc -->

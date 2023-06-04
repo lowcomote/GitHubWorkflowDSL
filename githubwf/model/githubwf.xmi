@@ -5048,7 +5048,7 @@
       </targetElements>
     </links>
   </rules>
-  <rules rule="createAbstractEClass" uniqueSourceElements="//@rules.17/@links.0/@sourceElements.0 //@rules.17/@links.1/@sourceElements.0 //@rules.17/@links.2/@sourceElements.0 //@rules.17/@links.3/@sourceElements.0 //@rules.17/@links.4/@sourceElements.0 //@rules.17/@links.5/@sourceElements.0 //@rules.17/@links.6/@sourceElements.0 //@rules.17/@links.7/@sourceElements.0 //@rules.17/@links.8/@sourceElements.0 //@rules.17/@links.9/@sourceElements.0 //@rules.17/@links.10/@sourceElements.0 //@rules.17/@links.11/@sourceElements.0 //@rules.17/@links.12/@sourceElements.0 //@rules.17/@links.13/@sourceElements.0 //@rules.17/@links.14/@sourceElements.0 //@rules.17/@links.15/@sourceElements.0 //@rules.17/@links.16/@sourceElements.0 //@rules.17/@links.17/@sourceElements.0 //@rules.17/@links.18/@sourceElements.0 //@rules.17/@links.19/@sourceElements.0 //@rules.17/@links.20/@sourceElements.0 //@rules.17/@links.21/@sourceElements.0 //@rules.17/@links.22/@sourceElements.0 //@rules.17/@links.23/@sourceElements.0 //@rules.17/@links.24/@sourceElements.0 //@rules.17/@links.25/@sourceElements.0 //@rules.17/@links.26/@sourceElements.0 //@rules.17/@links.27/@sourceElements.0 //@rules.17/@links.28/@sourceElements.0 //@rules.17/@links.29/@sourceElements.0 //@rules.17/@links.30/@sourceElements.0 //@rules.17/@links.31/@sourceElements.0 //@rules.17/@links.32/@sourceElements.0 //@rules.17/@links.33/@sourceElements.0 //@rules.17/@links.34/@sourceElements.0 //@rules.17/@links.35/@sourceElements.0 //@rules.17/@links.36/@sourceElements.0 //@rules.17/@links.37/@sourceElements.0 //@rules.17/@links.38/@sourceElements.0 //@rules.17/@links.39/@sourceElements.0 //@rules.17/@links.40/@sourceElements.0 //@rules.17/@links.41/@sourceElements.0 //@rules.17/@links.42/@sourceElements.0 //@rules.17/@links.43/@sourceElements.0 //@rules.17/@links.44/@sourceElements.0 //@rules.17/@links.45/@sourceElements.0 //@rules.17/@links.46/@sourceElements.0 //@rules.17/@links.47/@sourceElements.0 //@rules.17/@links.48/@sourceElements.0 //@rules.17/@links.49/@sourceElements.0 //@rules.17/@links.50/@sourceElements.0 //@rules.17/@links.51/@sourceElements.0 //@rules.17/@links.52/@sourceElements.0 //@rules.17/@links.53/@sourceElements.0 //@rules.17/@links.54/@sourceElements.0 //@rules.17/@links.55/@sourceElements.0 //@rules.17/@links.56/@sourceElements.0 //@rules.17/@links.57/@sourceElements.0 //@rules.17/@links.58/@sourceElements.0 //@rules.17/@links.59/@sourceElements.0 //@rules.17/@links.60/@sourceElements.0 //@rules.17/@links.61/@sourceElements.0 //@rules.17/@links.62/@sourceElements.0 //@rules.17/@links.63/@sourceElements.0 //@rules.17/@links.64/@sourceElements.0 //@rules.17/@links.65/@sourceElements.0 //@rules.17/@links.66/@sourceElements.0 //@rules.17/@links.67/@sourceElements.0 //@rules.17/@links.68/@sourceElements.0 //@rules.17/@links.69/@sourceElements.0 //@rules.17/@links.70/@sourceElements.0 //@rules.17/@links.71/@sourceElements.0 //@rules.17/@links.72/@sourceElements.0 //@rules.17/@links.73/@sourceElements.0 //@rules.17/@links.74/@sourceElements.0 //@rules.17/@links.75/@sourceElements.0 //@rules.17/@links.76/@sourceElements.0 //@rules.17/@links.77/@sourceElements.0 //@rules.17/@links.78/@sourceElements.0 //@rules.17/@links.79/@sourceElements.0 //@rules.17/@links.80/@sourceElements.0 //@rules.17/@links.81/@sourceElements.0 //@rules.17/@links.82/@sourceElements.0 //@rules.17/@links.83/@sourceElements.0 //@rules.17/@links.84/@sourceElements.0 //@rules.17/@links.85/@sourceElements.0 //@rules.17/@links.86/@sourceElements.0 //@rules.17/@links.87/@sourceElements.0 //@rules.17/@links.88/@sourceElements.0 //@rules.17/@links.89/@sourceElements.0 //@rules.17/@links.90/@sourceElements.0 //@rules.17/@links.91/@sourceElements.0 //@rules.17/@links.92/@sourceElements.0 //@rules.17/@links.93/@sourceElements.0 //@rules.17/@links.94/@sourceElements.0 //@rules.17/@links.95/@sourceElements.0 //@rules.17/@links.96/@sourceElements.0 //@rules.17/@links.97/@sourceElements.0 //@rules.17/@links.98/@sourceElements.0 //@rules.17/@links.99/@sourceElements.0 //@rules.17/@links.100/@sourceElements.0 //@rules.17/@links.101/@sourceElements.0 //@rules.17/@links.102/@sourceElements.0 //@rules.17/@links.103/@sourceElements.0 //@rules.17/@links.104/@sourceElements.0 //@rules.17/@links.105/@sourceElements.0 //@rules.17/@links.106/@sourceElements.0 //@rules.17/@links.107/@sourceElements.0 //@rules.17/@links.108/@sourceElements.0 //@rules.17/@links.109/@sourceElements.0 //@rules.17/@links.110/@sourceElements.0 //@rules.17/@links.111/@sourceElements.0 //@rules.17/@links.112/@sourceElements.0 //@rules.17/@links.113/@sourceElements.0 //@rules.17/@links.114/@sourceElements.0 //@rules.17/@links.115/@sourceElements.0 //@rules.17/@links.116/@sourceElements.0 //@rules.17/@links.117/@sourceElements.0 //@rules.17/@links.118/@sourceElements.0 //@rules.17/@links.119/@sourceElements.0 //@rules.17/@links.120/@sourceElements.0 //@rules.17/@links.121/@sourceElements.0 //@rules.17/@links.122/@sourceElements.0 //@rules.17/@links.123/@sourceElements.0 //@rules.17/@links.124/@sourceElements.0 //@rules.17/@links.125/@sourceElements.0 //@rules.17/@links.126/@sourceElements.0 //@rules.17/@links.127/@sourceElements.0 //@rules.17/@links.128/@sourceElements.0 //@rules.17/@links.129/@sourceElements.0 //@rules.17/@links.130/@sourceElements.0 //@rules.17/@links.131/@sourceElements.0 //@rules.17/@links.132/@sourceElements.0 //@rules.17/@links.133/@sourceElements.0 //@rules.17/@links.134/@sourceElements.0 //@rules.17/@links.135/@sourceElements.0 //@rules.17/@links.136/@sourceElements.0 //@rules.17/@links.137/@sourceElements.0 //@rules.17/@links.138/@sourceElements.0 //@rules.17/@links.139/@sourceElements.0 //@rules.17/@links.140/@sourceElements.0 //@rules.17/@links.141/@sourceElements.0 //@rules.17/@links.142/@sourceElements.0 //@rules.17/@links.143/@sourceElements.0 //@rules.17/@links.144/@sourceElements.0 //@rules.17/@links.145/@sourceElements.0 //@rules.17/@links.146/@sourceElements.0 //@rules.17/@links.147/@sourceElements.0 //@rules.17/@links.148/@sourceElements.0 //@rules.17/@links.149/@sourceElements.0 //@rules.17/@links.150/@sourceElements.0 //@rules.17/@links.151/@sourceElements.0 //@rules.17/@links.152/@sourceElements.0 //@rules.17/@links.153/@sourceElements.0 //@rules.17/@links.154/@sourceElements.0 //@rules.17/@links.155/@sourceElements.0 //@rules.17/@links.156/@sourceElements.0 //@rules.17/@links.157/@sourceElements.0 //@rules.17/@links.158/@sourceElements.0 //@rules.17/@links.159/@sourceElements.0 //@rules.17/@links.160/@sourceElements.0 //@rules.17/@links.161/@sourceElements.0 //@rules.17/@links.162/@sourceElements.0 //@rules.17/@links.163/@sourceElements.0 //@rules.17/@links.164/@sourceElements.0 //@rules.17/@links.165/@sourceElements.0">
+  <rules rule="createAbstractEClass" uniqueSourceElements="//@rules.17/@links.0/@sourceElements.0 //@rules.17/@links.1/@sourceElements.0 //@rules.17/@links.2/@sourceElements.0 //@rules.17/@links.3/@sourceElements.0 //@rules.17/@links.4/@sourceElements.0 //@rules.17/@links.5/@sourceElements.0 //@rules.17/@links.6/@sourceElements.0 //@rules.17/@links.7/@sourceElements.0 //@rules.17/@links.8/@sourceElements.0 //@rules.17/@links.9/@sourceElements.0 //@rules.17/@links.10/@sourceElements.0 //@rules.17/@links.11/@sourceElements.0 //@rules.17/@links.12/@sourceElements.0 //@rules.17/@links.13/@sourceElements.0 //@rules.17/@links.14/@sourceElements.0 //@rules.17/@links.15/@sourceElements.0 //@rules.17/@links.16/@sourceElements.0 //@rules.17/@links.17/@sourceElements.0 //@rules.17/@links.18/@sourceElements.0 //@rules.17/@links.19/@sourceElements.0 //@rules.17/@links.20/@sourceElements.0 //@rules.17/@links.21/@sourceElements.0 //@rules.17/@links.22/@sourceElements.0 //@rules.17/@links.23/@sourceElements.0 //@rules.17/@links.24/@sourceElements.0 //@rules.17/@links.25/@sourceElements.0 //@rules.17/@links.26/@sourceElements.0 //@rules.17/@links.27/@sourceElements.0 //@rules.17/@links.28/@sourceElements.0 //@rules.17/@links.29/@sourceElements.0 //@rules.17/@links.30/@sourceElements.0 //@rules.17/@links.31/@sourceElements.0 //@rules.17/@links.32/@sourceElements.0 //@rules.17/@links.33/@sourceElements.0 //@rules.17/@links.34/@sourceElements.0 //@rules.17/@links.35/@sourceElements.0 //@rules.17/@links.36/@sourceElements.0 //@rules.17/@links.37/@sourceElements.0 //@rules.17/@links.38/@sourceElements.0 //@rules.17/@links.39/@sourceElements.0 //@rules.17/@links.40/@sourceElements.0 //@rules.17/@links.41/@sourceElements.0 //@rules.17/@links.42/@sourceElements.0 //@rules.17/@links.43/@sourceElements.0 //@rules.17/@links.44/@sourceElements.0 //@rules.17/@links.45/@sourceElements.0 //@rules.17/@links.46/@sourceElements.0 //@rules.17/@links.47/@sourceElements.0 //@rules.17/@links.48/@sourceElements.0 //@rules.17/@links.49/@sourceElements.0 //@rules.17/@links.50/@sourceElements.0 //@rules.17/@links.51/@sourceElements.0 //@rules.17/@links.52/@sourceElements.0 //@rules.17/@links.53/@sourceElements.0 //@rules.17/@links.54/@sourceElements.0 //@rules.17/@links.55/@sourceElements.0 //@rules.17/@links.56/@sourceElements.0 //@rules.17/@links.57/@sourceElements.0 //@rules.17/@links.58/@sourceElements.0 //@rules.17/@links.59/@sourceElements.0 //@rules.17/@links.60/@sourceElements.0 //@rules.17/@links.61/@sourceElements.0 //@rules.17/@links.62/@sourceElements.0 //@rules.17/@links.63/@sourceElements.0 //@rules.17/@links.64/@sourceElements.0 //@rules.17/@links.65/@sourceElements.0 //@rules.17/@links.66/@sourceElements.0 //@rules.17/@links.67/@sourceElements.0 //@rules.17/@links.68/@sourceElements.0 //@rules.17/@links.69/@sourceElements.0 //@rules.17/@links.70/@sourceElements.0 //@rules.17/@links.71/@sourceElements.0 //@rules.17/@links.72/@sourceElements.0 //@rules.17/@links.73/@sourceElements.0 //@rules.17/@links.74/@sourceElements.0 //@rules.17/@links.75/@sourceElements.0 //@rules.17/@links.76/@sourceElements.0 //@rules.17/@links.77/@sourceElements.0 //@rules.17/@links.78/@sourceElements.0 //@rules.17/@links.79/@sourceElements.0 //@rules.17/@links.80/@sourceElements.0 //@rules.17/@links.81/@sourceElements.0 //@rules.17/@links.82/@sourceElements.0 //@rules.17/@links.83/@sourceElements.0 //@rules.17/@links.84/@sourceElements.0 //@rules.17/@links.85/@sourceElements.0 //@rules.17/@links.86/@sourceElements.0 //@rules.17/@links.87/@sourceElements.0 //@rules.17/@links.88/@sourceElements.0 //@rules.17/@links.89/@sourceElements.0 //@rules.17/@links.90/@sourceElements.0 //@rules.17/@links.91/@sourceElements.0 //@rules.17/@links.92/@sourceElements.0 //@rules.17/@links.93/@sourceElements.0 //@rules.17/@links.94/@sourceElements.0 //@rules.17/@links.95/@sourceElements.0 //@rules.17/@links.96/@sourceElements.0 //@rules.17/@links.97/@sourceElements.0 //@rules.17/@links.98/@sourceElements.0 //@rules.17/@links.99/@sourceElements.0 //@rules.17/@links.100/@sourceElements.0 //@rules.17/@links.101/@sourceElements.0 //@rules.17/@links.102/@sourceElements.0 //@rules.17/@links.103/@sourceElements.0 //@rules.17/@links.104/@sourceElements.0 //@rules.17/@links.105/@sourceElements.0 //@rules.17/@links.106/@sourceElements.0 //@rules.17/@links.107/@sourceElements.0 //@rules.17/@links.108/@sourceElements.0 //@rules.17/@links.109/@sourceElements.0 //@rules.17/@links.110/@sourceElements.0 //@rules.17/@links.111/@sourceElements.0 //@rules.17/@links.112/@sourceElements.0 //@rules.17/@links.113/@sourceElements.0 //@rules.17/@links.114/@sourceElements.0 //@rules.17/@links.115/@sourceElements.0 //@rules.17/@links.116/@sourceElements.0 //@rules.17/@links.117/@sourceElements.0 //@rules.17/@links.118/@sourceElements.0 //@rules.17/@links.119/@sourceElements.0 //@rules.17/@links.120/@sourceElements.0 //@rules.17/@links.121/@sourceElements.0 //@rules.17/@links.122/@sourceElements.0 //@rules.17/@links.123/@sourceElements.0 //@rules.17/@links.124/@sourceElements.0 //@rules.17/@links.125/@sourceElements.0 //@rules.17/@links.126/@sourceElements.0 //@rules.17/@links.127/@sourceElements.0 //@rules.17/@links.128/@sourceElements.0 //@rules.17/@links.129/@sourceElements.0 //@rules.17/@links.130/@sourceElements.0 //@rules.17/@links.131/@sourceElements.0 //@rules.17/@links.132/@sourceElements.0 //@rules.17/@links.133/@sourceElements.0 //@rules.17/@links.134/@sourceElements.0 //@rules.17/@links.135/@sourceElements.0 //@rules.17/@links.136/@sourceElements.0 //@rules.17/@links.137/@sourceElements.0 //@rules.17/@links.138/@sourceElements.0 //@rules.17/@links.139/@sourceElements.0 //@rules.17/@links.140/@sourceElements.0 //@rules.17/@links.141/@sourceElements.0 //@rules.17/@links.142/@sourceElements.0">
     <links>
       <sourceElements name="name" uniqueFor="//@rules.17"/>
       <targetElements name="eClass">
@@ -5544,12 +5544,6 @@
     <links>
       <sourceElements name="name" uniqueFor="//@rules.17"/>
       <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1WithPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
         <object href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract"/>
       </targetElements>
     </links>
@@ -5664,114 +5658,6 @@
     <links>
       <sourceElements name="name" uniqueFor="//@rules.17"/>
       <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_runPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_suitePropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2DiscussionPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Issue_commentPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2IssuesPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2LabelPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MemberPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Merge_groupPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MilestonePropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ProjectPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_cardPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_columnPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
         <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract"/>
       </targetElements>
     </links>
@@ -5779,24 +5665,6 @@
       <sourceElements name="name" uniqueFor="//@rules.17"/>
       <targetElements name="eClass">
         <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2PushPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Registry_packagePropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ReleasePropertiesAbstract"/>
       </targetElements>
     </links>
     <links>
@@ -5983,12 +5851,6 @@
       <sourceElements name="name" uniqueFor="//@rules.17"/>
       <targetElements name="eClass">
         <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstract"/>
-      </targetElements>
-    </links>
-    <links>
-      <sourceElements name="name" uniqueFor="//@rules.17"/>
-      <targetElements name="eClass">
-        <object href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPropertiesAbstract"/>
       </targetElements>
     </links>
     <links>

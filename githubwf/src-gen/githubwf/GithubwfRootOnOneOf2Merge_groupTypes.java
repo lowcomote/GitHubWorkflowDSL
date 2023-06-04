@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -19,7 +20,7 @@ package githubwf;
  * @model annotation="Default Default='[checks_requested]'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Merge_groupTypes extends GithubwfRootOnOneOf2Merge_groupPropertiesAbstract {
+public interface GithubwfRootOnOneOf2Merge_groupTypes extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Types</b></em>' containment reference.
 	 * <!-- begin-user-doc -->

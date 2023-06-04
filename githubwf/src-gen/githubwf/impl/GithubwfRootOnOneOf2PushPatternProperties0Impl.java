@@ -19,6 +19,7 @@ import org.eclipse.emf.ecore.EClass;
 import org.eclipse.emf.ecore.InternalEObject;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
+import org.eclipse.emf.ecore.impl.MinimalEObjectImpl;
 
 import org.eclipse.emf.ecore.util.EObjectContainmentEList;
 import org.eclipse.emf.ecore.util.InternalEList;
@@ -37,7 +38,7 @@ import org.eclipse.emf.ecore.util.InternalEList;
  *
  * @generated
  */
-public class GithubwfRootOnOneOf2PushPatternProperties0Impl extends GithubwfRootOnOneOf2PushPropertiesAbstractImpl implements GithubwfRootOnOneOf2PushPatternProperties0 {
+public class GithubwfRootOnOneOf2PushPatternProperties0Impl extends MinimalEObjectImpl.Container implements GithubwfRootOnOneOf2PushPatternProperties0 {
 	/**
 	 * The default value of the '{@link #getKey() <em>Key</em>}' attribute.
 	 * <!-- begin-user-doc -->

@@ -4,6 +4,8 @@ package githubwf;
 
 import org.eclipse.emf.common.util.EList;
 
+import org.eclipse.emf.ecore.EObject;
+
 /**
  * <!-- begin-user-doc -->
  * A representation of the model object '<em><b>Root On One Of2 Workflow run Workflows</b></em>'.
@@ -20,7 +22,7 @@ import org.eclipse.emf.common.util.EList;
  * @model annotation="Type Type='array'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Workflow_runWorkflows extends GithubwfRootOnOneOf2Workflow_runPropertiesAbstract {
+public interface GithubwfRootOnOneOf2Workflow_runWorkflows extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Workflows</b></em>' containment reference list.
 	 * The list contents are of type {@link githubwf.GithubwfRootOnOneOf2Workflow_runWorkflowsItems}.

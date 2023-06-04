@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -19,7 +20,7 @@ package githubwf;
  * @model annotation="Default Default='[opened,synchronize,reopened]'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Pull_request_targetTypes extends GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract {
+public interface GithubwfRootOnOneOf2Pull_request_targetTypes extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Types</b></em>' containment reference.
 	 * <!-- begin-user-doc -->

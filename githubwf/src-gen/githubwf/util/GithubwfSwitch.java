@@ -1198,14 +1198,12 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ARGS: {
 				NormalJobStepsItemsAllOf1WithArgs normalJobStepsItemsAllOf1WithArgs = (NormalJobStepsItemsAllOf1WithArgs)theEObject;
 				T result = caseNormalJobStepsItemsAllOf1WithArgs(normalJobStepsItemsAllOf1WithArgs);
-				if (result == null) result = caseNormalJobStepsItemsAllOf1WithPropertiesAbstract(normalJobStepsItemsAllOf1WithArgs);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
 			case GithubwfPackage.NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_ENTRYPOINT: {
 				NormalJobStepsItemsAllOf1WithEntrypoint normalJobStepsItemsAllOf1WithEntrypoint = (NormalJobStepsItemsAllOf1WithEntrypoint)theEObject;
 				T result = caseNormalJobStepsItemsAllOf1WithEntrypoint(normalJobStepsItemsAllOf1WithEntrypoint);
-				if (result == null) result = caseNormalJobStepsItemsAllOf1WithPropertiesAbstract(normalJobStepsItemsAllOf1WithEntrypoint);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1453,7 +1451,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_TYPES: {
 				GithubwfRootOnOneOf2Branch_protection_ruleTypes githubwfRootOnOneOf2Branch_protection_ruleTypes = (GithubwfRootOnOneOf2Branch_protection_ruleTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Branch_protection_ruleTypes(githubwfRootOnOneOf2Branch_protection_ruleTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract(githubwfRootOnOneOf2Branch_protection_ruleTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1473,7 +1470,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_TYPES: {
 				GithubwfRootOnOneOf2Check_runTypes githubwfRootOnOneOf2Check_runTypes = (GithubwfRootOnOneOf2Check_runTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Check_runTypes(githubwfRootOnOneOf2Check_runTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Check_runPropertiesAbstract(githubwfRootOnOneOf2Check_runTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1493,7 +1489,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_TYPES: {
 				GithubwfRootOnOneOf2Check_suiteTypes githubwfRootOnOneOf2Check_suiteTypes = (GithubwfRootOnOneOf2Check_suiteTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Check_suiteTypes(githubwfRootOnOneOf2Check_suiteTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Check_suitePropertiesAbstract(githubwfRootOnOneOf2Check_suiteTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1541,7 +1536,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_TYPES: {
 				GithubwfRootOnOneOf2DiscussionTypes githubwfRootOnOneOf2DiscussionTypes = (GithubwfRootOnOneOf2DiscussionTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2DiscussionTypes(githubwfRootOnOneOf2DiscussionTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2DiscussionPropertiesAbstract(githubwfRootOnOneOf2DiscussionTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1561,7 +1555,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_TYPES: {
 				GithubwfRootOnOneOf2Discussion_commentTypes githubwfRootOnOneOf2Discussion_commentTypes = (GithubwfRootOnOneOf2Discussion_commentTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Discussion_commentTypes(githubwfRootOnOneOf2Discussion_commentTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract(githubwfRootOnOneOf2Discussion_commentTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1595,7 +1588,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_TYPES: {
 				GithubwfRootOnOneOf2Issue_commentTypes githubwfRootOnOneOf2Issue_commentTypes = (GithubwfRootOnOneOf2Issue_commentTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Issue_commentTypes(githubwfRootOnOneOf2Issue_commentTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Issue_commentPropertiesAbstract(githubwfRootOnOneOf2Issue_commentTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1615,7 +1607,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_TYPES: {
 				GithubwfRootOnOneOf2IssuesTypes githubwfRootOnOneOf2IssuesTypes = (GithubwfRootOnOneOf2IssuesTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2IssuesTypes(githubwfRootOnOneOf2IssuesTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2IssuesPropertiesAbstract(githubwfRootOnOneOf2IssuesTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1635,7 +1626,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_LABEL_TYPES: {
 				GithubwfRootOnOneOf2LabelTypes githubwfRootOnOneOf2LabelTypes = (GithubwfRootOnOneOf2LabelTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2LabelTypes(githubwfRootOnOneOf2LabelTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2LabelPropertiesAbstract(githubwfRootOnOneOf2LabelTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1655,7 +1645,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_TYPES: {
 				GithubwfRootOnOneOf2MemberTypes githubwfRootOnOneOf2MemberTypes = (GithubwfRootOnOneOf2MemberTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2MemberTypes(githubwfRootOnOneOf2MemberTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2MemberPropertiesAbstract(githubwfRootOnOneOf2MemberTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1675,7 +1664,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_TYPES: {
 				GithubwfRootOnOneOf2Merge_groupTypes githubwfRootOnOneOf2Merge_groupTypes = (GithubwfRootOnOneOf2Merge_groupTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Merge_groupTypes(githubwfRootOnOneOf2Merge_groupTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Merge_groupPropertiesAbstract(githubwfRootOnOneOf2Merge_groupTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1695,7 +1683,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_TYPES: {
 				GithubwfRootOnOneOf2MilestoneTypes githubwfRootOnOneOf2MilestoneTypes = (GithubwfRootOnOneOf2MilestoneTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2MilestoneTypes(githubwfRootOnOneOf2MilestoneTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2MilestonePropertiesAbstract(githubwfRootOnOneOf2MilestoneTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1722,7 +1709,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_TYPES: {
 				GithubwfRootOnOneOf2ProjectTypes githubwfRootOnOneOf2ProjectTypes = (GithubwfRootOnOneOf2ProjectTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2ProjectTypes(githubwfRootOnOneOf2ProjectTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2ProjectPropertiesAbstract(githubwfRootOnOneOf2ProjectTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1742,7 +1728,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_TYPES: {
 				GithubwfRootOnOneOf2Project_cardTypes githubwfRootOnOneOf2Project_cardTypes = (GithubwfRootOnOneOf2Project_cardTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Project_cardTypes(githubwfRootOnOneOf2Project_cardTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Project_cardPropertiesAbstract(githubwfRootOnOneOf2Project_cardTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1762,7 +1747,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_TYPES: {
 				GithubwfRootOnOneOf2Project_columnTypes githubwfRootOnOneOf2Project_columnTypes = (GithubwfRootOnOneOf2Project_columnTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Project_columnTypes(githubwfRootOnOneOf2Project_columnTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Project_columnPropertiesAbstract(githubwfRootOnOneOf2Project_columnTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1789,7 +1773,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TYPES: {
 				GithubwfRootOnOneOf2Pull_requestTypes githubwfRootOnOneOf2Pull_requestTypes = (GithubwfRootOnOneOf2Pull_requestTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_requestTypes(githubwfRootOnOneOf2Pull_requestTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Pull_requestPropertiesAbstract(githubwfRootOnOneOf2Pull_requestTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1802,7 +1785,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0: {
 				GithubwfRootOnOneOf2Pull_requestPatternProperties0 githubwfRootOnOneOf2Pull_requestPatternProperties0 = (GithubwfRootOnOneOf2Pull_requestPatternProperties0)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_requestPatternProperties0(githubwfRootOnOneOf2Pull_requestPatternProperties0);
-				if (result == null) result = caseGithubwfRootOnOneOf2Pull_requestPropertiesAbstract(githubwfRootOnOneOf2Pull_requestPatternProperties0);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1816,7 +1798,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_TYPES: {
 				GithubwfRootOnOneOf2Pull_request_reviewTypes githubwfRootOnOneOf2Pull_request_reviewTypes = (GithubwfRootOnOneOf2Pull_request_reviewTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_request_reviewTypes(githubwfRootOnOneOf2Pull_request_reviewTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract(githubwfRootOnOneOf2Pull_request_reviewTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1836,7 +1817,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_TYPES: {
 				GithubwfRootOnOneOf2Pull_request_review_commentTypes githubwfRootOnOneOf2Pull_request_review_commentTypes = (GithubwfRootOnOneOf2Pull_request_review_commentTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_request_review_commentTypes(githubwfRootOnOneOf2Pull_request_review_commentTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract(githubwfRootOnOneOf2Pull_request_review_commentTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1856,7 +1836,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_TYPES: {
 				GithubwfRootOnOneOf2Pull_request_targetTypes githubwfRootOnOneOf2Pull_request_targetTypes = (GithubwfRootOnOneOf2Pull_request_targetTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_request_targetTypes(githubwfRootOnOneOf2Pull_request_targetTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract(githubwfRootOnOneOf2Pull_request_targetTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1869,7 +1848,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PATTERN_PROPERTIES0: {
 				GithubwfRootOnOneOf2Pull_request_targetPatternProperties0 githubwfRootOnOneOf2Pull_request_targetPatternProperties0 = (GithubwfRootOnOneOf2Pull_request_targetPatternProperties0)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_request_targetPatternProperties0(githubwfRootOnOneOf2Pull_request_targetPatternProperties0);
-				if (result == null) result = caseGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract(githubwfRootOnOneOf2Pull_request_targetPatternProperties0);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1883,7 +1861,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PATTERN_PROPERTIES0: {
 				GithubwfRootOnOneOf2PushPatternProperties0 githubwfRootOnOneOf2PushPatternProperties0 = (GithubwfRootOnOneOf2PushPatternProperties0)theEObject;
 				T result = caseGithubwfRootOnOneOf2PushPatternProperties0(githubwfRootOnOneOf2PushPatternProperties0);
-				if (result == null) result = caseGithubwfRootOnOneOf2PushPropertiesAbstract(githubwfRootOnOneOf2PushPatternProperties0);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1903,7 +1880,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_TYPES: {
 				GithubwfRootOnOneOf2Registry_packageTypes githubwfRootOnOneOf2Registry_packageTypes = (GithubwfRootOnOneOf2Registry_packageTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Registry_packageTypes(githubwfRootOnOneOf2Registry_packageTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Registry_packagePropertiesAbstract(githubwfRootOnOneOf2Registry_packageTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -1923,7 +1899,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_TYPES: {
 				GithubwfRootOnOneOf2ReleaseTypes githubwfRootOnOneOf2ReleaseTypes = (GithubwfRootOnOneOf2ReleaseTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2ReleaseTypes(githubwfRootOnOneOf2ReleaseTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2ReleasePropertiesAbstract(githubwfRootOnOneOf2ReleaseTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -2180,7 +2155,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_TYPES: {
 				GithubwfRootOnOneOf2Workflow_runTypes githubwfRootOnOneOf2Workflow_runTypes = (GithubwfRootOnOneOf2Workflow_runTypes)theEObject;
 				T result = caseGithubwfRootOnOneOf2Workflow_runTypes(githubwfRootOnOneOf2Workflow_runTypes);
-				if (result == null) result = caseGithubwfRootOnOneOf2Workflow_runPropertiesAbstract(githubwfRootOnOneOf2Workflow_runTypes);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -2193,7 +2167,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_WORKFLOWS: {
 				GithubwfRootOnOneOf2Workflow_runWorkflows githubwfRootOnOneOf2Workflow_runWorkflows = (GithubwfRootOnOneOf2Workflow_runWorkflows)theEObject;
 				T result = caseGithubwfRootOnOneOf2Workflow_runWorkflows(githubwfRootOnOneOf2Workflow_runWorkflows);
-				if (result == null) result = caseGithubwfRootOnOneOf2Workflow_runPropertiesAbstract(githubwfRootOnOneOf2Workflow_runWorkflows);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -2206,7 +2179,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PATTERN_PROPERTIES0: {
 				GithubwfRootOnOneOf2Workflow_runPatternProperties0 githubwfRootOnOneOf2Workflow_runPatternProperties0 = (GithubwfRootOnOneOf2Workflow_runPatternProperties0)theEObject;
 				T result = caseGithubwfRootOnOneOf2Workflow_runPatternProperties0(githubwfRootOnOneOf2Workflow_runPatternProperties0);
-				if (result == null) result = caseGithubwfRootOnOneOf2Workflow_runPropertiesAbstract(githubwfRootOnOneOf2Workflow_runPatternProperties0);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -4703,12 +4675,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
-			case GithubwfPackage.NORMAL_JOB_STEPS_ITEMS_ALL_OF1_WITH_PROPERTIES_ABSTRACT: {
-				NormalJobStepsItemsAllOf1WithPropertiesAbstract normalJobStepsItemsAllOf1WithPropertiesAbstract = (NormalJobStepsItemsAllOf1WithPropertiesAbstract)theEObject;
-				T result = caseNormalJobStepsItemsAllOf1WithPropertiesAbstract(normalJobStepsItemsAllOf1WithPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
 			case GithubwfPackage.NORMAL_JOB_STEPS_ITEMS_ALL_OF1_CONTINUE_45ON_45ERROR_ABSTRACT: {
 				NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract normalJobStepsItemsAllOf1Continue_45on_45errorAbstract = (NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract)theEObject;
 				T result = caseNormalJobStepsItemsAllOf1Continue_45on_45errorAbstract(normalJobStepsItemsAllOf1Continue_45on_45errorAbstract);
@@ -5257,117 +5223,9 @@ public class GithubwfSwitch<T> extends Switch<T> {
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_BRANCH_PROTECTION_RULE_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract githubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract = (GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract(githubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_CHECK_RUN_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Check_runPropertiesAbstract githubwfRootOnOneOf2Check_runPropertiesAbstract = (GithubwfRootOnOneOf2Check_runPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Check_runPropertiesAbstract(githubwfRootOnOneOf2Check_runPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_CHECK_SUITE_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Check_suitePropertiesAbstract githubwfRootOnOneOf2Check_suitePropertiesAbstract = (GithubwfRootOnOneOf2Check_suitePropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Check_suitePropertiesAbstract(githubwfRootOnOneOf2Check_suitePropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2DiscussionPropertiesAbstract githubwfRootOnOneOf2DiscussionPropertiesAbstract = (GithubwfRootOnOneOf2DiscussionPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2DiscussionPropertiesAbstract(githubwfRootOnOneOf2DiscussionPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_DISCUSSION_COMMENT_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract githubwfRootOnOneOf2Discussion_commentPropertiesAbstract = (GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract(githubwfRootOnOneOf2Discussion_commentPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_ISSUE_COMMENT_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Issue_commentPropertiesAbstract githubwfRootOnOneOf2Issue_commentPropertiesAbstract = (GithubwfRootOnOneOf2Issue_commentPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Issue_commentPropertiesAbstract(githubwfRootOnOneOf2Issue_commentPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_ISSUES_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2IssuesPropertiesAbstract githubwfRootOnOneOf2IssuesPropertiesAbstract = (GithubwfRootOnOneOf2IssuesPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2IssuesPropertiesAbstract(githubwfRootOnOneOf2IssuesPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_LABEL_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2LabelPropertiesAbstract githubwfRootOnOneOf2LabelPropertiesAbstract = (GithubwfRootOnOneOf2LabelPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2LabelPropertiesAbstract(githubwfRootOnOneOf2LabelPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_MEMBER_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2MemberPropertiesAbstract githubwfRootOnOneOf2MemberPropertiesAbstract = (GithubwfRootOnOneOf2MemberPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2MemberPropertiesAbstract(githubwfRootOnOneOf2MemberPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_MERGE_GROUP_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Merge_groupPropertiesAbstract githubwfRootOnOneOf2Merge_groupPropertiesAbstract = (GithubwfRootOnOneOf2Merge_groupPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Merge_groupPropertiesAbstract(githubwfRootOnOneOf2Merge_groupPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_MILESTONE_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2MilestonePropertiesAbstract githubwfRootOnOneOf2MilestonePropertiesAbstract = (GithubwfRootOnOneOf2MilestonePropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2MilestonePropertiesAbstract(githubwfRootOnOneOf2MilestonePropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2ProjectPropertiesAbstract githubwfRootOnOneOf2ProjectPropertiesAbstract = (GithubwfRootOnOneOf2ProjectPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2ProjectPropertiesAbstract(githubwfRootOnOneOf2ProjectPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_CARD_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Project_cardPropertiesAbstract githubwfRootOnOneOf2Project_cardPropertiesAbstract = (GithubwfRootOnOneOf2Project_cardPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Project_cardPropertiesAbstract(githubwfRootOnOneOf2Project_cardPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PROJECT_COLUMN_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Project_columnPropertiesAbstract githubwfRootOnOneOf2Project_columnPropertiesAbstract = (GithubwfRootOnOneOf2Project_columnPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Project_columnPropertiesAbstract(githubwfRootOnOneOf2Project_columnPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Pull_requestPropertiesAbstract githubwfRootOnOneOf2Pull_requestPropertiesAbstract = (GithubwfRootOnOneOf2Pull_requestPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Pull_requestPropertiesAbstract(githubwfRootOnOneOf2Pull_requestPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
 			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_PATTERN_PROPERTIES0_ITEMS: {
 				GithubwfRootOnOneOf2Pull_requestPatternProperties0Items githubwfRootOnOneOf2Pull_requestPatternProperties0Items = (GithubwfRootOnOneOf2Pull_requestPatternProperties0Items)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_requestPatternProperties0Items(githubwfRootOnOneOf2Pull_requestPatternProperties0Items);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract githubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract = (GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract(githubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_REVIEW_COMMENT_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract githubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract = (GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract(githubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PULL_REQUEST_TARGET_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract githubwfRootOnOneOf2Pull_request_targetPropertiesAbstract = (GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract(githubwfRootOnOneOf2Pull_request_targetPropertiesAbstract);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -5442,24 +5300,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 				GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull = (GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull)theEObject;
 				T result = caseGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull(githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull);
 				if (result == null) result = caseGithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract(githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_PUSH_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2PushPropertiesAbstract githubwfRootOnOneOf2PushPropertiesAbstract = (GithubwfRootOnOneOf2PushPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2PushPropertiesAbstract(githubwfRootOnOneOf2PushPropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_REGISTRY_PACKAGE_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Registry_packagePropertiesAbstract githubwfRootOnOneOf2Registry_packagePropertiesAbstract = (GithubwfRootOnOneOf2Registry_packagePropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Registry_packagePropertiesAbstract(githubwfRootOnOneOf2Registry_packagePropertiesAbstract);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_RELEASE_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2ReleasePropertiesAbstract githubwfRootOnOneOf2ReleasePropertiesAbstract = (GithubwfRootOnOneOf2ReleasePropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2ReleasePropertiesAbstract(githubwfRootOnOneOf2ReleasePropertiesAbstract);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -6459,12 +6299,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 				GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull = (GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull)theEObject;
 				T result = caseGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull(githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull);
 				if (result == null) result = caseGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstract(githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull);
-				if (result == null) result = defaultCase(theEObject);
-				return result;
-			}
-			case GithubwfPackage.GITHUBWF_ROOT_ON_ONE_OF2_WORKFLOW_RUN_PROPERTIES_ABSTRACT: {
-				GithubwfRootOnOneOf2Workflow_runPropertiesAbstract githubwfRootOnOneOf2Workflow_runPropertiesAbstract = (GithubwfRootOnOneOf2Workflow_runPropertiesAbstract)theEObject;
-				T result = caseGithubwfRootOnOneOf2Workflow_runPropertiesAbstract(githubwfRootOnOneOf2Workflow_runPropertiesAbstract);
 				if (result == null) result = defaultCase(theEObject);
 				return result;
 			}
@@ -17283,21 +17117,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 	}
 
 	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Normal Job Steps Items All Of1 With Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Normal Job Steps Items All Of1 With Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseNormalJobStepsItemsAllOf1WithPropertiesAbstract(NormalJobStepsItemsAllOf1WithPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
 	 * Returns the result of interpreting the object as an instance of '<em>Normal Job Steps Items All Of1 Continue 45on 45error Abstract</em>'.
 	 * <!-- begin-user-doc -->
 	 * This implementation returns null;
@@ -18528,231 +18347,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 	}
 
 	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Branch protection rule Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Branch protection rule Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract(GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Check run Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Check run Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Check_runPropertiesAbstract(GithubwfRootOnOneOf2Check_runPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Check suite Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Check suite Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Check_suitePropertiesAbstract(GithubwfRootOnOneOf2Check_suitePropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Discussion Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Discussion Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2DiscussionPropertiesAbstract(GithubwfRootOnOneOf2DiscussionPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Discussion comment Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Discussion comment Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract(GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Issue comment Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Issue comment Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Issue_commentPropertiesAbstract(GithubwfRootOnOneOf2Issue_commentPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Issues Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Issues Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2IssuesPropertiesAbstract(GithubwfRootOnOneOf2IssuesPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Label Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Label Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2LabelPropertiesAbstract(GithubwfRootOnOneOf2LabelPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Member Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Member Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2MemberPropertiesAbstract(GithubwfRootOnOneOf2MemberPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Merge group Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Merge group Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Merge_groupPropertiesAbstract(GithubwfRootOnOneOf2Merge_groupPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Milestone Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Milestone Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2MilestonePropertiesAbstract(GithubwfRootOnOneOf2MilestonePropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Project Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Project Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2ProjectPropertiesAbstract(GithubwfRootOnOneOf2ProjectPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Project card Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Project card Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Project_cardPropertiesAbstract(GithubwfRootOnOneOf2Project_cardPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Project column Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Project column Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Project_columnPropertiesAbstract(GithubwfRootOnOneOf2Project_columnPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Pull_requestPropertiesAbstract(GithubwfRootOnOneOf2Pull_requestPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
 	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request Pattern Properties0 Items</em>'.
 	 * <!-- begin-user-doc -->
 	 * This implementation returns null;
@@ -18764,51 +18358,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 	 * @generated
 	 */
 	public T caseGithubwfRootOnOneOf2Pull_requestPatternProperties0Items(GithubwfRootOnOneOf2Pull_requestPatternProperties0Items object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request review Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request review Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract(GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request review comment Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request review comment Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract(GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request target Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Pull request target Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract(GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract object) {
 		return null;
 	}
 
@@ -18974,51 +18523,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 	 * @generated
 	 */
 	public T caseGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull(GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Push Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Push Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2PushPropertiesAbstract(GithubwfRootOnOneOf2PushPropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Registry package Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Registry package Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Registry_packagePropertiesAbstract(GithubwfRootOnOneOf2Registry_packagePropertiesAbstract object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Release Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Release Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2ReleasePropertiesAbstract(GithubwfRootOnOneOf2ReleasePropertiesAbstract object) {
 		return null;
 	}
 
@@ -21254,21 +20758,6 @@ public class GithubwfSwitch<T> extends Switch<T> {
 	 * @generated
 	 */
 	public T caseGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull(GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull object) {
-		return null;
-	}
-
-	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Root On One Of2 Workflow run Properties Abstract</em>'.
-	 * <!-- begin-user-doc -->
-	 * This implementation returns null;
-	 * returning a non-null result will terminate the switch.
-	 * <!-- end-user-doc -->
-	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Root On One Of2 Workflow run Properties Abstract</em>'.
-	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
-	 * @generated
-	 */
-	public T caseGithubwfRootOnOneOf2Workflow_runPropertiesAbstract(GithubwfRootOnOneOf2Workflow_runPropertiesAbstract object) {
 		return null;
 	}
 

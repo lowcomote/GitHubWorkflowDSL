@@ -4953,13 +4953,6 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	private EClass normalJobStepsItemsAllOf1WithPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
 	private EClass normalJobStepsItemsAllOf1Continue_45on_45errorAbstractEClass = null;
 
 	/**
@@ -5534,133 +5527,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	private EClass githubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Check_runPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Check_suitePropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2DiscussionPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Discussion_commentPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Issue_commentPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2IssuesPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2LabelPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2MemberPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Merge_groupPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2MilestonePropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2ProjectPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Project_cardPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Project_columnPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Pull_requestPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
 	private EClass githubwfRootOnOneOf2Pull_requestPatternProperties0ItemsEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Pull_request_targetPropertiesAbstractEClass = null;
 
 	/**
 	 * <!-- begin-user-doc -->
@@ -5738,27 +5605,6 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * @generated
 	 */
 	private EClass githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2PushPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2Registry_packagePropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	private EClass githubwfRootOnOneOf2ReleasePropertiesAbstractEClass = null;
 
 	/**
 	 * <!-- begin-user-doc -->
@@ -6808,13 +6654,6 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	private EClass githubwfRootOnOneOf2Workflow_runPropertiesAbstractEClass = null;
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
 	private EClass githubwfRootOnOneOf2Workflow_runPatternProperties0AbstractEClass = null;
 
 	/**
@@ -7136,7 +6975,6 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	private GithubwfPackageImpl() {
 		super(eNS_URI, GithubwfFactory.eINSTANCE);
 	}
-
 	/**
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -26399,22 +26237,9 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * @generated
 	 */
 	@Override
-	public EClass getNormalJobStepsItemsAllOf1WithPropertiesAbstract() {
-		if (normalJobStepsItemsAllOf1WithPropertiesAbstractEClass == null) {
-			normalJobStepsItemsAllOf1WithPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(701);
-		}
-		return normalJobStepsItemsAllOf1WithPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorAbstract() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorAbstractEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(702);
+			normalJobStepsItemsAllOf1Continue_45on_45errorAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(701);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorAbstractEClass;
 	}
@@ -26427,7 +26252,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeString() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeStringEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(703);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(702);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeStringEClass;
 	}
@@ -26450,7 +26275,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeInteger() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeIntegerEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(704);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(703);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeIntegerEClass;
 	}
@@ -26473,7 +26298,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeNumber() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeNumberEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(705);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(704);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeNumberEClass;
 	}
@@ -26496,7 +26321,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeBoolean() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeBooleanEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(706);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(705);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeBooleanEClass;
 	}
@@ -26519,7 +26344,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeObject() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeObjectEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(707);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(706);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeObjectEClass;
 	}
@@ -26552,7 +26377,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorPropertiesAbstract() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorPropertiesAbstractEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(708);
+			normalJobStepsItemsAllOf1Continue_45on_45errorPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(707);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorPropertiesAbstractEClass;
 	}
@@ -26565,7 +26390,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorAdditionalProperties() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorAdditionalPropertiesEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(709);
+			normalJobStepsItemsAllOf1Continue_45on_45errorAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(708);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorAdditionalPropertiesEClass;
 	}
@@ -26618,7 +26443,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeArray() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeArrayEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(710);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(709);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeArrayEClass;
 	}
@@ -26641,7 +26466,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorItems() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorItemsEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(711);
+			normalJobStepsItemsAllOf1Continue_45on_45errorItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(710);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorItemsEClass;
 	}
@@ -26664,7 +26489,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStepsItemsAllOf1Continue_45on_45errorTypeNull() {
 		if (normalJobStepsItemsAllOf1Continue_45on_45errorTypeNullEClass == null) {
-			normalJobStepsItemsAllOf1Continue_45on_45errorTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(712);
+			normalJobStepsItemsAllOf1Continue_45on_45errorTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(711);
 		}
 		return normalJobStepsItemsAllOf1Continue_45on_45errorTypeNullEClass;
 	}
@@ -26687,7 +26512,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyPropertiesAbstract() {
 		if (normalJobStrategyPropertiesAbstractEClass == null) {
-			normalJobStrategyPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(713);
+			normalJobStrategyPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(712);
 		}
 		return normalJobStrategyPropertiesAbstractEClass;
 	}
@@ -26700,7 +26525,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAbstract() {
 		if (normalJobStrategyMatrixAbstractEClass == null) {
-			normalJobStrategyMatrixAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(714);
+			normalJobStrategyMatrixAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(713);
 		}
 		return normalJobStrategyMatrixAbstractEClass;
 	}
@@ -26713,7 +26538,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeString() {
 		if (normalJobStrategyMatrixTypeStringEClass == null) {
-			normalJobStrategyMatrixTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(715);
+			normalJobStrategyMatrixTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(714);
 		}
 		return normalJobStrategyMatrixTypeStringEClass;
 	}
@@ -26736,7 +26561,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeInteger() {
 		if (normalJobStrategyMatrixTypeIntegerEClass == null) {
-			normalJobStrategyMatrixTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(716);
+			normalJobStrategyMatrixTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(715);
 		}
 		return normalJobStrategyMatrixTypeIntegerEClass;
 	}
@@ -26759,7 +26584,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeNumber() {
 		if (normalJobStrategyMatrixTypeNumberEClass == null) {
-			normalJobStrategyMatrixTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(717);
+			normalJobStrategyMatrixTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(716);
 		}
 		return normalJobStrategyMatrixTypeNumberEClass;
 	}
@@ -26782,7 +26607,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeBoolean() {
 		if (normalJobStrategyMatrixTypeBooleanEClass == null) {
-			normalJobStrategyMatrixTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(718);
+			normalJobStrategyMatrixTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(717);
 		}
 		return normalJobStrategyMatrixTypeBooleanEClass;
 	}
@@ -26805,7 +26630,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeObject() {
 		if (normalJobStrategyMatrixTypeObjectEClass == null) {
-			normalJobStrategyMatrixTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(719);
+			normalJobStrategyMatrixTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(718);
 		}
 		return normalJobStrategyMatrixTypeObjectEClass;
 	}
@@ -26838,7 +26663,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixPropertiesAbstract() {
 		if (normalJobStrategyMatrixPropertiesAbstractEClass == null) {
-			normalJobStrategyMatrixPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(720);
+			normalJobStrategyMatrixPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(719);
 		}
 		return normalJobStrategyMatrixPropertiesAbstractEClass;
 	}
@@ -26851,7 +26676,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeArray() {
 		if (normalJobStrategyMatrixTypeArrayEClass == null) {
-			normalJobStrategyMatrixTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(721);
+			normalJobStrategyMatrixTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(720);
 		}
 		return normalJobStrategyMatrixTypeArrayEClass;
 	}
@@ -26874,7 +26699,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixItems() {
 		if (normalJobStrategyMatrixItemsEClass == null) {
-			normalJobStrategyMatrixItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(722);
+			normalJobStrategyMatrixItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(721);
 		}
 		return normalJobStrategyMatrixItemsEClass;
 	}
@@ -26897,7 +26722,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixTypeNull() {
 		if (normalJobStrategyMatrixTypeNullEClass == null) {
-			normalJobStrategyMatrixTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(723);
+			normalJobStrategyMatrixTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(722);
 		}
 		return normalJobStrategyMatrixTypeNullEClass;
 	}
@@ -26920,7 +26745,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixOneOf0PropertiesAbstract() {
 		if (normalJobStrategyMatrixOneOf0PropertiesAbstractEClass == null) {
-			normalJobStrategyMatrixOneOf0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(724);
+			normalJobStrategyMatrixOneOf0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(723);
 		}
 		return normalJobStrategyMatrixOneOf0PropertiesAbstractEClass;
 	}
@@ -26933,7 +26758,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixOneOf0AdditionalProperties() {
 		if (normalJobStrategyMatrixOneOf0AdditionalPropertiesEClass == null) {
-			normalJobStrategyMatrixOneOf0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(725);
+			normalJobStrategyMatrixOneOf0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(724);
 		}
 		return normalJobStrategyMatrixOneOf0AdditionalPropertiesEClass;
 	}
@@ -26986,7 +26811,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixPatternProperties0ItemsPropertiesAbstract() {
 		if (normalJobStrategyMatrixPatternProperties0ItemsPropertiesAbstractEClass == null) {
-			normalJobStrategyMatrixPatternProperties0ItemsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(726);
+			normalJobStrategyMatrixPatternProperties0ItemsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(725);
 		}
 		return normalJobStrategyMatrixPatternProperties0ItemsPropertiesAbstractEClass;
 	}
@@ -26999,7 +26824,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesAbstract() {
 		if (normalJobStrategyMatrixAdditionalPropertiesAbstractEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(727);
+			normalJobStrategyMatrixAdditionalPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(726);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesAbstractEClass;
 	}
@@ -27012,7 +26837,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeString() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeStringEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(728);
+			normalJobStrategyMatrixAdditionalPropertiesTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(727);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeStringEClass;
 	}
@@ -27035,7 +26860,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeInteger() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeIntegerEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(729);
+			normalJobStrategyMatrixAdditionalPropertiesTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(728);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeIntegerEClass;
 	}
@@ -27058,7 +26883,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeNumber() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeNumberEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(730);
+			normalJobStrategyMatrixAdditionalPropertiesTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(729);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeNumberEClass;
 	}
@@ -27081,7 +26906,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeBoolean() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeBooleanEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(731);
+			normalJobStrategyMatrixAdditionalPropertiesTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(730);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeBooleanEClass;
 	}
@@ -27104,7 +26929,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeObject() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeObjectEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(732);
+			normalJobStrategyMatrixAdditionalPropertiesTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(731);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeObjectEClass;
 	}
@@ -27137,7 +26962,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesPropertiesAbstract() {
 		if (normalJobStrategyMatrixAdditionalPropertiesPropertiesAbstractEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(733);
+			normalJobStrategyMatrixAdditionalPropertiesPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(732);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesPropertiesAbstractEClass;
 	}
@@ -27150,7 +26975,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesAdditionalProperties() {
 		if (normalJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(734);
+			normalJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(733);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesAdditionalPropertiesEClass;
 	}
@@ -27203,7 +27028,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeArray() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeArrayEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(735);
+			normalJobStrategyMatrixAdditionalPropertiesTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(734);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeArrayEClass;
 	}
@@ -27226,7 +27051,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesItems() {
 		if (normalJobStrategyMatrixAdditionalPropertiesItemsEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(736);
+			normalJobStrategyMatrixAdditionalPropertiesItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(735);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesItemsEClass;
 	}
@@ -27249,7 +27074,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobStrategyMatrixAdditionalPropertiesTypeNull() {
 		if (normalJobStrategyMatrixAdditionalPropertiesTypeNullEClass == null) {
-			normalJobStrategyMatrixAdditionalPropertiesTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(737);
+			normalJobStrategyMatrixAdditionalPropertiesTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(736);
 		}
 		return normalJobStrategyMatrixAdditionalPropertiesTypeNullEClass;
 	}
@@ -27272,7 +27097,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorAbstract() {
 		if (normalJobContinue_45on_45errorAbstractEClass == null) {
-			normalJobContinue_45on_45errorAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(738);
+			normalJobContinue_45on_45errorAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(737);
 		}
 		return normalJobContinue_45on_45errorAbstractEClass;
 	}
@@ -27285,7 +27110,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeString() {
 		if (normalJobContinue_45on_45errorTypeStringEClass == null) {
-			normalJobContinue_45on_45errorTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(739);
+			normalJobContinue_45on_45errorTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(738);
 		}
 		return normalJobContinue_45on_45errorTypeStringEClass;
 	}
@@ -27308,7 +27133,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeInteger() {
 		if (normalJobContinue_45on_45errorTypeIntegerEClass == null) {
-			normalJobContinue_45on_45errorTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(740);
+			normalJobContinue_45on_45errorTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(739);
 		}
 		return normalJobContinue_45on_45errorTypeIntegerEClass;
 	}
@@ -27331,7 +27156,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeNumber() {
 		if (normalJobContinue_45on_45errorTypeNumberEClass == null) {
-			normalJobContinue_45on_45errorTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(741);
+			normalJobContinue_45on_45errorTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(740);
 		}
 		return normalJobContinue_45on_45errorTypeNumberEClass;
 	}
@@ -27354,7 +27179,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeBoolean() {
 		if (normalJobContinue_45on_45errorTypeBooleanEClass == null) {
-			normalJobContinue_45on_45errorTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(742);
+			normalJobContinue_45on_45errorTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(741);
 		}
 		return normalJobContinue_45on_45errorTypeBooleanEClass;
 	}
@@ -27377,7 +27202,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeObject() {
 		if (normalJobContinue_45on_45errorTypeObjectEClass == null) {
-			normalJobContinue_45on_45errorTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(743);
+			normalJobContinue_45on_45errorTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(742);
 		}
 		return normalJobContinue_45on_45errorTypeObjectEClass;
 	}
@@ -27410,7 +27235,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorPropertiesAbstract() {
 		if (normalJobContinue_45on_45errorPropertiesAbstractEClass == null) {
-			normalJobContinue_45on_45errorPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(744);
+			normalJobContinue_45on_45errorPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(743);
 		}
 		return normalJobContinue_45on_45errorPropertiesAbstractEClass;
 	}
@@ -27423,7 +27248,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorAdditionalProperties() {
 		if (normalJobContinue_45on_45errorAdditionalPropertiesEClass == null) {
-			normalJobContinue_45on_45errorAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(745);
+			normalJobContinue_45on_45errorAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(744);
 		}
 		return normalJobContinue_45on_45errorAdditionalPropertiesEClass;
 	}
@@ -27476,7 +27301,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeArray() {
 		if (normalJobContinue_45on_45errorTypeArrayEClass == null) {
-			normalJobContinue_45on_45errorTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(746);
+			normalJobContinue_45on_45errorTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(745);
 		}
 		return normalJobContinue_45on_45errorTypeArrayEClass;
 	}
@@ -27499,7 +27324,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorItems() {
 		if (normalJobContinue_45on_45errorItemsEClass == null) {
-			normalJobContinue_45on_45errorItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(747);
+			normalJobContinue_45on_45errorItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(746);
 		}
 		return normalJobContinue_45on_45errorItemsEClass;
 	}
@@ -27522,7 +27347,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContinue_45on_45errorTypeNull() {
 		if (normalJobContinue_45on_45errorTypeNullEClass == null) {
-			normalJobContinue_45on_45errorTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(748);
+			normalJobContinue_45on_45errorTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(747);
 		}
 		return normalJobContinue_45on_45errorTypeNullEClass;
 	}
@@ -27545,7 +27370,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerAbstract() {
 		if (normalJobContainerAbstractEClass == null) {
-			normalJobContainerAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(749);
+			normalJobContainerAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(748);
 		}
 		return normalJobContainerAbstractEClass;
 	}
@@ -27558,7 +27383,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeString() {
 		if (normalJobContainerTypeStringEClass == null) {
-			normalJobContainerTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(750);
+			normalJobContainerTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(749);
 		}
 		return normalJobContainerTypeStringEClass;
 	}
@@ -27581,7 +27406,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeInteger() {
 		if (normalJobContainerTypeIntegerEClass == null) {
-			normalJobContainerTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(751);
+			normalJobContainerTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(750);
 		}
 		return normalJobContainerTypeIntegerEClass;
 	}
@@ -27604,7 +27429,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeNumber() {
 		if (normalJobContainerTypeNumberEClass == null) {
-			normalJobContainerTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(752);
+			normalJobContainerTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(751);
 		}
 		return normalJobContainerTypeNumberEClass;
 	}
@@ -27627,7 +27452,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeBoolean() {
 		if (normalJobContainerTypeBooleanEClass == null) {
-			normalJobContainerTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(753);
+			normalJobContainerTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(752);
 		}
 		return normalJobContainerTypeBooleanEClass;
 	}
@@ -27650,7 +27475,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeObject() {
 		if (normalJobContainerTypeObjectEClass == null) {
-			normalJobContainerTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(754);
+			normalJobContainerTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(753);
 		}
 		return normalJobContainerTypeObjectEClass;
 	}
@@ -27683,7 +27508,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerPropertiesAbstract() {
 		if (normalJobContainerPropertiesAbstractEClass == null) {
-			normalJobContainerPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(755);
+			normalJobContainerPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(754);
 		}
 		return normalJobContainerPropertiesAbstractEClass;
 	}
@@ -27696,7 +27521,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerAdditionalProperties() {
 		if (normalJobContainerAdditionalPropertiesEClass == null) {
-			normalJobContainerAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(756);
+			normalJobContainerAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(755);
 		}
 		return normalJobContainerAdditionalPropertiesEClass;
 	}
@@ -27749,7 +27574,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeArray() {
 		if (normalJobContainerTypeArrayEClass == null) {
-			normalJobContainerTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(757);
+			normalJobContainerTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(756);
 		}
 		return normalJobContainerTypeArrayEClass;
 	}
@@ -27772,7 +27597,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerItems() {
 		if (normalJobContainerItemsEClass == null) {
-			normalJobContainerItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(758);
+			normalJobContainerItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(757);
 		}
 		return normalJobContainerItemsEClass;
 	}
@@ -27795,7 +27620,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobContainerTypeNull() {
 		if (normalJobContainerTypeNullEClass == null) {
-			normalJobContainerTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(759);
+			normalJobContainerTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(758);
 		}
 		return normalJobContainerTypeNullEClass;
 	}
@@ -27818,7 +27643,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobServicesPropertiesAbstract() {
 		if (normalJobServicesPropertiesAbstractEClass == null) {
-			normalJobServicesPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(760);
+			normalJobServicesPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(759);
 		}
 		return normalJobServicesPropertiesAbstractEClass;
 	}
@@ -27831,7 +27656,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyAbstract() {
 		if (normalJobConcurrencyAbstractEClass == null) {
-			normalJobConcurrencyAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(761);
+			normalJobConcurrencyAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(760);
 		}
 		return normalJobConcurrencyAbstractEClass;
 	}
@@ -27844,7 +27669,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeString() {
 		if (normalJobConcurrencyTypeStringEClass == null) {
-			normalJobConcurrencyTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(762);
+			normalJobConcurrencyTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(761);
 		}
 		return normalJobConcurrencyTypeStringEClass;
 	}
@@ -27867,7 +27692,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeInteger() {
 		if (normalJobConcurrencyTypeIntegerEClass == null) {
-			normalJobConcurrencyTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(763);
+			normalJobConcurrencyTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(762);
 		}
 		return normalJobConcurrencyTypeIntegerEClass;
 	}
@@ -27890,7 +27715,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeNumber() {
 		if (normalJobConcurrencyTypeNumberEClass == null) {
-			normalJobConcurrencyTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(764);
+			normalJobConcurrencyTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(763);
 		}
 		return normalJobConcurrencyTypeNumberEClass;
 	}
@@ -27913,7 +27738,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeBoolean() {
 		if (normalJobConcurrencyTypeBooleanEClass == null) {
-			normalJobConcurrencyTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(765);
+			normalJobConcurrencyTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(764);
 		}
 		return normalJobConcurrencyTypeBooleanEClass;
 	}
@@ -27936,7 +27761,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeObject() {
 		if (normalJobConcurrencyTypeObjectEClass == null) {
-			normalJobConcurrencyTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(766);
+			normalJobConcurrencyTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(765);
 		}
 		return normalJobConcurrencyTypeObjectEClass;
 	}
@@ -27969,7 +27794,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyPropertiesAbstract() {
 		if (normalJobConcurrencyPropertiesAbstractEClass == null) {
-			normalJobConcurrencyPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(767);
+			normalJobConcurrencyPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(766);
 		}
 		return normalJobConcurrencyPropertiesAbstractEClass;
 	}
@@ -27982,7 +27807,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyAdditionalProperties() {
 		if (normalJobConcurrencyAdditionalPropertiesEClass == null) {
-			normalJobConcurrencyAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(768);
+			normalJobConcurrencyAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(767);
 		}
 		return normalJobConcurrencyAdditionalPropertiesEClass;
 	}
@@ -28035,7 +27860,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeArray() {
 		if (normalJobConcurrencyTypeArrayEClass == null) {
-			normalJobConcurrencyTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(769);
+			normalJobConcurrencyTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(768);
 		}
 		return normalJobConcurrencyTypeArrayEClass;
 	}
@@ -28058,7 +27883,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyItems() {
 		if (normalJobConcurrencyItemsEClass == null) {
-			normalJobConcurrencyItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(770);
+			normalJobConcurrencyItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(769);
 		}
 		return normalJobConcurrencyItemsEClass;
 	}
@@ -28081,7 +27906,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getNormalJobConcurrencyTypeNull() {
 		if (normalJobConcurrencyTypeNullEClass == null) {
-			normalJobConcurrencyTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(771);
+			normalJobConcurrencyTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(770);
 		}
 		return normalJobConcurrencyTypeNullEClass;
 	}
@@ -28104,7 +27929,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnAbstract() {
 		if (githubwfRootOnAbstractEClass == null) {
-			githubwfRootOnAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(772);
+			githubwfRootOnAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(771);
 		}
 		return githubwfRootOnAbstractEClass;
 	}
@@ -28117,7 +27942,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeString() {
 		if (githubwfRootOnTypeStringEClass == null) {
-			githubwfRootOnTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(773);
+			githubwfRootOnTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(772);
 		}
 		return githubwfRootOnTypeStringEClass;
 	}
@@ -28140,7 +27965,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeInteger() {
 		if (githubwfRootOnTypeIntegerEClass == null) {
-			githubwfRootOnTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(774);
+			githubwfRootOnTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(773);
 		}
 		return githubwfRootOnTypeIntegerEClass;
 	}
@@ -28163,7 +27988,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeNumber() {
 		if (githubwfRootOnTypeNumberEClass == null) {
-			githubwfRootOnTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(775);
+			githubwfRootOnTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(774);
 		}
 		return githubwfRootOnTypeNumberEClass;
 	}
@@ -28186,7 +28011,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeBoolean() {
 		if (githubwfRootOnTypeBooleanEClass == null) {
-			githubwfRootOnTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(776);
+			githubwfRootOnTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(775);
 		}
 		return githubwfRootOnTypeBooleanEClass;
 	}
@@ -28209,7 +28034,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeObject() {
 		if (githubwfRootOnTypeObjectEClass == null) {
-			githubwfRootOnTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(777);
+			githubwfRootOnTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(776);
 		}
 		return githubwfRootOnTypeObjectEClass;
 	}
@@ -28242,7 +28067,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnPropertiesAbstract() {
 		if (githubwfRootOnPropertiesAbstractEClass == null) {
-			githubwfRootOnPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(778);
+			githubwfRootOnPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(777);
 		}
 		return githubwfRootOnPropertiesAbstractEClass;
 	}
@@ -28255,7 +28080,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnAdditionalProperties() {
 		if (githubwfRootOnAdditionalPropertiesEClass == null) {
-			githubwfRootOnAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(779);
+			githubwfRootOnAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(778);
 		}
 		return githubwfRootOnAdditionalPropertiesEClass;
 	}
@@ -28308,7 +28133,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeArray() {
 		if (githubwfRootOnTypeArrayEClass == null) {
-			githubwfRootOnTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(780);
+			githubwfRootOnTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(779);
 		}
 		return githubwfRootOnTypeArrayEClass;
 	}
@@ -28331,7 +28156,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnItems() {
 		if (githubwfRootOnItemsEClass == null) {
-			githubwfRootOnItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(781);
+			githubwfRootOnItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(780);
 		}
 		return githubwfRootOnItemsEClass;
 	}
@@ -28354,7 +28179,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnTypeNull() {
 		if (githubwfRootOnTypeNullEClass == null) {
-			githubwfRootOnTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(782);
+			githubwfRootOnTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(781);
 		}
 		return githubwfRootOnTypeNullEClass;
 	}
@@ -28377,7 +28202,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2PropertiesAbstract() {
 		if (githubwfRootOnOneOf2PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(783);
+			githubwfRootOnOneOf2PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(782);
 		}
 		return githubwfRootOnOneOf2PropertiesAbstractEClass;
 	}
@@ -28388,204 +28213,9 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * @generated
 	 */
 	@Override
-	public EClass getGithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract() {
-		if (githubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(784);
-		}
-		return githubwfRootOnOneOf2Branch_protection_rulePropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Check_runPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Check_runPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Check_runPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(785);
-		}
-		return githubwfRootOnOneOf2Check_runPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Check_suitePropertiesAbstract() {
-		if (githubwfRootOnOneOf2Check_suitePropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Check_suitePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(786);
-		}
-		return githubwfRootOnOneOf2Check_suitePropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2DiscussionPropertiesAbstract() {
-		if (githubwfRootOnOneOf2DiscussionPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2DiscussionPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(787);
-		}
-		return githubwfRootOnOneOf2DiscussionPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Discussion_commentPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Discussion_commentPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Discussion_commentPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(788);
-		}
-		return githubwfRootOnOneOf2Discussion_commentPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Issue_commentPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Issue_commentPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Issue_commentPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(789);
-		}
-		return githubwfRootOnOneOf2Issue_commentPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2IssuesPropertiesAbstract() {
-		if (githubwfRootOnOneOf2IssuesPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2IssuesPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(790);
-		}
-		return githubwfRootOnOneOf2IssuesPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2LabelPropertiesAbstract() {
-		if (githubwfRootOnOneOf2LabelPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2LabelPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(791);
-		}
-		return githubwfRootOnOneOf2LabelPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2MemberPropertiesAbstract() {
-		if (githubwfRootOnOneOf2MemberPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2MemberPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(792);
-		}
-		return githubwfRootOnOneOf2MemberPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Merge_groupPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Merge_groupPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Merge_groupPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(793);
-		}
-		return githubwfRootOnOneOf2Merge_groupPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2MilestonePropertiesAbstract() {
-		if (githubwfRootOnOneOf2MilestonePropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2MilestonePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(794);
-		}
-		return githubwfRootOnOneOf2MilestonePropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2ProjectPropertiesAbstract() {
-		if (githubwfRootOnOneOf2ProjectPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2ProjectPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(795);
-		}
-		return githubwfRootOnOneOf2ProjectPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Project_cardPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Project_cardPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Project_cardPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(796);
-		}
-		return githubwfRootOnOneOf2Project_cardPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Project_columnPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Project_columnPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Project_columnPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(797);
-		}
-		return githubwfRootOnOneOf2Project_columnPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Pull_requestPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Pull_requestPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Pull_requestPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(798);
-		}
-		return githubwfRootOnOneOf2Pull_requestPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_requestPatternProperties0Items() {
 		if (githubwfRootOnOneOf2Pull_requestPatternProperties0ItemsEClass == null) {
-			githubwfRootOnOneOf2Pull_requestPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(799);
+			githubwfRootOnOneOf2Pull_requestPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(783);
 		}
 		return githubwfRootOnOneOf2Pull_requestPatternProperties0ItemsEClass;
 	}
@@ -28606,48 +28236,9 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * @generated
 	 */
 	@Override
-	public EClass getGithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(800);
-		}
-		return githubwfRootOnOneOf2Pull_request_reviewPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(801);
-		}
-		return githubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Pull_request_targetPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(802);
-		}
-		return githubwfRootOnOneOf2Pull_request_targetPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0AbstractEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(803);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(784);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0AbstractEClass;
 	}
@@ -28660,7 +28251,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeString() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeStringEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(804);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(785);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeStringEClass;
 	}
@@ -28683,7 +28274,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeInteger() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(805);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(786);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeIntegerEClass;
 	}
@@ -28706,7 +28297,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNumber() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNumberEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(806);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(787);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNumberEClass;
 	}
@@ -28729,7 +28320,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeBoolean() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(807);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(788);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeBooleanEClass;
 	}
@@ -28752,7 +28343,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObject() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObjectEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(808);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(789);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeObjectEClass;
 	}
@@ -28785,7 +28376,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(809);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(790);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0PropertiesAbstractEClass;
 	}
@@ -28798,7 +28389,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalProperties() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(810);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(791);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0AdditionalPropertiesEClass;
 	}
@@ -28851,7 +28442,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArray() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArrayEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(811);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(792);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeArrayEClass;
 	}
@@ -28874,7 +28465,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0Items() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0ItemsEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(812);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(793);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0ItemsEClass;
 	}
@@ -28897,7 +28488,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull() {
 		if (githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullEClass == null) {
-			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(813);
+			githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(794);
 		}
 		return githubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNullEClass;
 	}
@@ -28918,48 +28509,9 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * @generated
 	 */
 	@Override
-	public EClass getGithubwfRootOnOneOf2PushPropertiesAbstract() {
-		if (githubwfRootOnOneOf2PushPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2PushPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(814);
-		}
-		return githubwfRootOnOneOf2PushPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2Registry_packagePropertiesAbstract() {
-		if (githubwfRootOnOneOf2Registry_packagePropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Registry_packagePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(815);
-		}
-		return githubwfRootOnOneOf2Registry_packagePropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public EClass getGithubwfRootOnOneOf2ReleasePropertiesAbstract() {
-		if (githubwfRootOnOneOf2ReleasePropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2ReleasePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(816);
-		}
-		return githubwfRootOnOneOf2ReleasePropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(817);
+			githubwfRootOnOneOf2Workflow_callAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(795);
 		}
 		return githubwfRootOnOneOf2Workflow_callAbstractEClass;
 	}
@@ -28972,7 +28524,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeString() {
 		if (githubwfRootOnOneOf2Workflow_callTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(818);
+			githubwfRootOnOneOf2Workflow_callTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(796);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeStringEClass;
 	}
@@ -28995,7 +28547,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_callTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(819);
+			githubwfRootOnOneOf2Workflow_callTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(797);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeIntegerEClass;
 	}
@@ -29018,7 +28570,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_callTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(820);
+			githubwfRootOnOneOf2Workflow_callTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(798);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeNumberEClass;
 	}
@@ -29041,7 +28593,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_callTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(821);
+			githubwfRootOnOneOf2Workflow_callTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(799);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeBooleanEClass;
 	}
@@ -29064,7 +28616,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_callTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(822);
+			githubwfRootOnOneOf2Workflow_callTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(800);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeObjectEClass;
 	}
@@ -29117,7 +28669,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(823);
+			githubwfRootOnOneOf2Workflow_callPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(801);
 		}
 		return githubwfRootOnOneOf2Workflow_callPropertiesAbstractEClass;
 	}
@@ -29130,7 +28682,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_callAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_callAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(824);
+			githubwfRootOnOneOf2Workflow_callAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(802);
 		}
 		return githubwfRootOnOneOf2Workflow_callAdditionalPropertiesEClass;
 	}
@@ -29183,7 +28735,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_callTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(825);
+			githubwfRootOnOneOf2Workflow_callTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(803);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeArrayEClass;
 	}
@@ -29206,7 +28758,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callItems() {
 		if (githubwfRootOnOneOf2Workflow_callItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_callItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(826);
+			githubwfRootOnOneOf2Workflow_callItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(804);
 		}
 		return githubwfRootOnOneOf2Workflow_callItemsEClass;
 	}
@@ -29229,7 +28781,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_callTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_callTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(827);
+			githubwfRootOnOneOf2Workflow_callTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(805);
 		}
 		return githubwfRootOnOneOf2Workflow_callTypeNullEClass;
 	}
@@ -29252,7 +28804,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callInputsPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callInputsPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callInputsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(828);
+			githubwfRootOnOneOf2Workflow_callInputsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(806);
 		}
 		return githubwfRootOnOneOf2Workflow_callInputsPropertiesAbstractEClass;
 	}
@@ -29265,7 +28817,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callInputsPatternProperties0PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(829);
+			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(807);
 		}
 		return githubwfRootOnOneOf2Workflow_callInputsPatternProperties0PropertiesAbstractEClass;
 	}
@@ -29278,7 +28830,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(830);
+			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(808);
 		}
 		return githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultAbstractEClass;
 	}
@@ -29291,7 +28843,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(831);
+			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(809);
 		}
 		return githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeBooleanEClass;
 	}
@@ -29314,7 +28866,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(832);
+			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(810);
 		}
 		return githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeNumberEClass;
 	}
@@ -29337,7 +28889,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeString() {
 		if (githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(833);
+			githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(811);
 		}
 		return githubwfRootOnOneOf2Workflow_callInputsPatternProperties0DefaultTypeStringEClass;
 	}
@@ -29360,7 +28912,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(834);
+			githubwfRootOnOneOf2Workflow_callSecretsAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(812);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsAbstractEClass;
 	}
@@ -29373,7 +28925,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeString() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(835);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(813);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeStringEClass;
 	}
@@ -29396,7 +28948,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(836);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(814);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeIntegerEClass;
 	}
@@ -29419,7 +28971,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(837);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(815);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeNumberEClass;
 	}
@@ -29442,7 +28994,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(838);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(816);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeBooleanEClass;
 	}
@@ -29465,7 +29017,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(839);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(817);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeObjectEClass;
 	}
@@ -29498,7 +29050,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(840);
+			githubwfRootOnOneOf2Workflow_callSecretsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(818);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPropertiesAbstractEClass;
 	}
@@ -29511,7 +29063,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(841);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(819);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeArrayEClass;
 	}
@@ -29534,7 +29086,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsItems() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(842);
+			githubwfRootOnOneOf2Workflow_callSecretsItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(820);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsItemsEClass;
 	}
@@ -29557,7 +29109,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(843);
+			githubwfRootOnOneOf2Workflow_callSecretsTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(821);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsTypeNullEClass;
 	}
@@ -29580,7 +29132,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0Abstract() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0AbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(844);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(822);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0AbstractEClass;
 	}
@@ -29593,7 +29145,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeString() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(845);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(823);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeStringEClass;
 	}
@@ -29616,7 +29168,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(846);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(824);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeIntegerEClass;
 	}
@@ -29639,7 +29191,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(847);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(825);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNumberEClass;
 	}
@@ -29662,7 +29214,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(848);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(826);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeBooleanEClass;
 	}
@@ -29685,7 +29237,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObject() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(849);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(827);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeObjectEClass;
 	}
@@ -29738,7 +29290,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(850);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(828);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0PropertiesAbstractEClass;
 	}
@@ -29751,7 +29303,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArray() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(851);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(829);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeArrayEClass;
 	}
@@ -29774,7 +29326,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0Items() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0ItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(852);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(830);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0ItemsEClass;
 	}
@@ -29797,7 +29349,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNull() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(853);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(831);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0TypeNullEClass;
 	}
@@ -29820,7 +29372,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(854);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(832);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAbstractEClass;
 	}
@@ -29833,7 +29385,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeString() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(855);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(833);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeStringEClass;
 	}
@@ -29856,7 +29408,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(856);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(834);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeIntegerEClass;
 	}
@@ -29879,7 +29431,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(857);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(835);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNumberEClass;
 	}
@@ -29902,7 +29454,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(858);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(836);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeBooleanEClass;
 	}
@@ -29925,7 +29477,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(859);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(837);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeObjectEClass;
 	}
@@ -29958,7 +29510,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(860);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(838);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredPropertiesAbstractEClass;
 	}
@@ -29971,7 +29523,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(861);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(839);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredAdditionalPropertiesEClass;
 	}
@@ -30024,7 +29576,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(862);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(840);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeArrayEClass;
 	}
@@ -30047,7 +29599,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredItems() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(863);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(841);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredItemsEClass;
 	}
@@ -30070,7 +29622,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(864);
+			githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(842);
 		}
 		return githubwfRootOnOneOf2Workflow_callSecretsPatternProperties0RequiredTypeNullEClass;
 	}
@@ -30093,7 +29645,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(865);
+			githubwfRootOnOneOf2Workflow_dispatchAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(843);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchAbstractEClass;
 	}
@@ -30106,7 +29658,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(866);
+			githubwfRootOnOneOf2Workflow_dispatchTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(844);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeStringEClass;
 	}
@@ -30129,7 +29681,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(867);
+			githubwfRootOnOneOf2Workflow_dispatchTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(845);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeIntegerEClass;
 	}
@@ -30152,7 +29704,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(868);
+			githubwfRootOnOneOf2Workflow_dispatchTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(846);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeNumberEClass;
 	}
@@ -30175,7 +29727,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(869);
+			githubwfRootOnOneOf2Workflow_dispatchTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(847);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeBooleanEClass;
 	}
@@ -30198,7 +29750,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(870);
+			githubwfRootOnOneOf2Workflow_dispatchTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(848);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeObjectEClass;
 	}
@@ -30241,7 +29793,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(871);
+			githubwfRootOnOneOf2Workflow_dispatchPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(849);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchPropertiesAbstractEClass;
 	}
@@ -30254,7 +29806,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(872);
+			githubwfRootOnOneOf2Workflow_dispatchAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(850);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchAdditionalPropertiesEClass;
 	}
@@ -30307,7 +29859,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(873);
+			githubwfRootOnOneOf2Workflow_dispatchTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(851);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeArrayEClass;
 	}
@@ -30330,7 +29882,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(874);
+			githubwfRootOnOneOf2Workflow_dispatchItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(852);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchItemsEClass;
 	}
@@ -30353,7 +29905,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(875);
+			githubwfRootOnOneOf2Workflow_dispatchTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(853);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchTypeNullEClass;
 	}
@@ -30376,7 +29928,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(876);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(854);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPropertiesAbstractEClass;
 	}
@@ -30389,7 +29941,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(877);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(855);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0PropertiesAbstractEClass;
 	}
@@ -30402,7 +29954,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(878);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(856);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAbstractEClass;
 	}
@@ -30415,7 +29967,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(879);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(857);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeStringEClass;
 	}
@@ -30438,7 +29990,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(880);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(858);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeIntegerEClass;
 	}
@@ -30461,7 +30013,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(881);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(859);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNumberEClass;
 	}
@@ -30484,7 +30036,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(882);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(860);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeBooleanEClass;
 	}
@@ -30507,7 +30059,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(883);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(861);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeObjectEClass;
 	}
@@ -30540,7 +30092,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(884);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(862);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultPropertiesAbstractEClass;
 	}
@@ -30553,7 +30105,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(885);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(863);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultAdditionalPropertiesEClass;
 	}
@@ -30606,7 +30158,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(886);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(864);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeArrayEClass;
 	}
@@ -30629,7 +30181,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(887);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(865);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultItemsEClass;
 	}
@@ -30652,7 +30204,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(888);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(866);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0DefaultTypeNullEClass;
 	}
@@ -30675,7 +30227,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0Abstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(889);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(867);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AbstractEClass;
 	}
@@ -30688,7 +30240,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(890);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(868);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeStringEClass;
 	}
@@ -30711,7 +30263,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(891);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(869);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeIntegerEClass;
 	}
@@ -30734,7 +30286,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(892);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(870);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNumberEClass;
 	}
@@ -30757,7 +30309,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(893);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(871);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeBooleanEClass;
 	}
@@ -30780,7 +30332,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(894);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(872);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeObjectEClass;
 	}
@@ -30813,7 +30365,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(895);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(873);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0PropertiesAbstractEClass;
 	}
@@ -30826,7 +30378,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(896);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(874);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0AdditionalPropertiesEClass;
 	}
@@ -30879,7 +30431,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(897);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(875);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeArrayEClass;
 	}
@@ -30902,7 +30454,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0Items() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(898);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(876);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ItemsEClass;
 	}
@@ -30925,7 +30477,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(899);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(877);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0TypeNullEClass;
 	}
@@ -30948,7 +30500,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(900);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(878);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAbstractEClass;
 	}
@@ -30961,7 +30513,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(901);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(879);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeStringEClass;
 	}
@@ -30984,7 +30536,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(902);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(880);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeIntegerEClass;
 	}
@@ -31007,7 +30559,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(903);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(881);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNumberEClass;
 	}
@@ -31030,7 +30582,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(904);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(882);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeBooleanEClass;
 	}
@@ -31053,7 +30605,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(905);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(883);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeObjectEClass;
 	}
@@ -31096,7 +30648,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(906);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(884);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfPropertiesAbstractEClass;
 	}
@@ -31109,7 +30661,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(907);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(885);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfAdditionalPropertiesEClass;
 	}
@@ -31162,7 +30714,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(908);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(886);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeArrayEClass;
 	}
@@ -31185,7 +30737,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(909);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(887);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfItemsEClass;
 	}
@@ -31208,7 +30760,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(910);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(888);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0IfTypeNullEClass;
 	}
@@ -31231,7 +30783,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(911);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(889);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAbstractEClass;
 	}
@@ -31244,7 +30796,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(912);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(890);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeStringEClass;
 	}
@@ -31267,7 +30819,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(913);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(891);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeIntegerEClass;
 	}
@@ -31290,7 +30842,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(914);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(892);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNumberEClass;
 	}
@@ -31313,7 +30865,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(915);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(893);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeBooleanEClass;
 	}
@@ -31336,7 +30888,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(916);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(894);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeObjectEClass;
 	}
@@ -31379,7 +30931,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(917);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(895);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenPropertiesAbstractEClass;
 	}
@@ -31392,7 +30944,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(918);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(896);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenAdditionalPropertiesEClass;
 	}
@@ -31445,7 +30997,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(919);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(897);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeArrayEClass;
 	}
@@ -31468,7 +31020,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(920);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(898);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenItemsEClass;
 	}
@@ -31491,7 +31043,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(921);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(899);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ThenTypeNullEClass;
 	}
@@ -31514,7 +31066,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(922);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(900);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAbstractEClass;
 	}
@@ -31527,7 +31079,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(923);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(901);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeStringEClass;
 	}
@@ -31550,7 +31102,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(924);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(902);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeIntegerEClass;
 	}
@@ -31573,7 +31125,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(925);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(903);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNumberEClass;
 	}
@@ -31596,7 +31148,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(926);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(904);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeBooleanEClass;
 	}
@@ -31619,7 +31171,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(927);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(905);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeObjectEClass;
 	}
@@ -31662,7 +31214,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElsePropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElsePropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElsePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(928);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElsePropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(906);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElsePropertiesAbstractEClass;
 	}
@@ -31675,7 +31227,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(929);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(907);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseAdditionalPropertiesEClass;
 	}
@@ -31728,7 +31280,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(930);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(908);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeArrayEClass;
 	}
@@ -31751,7 +31303,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(931);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(909);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseItemsEClass;
 	}
@@ -31774,7 +31326,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(932);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(910);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf0ElseTypeNullEClass;
 	}
@@ -31797,7 +31349,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1Abstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(933);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(911);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AbstractEClass;
 	}
@@ -31810,7 +31362,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(934);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(912);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeStringEClass;
 	}
@@ -31833,7 +31385,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(935);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(913);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeIntegerEClass;
 	}
@@ -31856,7 +31408,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(936);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(914);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNumberEClass;
 	}
@@ -31879,7 +31431,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(937);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(915);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeBooleanEClass;
 	}
@@ -31902,7 +31454,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(938);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(916);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeObjectEClass;
 	}
@@ -31935,7 +31487,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(939);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(917);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1PropertiesAbstractEClass;
 	}
@@ -31948,7 +31500,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(940);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(918);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1AdditionalPropertiesEClass;
 	}
@@ -32001,7 +31553,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(941);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(919);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeArrayEClass;
 	}
@@ -32024,7 +31576,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1Items() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(942);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(920);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ItemsEClass;
 	}
@@ -32047,7 +31599,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(943);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(921);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1TypeNullEClass;
 	}
@@ -32070,7 +31622,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(944);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(922);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAbstractEClass;
 	}
@@ -32083,7 +31635,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(945);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(923);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeStringEClass;
 	}
@@ -32106,7 +31658,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(946);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(924);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeIntegerEClass;
 	}
@@ -32129,7 +31681,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(947);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(925);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNumberEClass;
 	}
@@ -32152,7 +31704,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(948);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(926);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeBooleanEClass;
 	}
@@ -32175,7 +31727,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(949);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(927);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeObjectEClass;
 	}
@@ -32218,7 +31770,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(950);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(928);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfPropertiesAbstractEClass;
 	}
@@ -32231,7 +31783,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(951);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(929);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfAdditionalPropertiesEClass;
 	}
@@ -32284,7 +31836,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(952);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(930);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeArrayEClass;
 	}
@@ -32307,7 +31859,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(953);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(931);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfItemsEClass;
 	}
@@ -32330,7 +31882,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(954);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(932);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1IfTypeNullEClass;
 	}
@@ -32353,7 +31905,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(955);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(933);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAbstractEClass;
 	}
@@ -32366,7 +31918,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeString() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(956);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(934);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeStringEClass;
 	}
@@ -32389,7 +31941,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(957);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(935);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeIntegerEClass;
 	}
@@ -32412,7 +31964,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(958);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(936);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNumberEClass;
 	}
@@ -32435,7 +31987,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(959);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(937);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeBooleanEClass;
 	}
@@ -32458,7 +32010,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObject() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(960);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(938);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeObjectEClass;
 	}
@@ -32491,7 +32043,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(961);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(939);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenPropertiesAbstractEClass;
 	}
@@ -32504,7 +32056,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(962);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(940);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenAdditionalPropertiesEClass;
 	}
@@ -32557,7 +32109,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArray() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(963);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(941);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeArrayEClass;
 	}
@@ -32580,7 +32132,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenItems() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(964);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(942);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenItemsEClass;
 	}
@@ -32603,7 +32155,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull() {
 		if (githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(965);
+			githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(943);
 		}
 		return githubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNullEClass;
 	}
@@ -32624,22 +32176,9 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	 * @generated
 	 */
 	@Override
-	public EClass getGithubwfRootOnOneOf2Workflow_runPropertiesAbstract() {
-		if (githubwfRootOnOneOf2Workflow_runPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(966);
-		}
-		return githubwfRootOnOneOf2Workflow_runPropertiesAbstractEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0AbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(967);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(944);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0AbstractEClass;
 	}
@@ -32652,7 +32191,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeString() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeStringEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(968);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(945);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeStringEClass;
 	}
@@ -32675,7 +32214,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeInteger() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeIntegerEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(969);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(946);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeIntegerEClass;
 	}
@@ -32698,7 +32237,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeNumber() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNumberEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(970);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(947);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNumberEClass;
 	}
@@ -32721,7 +32260,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeBoolean() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeBooleanEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(971);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(948);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeBooleanEClass;
 	}
@@ -32744,7 +32283,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeObject() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeObjectEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(972);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(949);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeObjectEClass;
 	}
@@ -32777,7 +32316,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0PropertiesAbstract() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0PropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(973);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(950);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0PropertiesAbstractEClass;
 	}
@@ -32790,7 +32329,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalProperties() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalPropertiesEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(974);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(951);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0AdditionalPropertiesEClass;
 	}
@@ -32843,7 +32382,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeArray() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeArrayEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(975);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(952);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeArrayEClass;
 	}
@@ -32866,7 +32405,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0Items() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0ItemsEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(976);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(953);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0ItemsEClass;
 	}
@@ -32889,7 +32428,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2Workflow_runPatternProperties0TypeNull() {
 		if (githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNullEClass == null) {
-			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(977);
+			githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(954);
 		}
 		return githubwfRootOnOneOf2Workflow_runPatternProperties0TypeNullEClass;
 	}
@@ -32912,7 +32451,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsAbstract() {
 		if (githubwfRootOnOneOf2ScheduleItemsAbstractEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(978);
+			githubwfRootOnOneOf2ScheduleItemsAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(955);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsAbstractEClass;
 	}
@@ -32925,7 +32464,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeString() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeStringEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(979);
+			githubwfRootOnOneOf2ScheduleItemsTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(956);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeStringEClass;
 	}
@@ -32948,7 +32487,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeInteger() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeIntegerEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(980);
+			githubwfRootOnOneOf2ScheduleItemsTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(957);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeIntegerEClass;
 	}
@@ -32971,7 +32510,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeNumber() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeNumberEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(981);
+			githubwfRootOnOneOf2ScheduleItemsTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(958);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeNumberEClass;
 	}
@@ -32994,7 +32533,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeBoolean() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeBooleanEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(982);
+			githubwfRootOnOneOf2ScheduleItemsTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(959);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeBooleanEClass;
 	}
@@ -33017,7 +32556,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeObject() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeObjectEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(983);
+			githubwfRootOnOneOf2ScheduleItemsTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(960);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeObjectEClass;
 	}
@@ -33060,7 +32599,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsPropertiesAbstract() {
 		if (githubwfRootOnOneOf2ScheduleItemsPropertiesAbstractEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(984);
+			githubwfRootOnOneOf2ScheduleItemsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(961);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsPropertiesAbstractEClass;
 	}
@@ -33073,7 +32612,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeArray() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeArrayEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(985);
+			githubwfRootOnOneOf2ScheduleItemsTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(962);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeArrayEClass;
 	}
@@ -33096,7 +32635,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsItems() {
 		if (githubwfRootOnOneOf2ScheduleItemsItemsEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(986);
+			githubwfRootOnOneOf2ScheduleItemsItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(963);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsItemsEClass;
 	}
@@ -33119,7 +32658,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootOnOneOf2ScheduleItemsTypeNull() {
 		if (githubwfRootOnOneOf2ScheduleItemsTypeNullEClass == null) {
-			githubwfRootOnOneOf2ScheduleItemsTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(987);
+			githubwfRootOnOneOf2ScheduleItemsTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(964);
 		}
 		return githubwfRootOnOneOf2ScheduleItemsTypeNullEClass;
 	}
@@ -33142,7 +32681,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyAbstract() {
 		if (githubwfRootConcurrencyAbstractEClass == null) {
-			githubwfRootConcurrencyAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(988);
+			githubwfRootConcurrencyAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(965);
 		}
 		return githubwfRootConcurrencyAbstractEClass;
 	}
@@ -33155,7 +32694,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeString() {
 		if (githubwfRootConcurrencyTypeStringEClass == null) {
-			githubwfRootConcurrencyTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(989);
+			githubwfRootConcurrencyTypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(966);
 		}
 		return githubwfRootConcurrencyTypeStringEClass;
 	}
@@ -33178,7 +32717,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeInteger() {
 		if (githubwfRootConcurrencyTypeIntegerEClass == null) {
-			githubwfRootConcurrencyTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(990);
+			githubwfRootConcurrencyTypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(967);
 		}
 		return githubwfRootConcurrencyTypeIntegerEClass;
 	}
@@ -33201,7 +32740,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeNumber() {
 		if (githubwfRootConcurrencyTypeNumberEClass == null) {
-			githubwfRootConcurrencyTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(991);
+			githubwfRootConcurrencyTypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(968);
 		}
 		return githubwfRootConcurrencyTypeNumberEClass;
 	}
@@ -33224,7 +32763,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeBoolean() {
 		if (githubwfRootConcurrencyTypeBooleanEClass == null) {
-			githubwfRootConcurrencyTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(992);
+			githubwfRootConcurrencyTypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(969);
 		}
 		return githubwfRootConcurrencyTypeBooleanEClass;
 	}
@@ -33247,7 +32786,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeObject() {
 		if (githubwfRootConcurrencyTypeObjectEClass == null) {
-			githubwfRootConcurrencyTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(993);
+			githubwfRootConcurrencyTypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(970);
 		}
 		return githubwfRootConcurrencyTypeObjectEClass;
 	}
@@ -33280,7 +32819,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyPropertiesAbstract() {
 		if (githubwfRootConcurrencyPropertiesAbstractEClass == null) {
-			githubwfRootConcurrencyPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(994);
+			githubwfRootConcurrencyPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(971);
 		}
 		return githubwfRootConcurrencyPropertiesAbstractEClass;
 	}
@@ -33293,7 +32832,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyAdditionalProperties() {
 		if (githubwfRootConcurrencyAdditionalPropertiesEClass == null) {
-			githubwfRootConcurrencyAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(995);
+			githubwfRootConcurrencyAdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(972);
 		}
 		return githubwfRootConcurrencyAdditionalPropertiesEClass;
 	}
@@ -33346,7 +32885,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeArray() {
 		if (githubwfRootConcurrencyTypeArrayEClass == null) {
-			githubwfRootConcurrencyTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(996);
+			githubwfRootConcurrencyTypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(973);
 		}
 		return githubwfRootConcurrencyTypeArrayEClass;
 	}
@@ -33369,7 +32908,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyItems() {
 		if (githubwfRootConcurrencyItemsEClass == null) {
-			githubwfRootConcurrencyItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(997);
+			githubwfRootConcurrencyItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(974);
 		}
 		return githubwfRootConcurrencyItemsEClass;
 	}
@@ -33392,7 +32931,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootConcurrencyTypeNull() {
 		if (githubwfRootConcurrencyTypeNullEClass == null) {
-			githubwfRootConcurrencyTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(998);
+			githubwfRootConcurrencyTypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(975);
 		}
 		return githubwfRootConcurrencyTypeNullEClass;
 	}
@@ -33415,7 +32954,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPropertiesAbstract() {
 		if (githubwfRootJobsPropertiesAbstractEClass == null) {
-			githubwfRootJobsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(999);
+			githubwfRootJobsPropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(976);
 		}
 		return githubwfRootJobsPropertiesAbstractEClass;
 	}
@@ -33428,7 +32967,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0Abstract() {
 		if (githubwfRootJobsPatternProperties0AbstractEClass == null) {
-			githubwfRootJobsPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1000);
+			githubwfRootJobsPatternProperties0AbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(977);
 		}
 		return githubwfRootJobsPatternProperties0AbstractEClass;
 	}
@@ -33441,7 +32980,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeString() {
 		if (githubwfRootJobsPatternProperties0TypeStringEClass == null) {
-			githubwfRootJobsPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1001);
+			githubwfRootJobsPatternProperties0TypeStringEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(978);
 		}
 		return githubwfRootJobsPatternProperties0TypeStringEClass;
 	}
@@ -33464,7 +33003,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeInteger() {
 		if (githubwfRootJobsPatternProperties0TypeIntegerEClass == null) {
-			githubwfRootJobsPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1002);
+			githubwfRootJobsPatternProperties0TypeIntegerEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(979);
 		}
 		return githubwfRootJobsPatternProperties0TypeIntegerEClass;
 	}
@@ -33487,7 +33026,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeNumber() {
 		if (githubwfRootJobsPatternProperties0TypeNumberEClass == null) {
-			githubwfRootJobsPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1003);
+			githubwfRootJobsPatternProperties0TypeNumberEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(980);
 		}
 		return githubwfRootJobsPatternProperties0TypeNumberEClass;
 	}
@@ -33510,7 +33049,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeBoolean() {
 		if (githubwfRootJobsPatternProperties0TypeBooleanEClass == null) {
-			githubwfRootJobsPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1004);
+			githubwfRootJobsPatternProperties0TypeBooleanEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(981);
 		}
 		return githubwfRootJobsPatternProperties0TypeBooleanEClass;
 	}
@@ -33533,7 +33072,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeObject() {
 		if (githubwfRootJobsPatternProperties0TypeObjectEClass == null) {
-			githubwfRootJobsPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1005);
+			githubwfRootJobsPatternProperties0TypeObjectEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(982);
 		}
 		return githubwfRootJobsPatternProperties0TypeObjectEClass;
 	}
@@ -33566,7 +33105,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0PropertiesAbstract() {
 		if (githubwfRootJobsPatternProperties0PropertiesAbstractEClass == null) {
-			githubwfRootJobsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1006);
+			githubwfRootJobsPatternProperties0PropertiesAbstractEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(983);
 		}
 		return githubwfRootJobsPatternProperties0PropertiesAbstractEClass;
 	}
@@ -33579,7 +33118,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0AdditionalProperties() {
 		if (githubwfRootJobsPatternProperties0AdditionalPropertiesEClass == null) {
-			githubwfRootJobsPatternProperties0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1007);
+			githubwfRootJobsPatternProperties0AdditionalPropertiesEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(984);
 		}
 		return githubwfRootJobsPatternProperties0AdditionalPropertiesEClass;
 	}
@@ -33632,7 +33171,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeArray() {
 		if (githubwfRootJobsPatternProperties0TypeArrayEClass == null) {
-			githubwfRootJobsPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1008);
+			githubwfRootJobsPatternProperties0TypeArrayEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(985);
 		}
 		return githubwfRootJobsPatternProperties0TypeArrayEClass;
 	}
@@ -33655,7 +33194,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0Items() {
 		if (githubwfRootJobsPatternProperties0ItemsEClass == null) {
-			githubwfRootJobsPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1009);
+			githubwfRootJobsPatternProperties0ItemsEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(986);
 		}
 		return githubwfRootJobsPatternProperties0ItemsEClass;
 	}
@@ -33678,7 +33217,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	@Override
 	public EClass getGithubwfRootJobsPatternProperties0TypeNull() {
 		if (githubwfRootJobsPatternProperties0TypeNullEClass == null) {
-			githubwfRootJobsPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(1010);
+			githubwfRootJobsPatternProperties0TypeNullEClass = (EClass)EPackage.Registry.INSTANCE.getEPackage(GithubwfPackage.eNS_URI).getEClassifiers().get(987);
 		}
 		return githubwfRootJobsPatternProperties0TypeNullEClass;
 	}
@@ -33711,7 +33250,7 @@ public class GithubwfPackageImpl extends EPackageImpl implements GithubwfPackage
 	private boolean isLoaded = false;
 
 	/**
-	 * Laods the package and any sub-packages from their serialized form.
+	 * Loads the package and any sub-packages from their serialized form.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated

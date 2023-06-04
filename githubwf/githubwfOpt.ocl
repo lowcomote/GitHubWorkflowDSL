@@ -1,4 +1,4 @@
--- OCL contraints for /C:/Users/aless/eclipse/jsonschemadsl/workspaces/22.runtime-json-schema/githubwf/githubwf
+-- OCL contraints for /C:/Users/aless/git/GitHubWorkflowDSL/githubwf/githubwf
 import 'http://jku.bise.at/githubwf'
 
 package githubwf

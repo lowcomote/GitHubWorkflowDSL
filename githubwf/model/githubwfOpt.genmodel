@@ -5347,9 +5347,6 @@
       </genFeatures>
     </genClasses>
     <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1WithPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
       <ecoreClass href="githubwfOpt.ecore#//NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract"/>
     </genClasses>
     <genClasses>
@@ -5889,65 +5886,11 @@
     <genClasses image="false">
       <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2PropertiesAbstract"/>
     </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_runPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Check_suitePropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2DiscussionPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Issue_commentPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2IssuesPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2LabelPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MemberPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Merge_groupPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2MilestonePropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ProjectPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_cardPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Project_columnPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestPropertiesAbstract"/>
-    </genClasses>
     <genClasses>
       <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestPatternProperties0Items"/>
       <genFeatures property="None" children="true" createChild="true">
         <ecoreFeature xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_requestPatternProperties0Items/items"/>
       </genFeatures>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract"/>
     </genClasses>
     <genClasses image="false">
       <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract"/>
@@ -6023,15 +5966,6 @@
       <genFeatures property="None" children="true" createChild="true">
         <ecoreFeature xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeNull/patternProperties0"/>
       </genFeatures>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2PushPropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Registry_packagePropertiesAbstract"/>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2ReleasePropertiesAbstract"/>
     </genClasses>
     <genClasses image="false">
       <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_callAbstract"/>
@@ -7037,9 +6971,6 @@
       <genFeatures property="None" children="true" createChild="true">
         <ecoreFeature xsi:type="ecore:EReference" href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_dispatchInputsPatternProperties0AllOf1ThenTypeNull/patternProperties0"/>
       </genFeatures>
-    </genClasses>
-    <genClasses image="false">
-      <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPropertiesAbstract"/>
     </genClasses>
     <genClasses image="false">
       <ecoreClass href="githubwfOpt.ecore#//GithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract"/>

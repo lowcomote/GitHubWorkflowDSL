@@ -2723,7 +2723,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1WithArgs" eSuperTypes="#//NormalJobStepsItemsAllOf1WithPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1WithArgs">
     <eAnnotations source="Type">
       <details key="Type" value="string"/>
     </eAnnotations>
@@ -2736,8 +2736,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1WithEntrypoint"
-      eSuperTypes="#//NormalJobStepsItemsAllOf1WithPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1WithEntrypoint">
     <eAnnotations source="Type">
       <details key="Type" value="string"/>
     </eAnnotations>
@@ -3724,8 +3723,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Branch_protection_ruleTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Branch_protection_ruleTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,edited,deleted]"/>
     </eAnnotations>
@@ -3755,8 +3753,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Check_runTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Check_runPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Check_runTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,rerequested,completed,requested_action]"/>
     </eAnnotations>
@@ -3786,8 +3783,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Check_suiteTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Check_suitePropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Check_suiteTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[completed,requested,rerequested]"/>
     </eAnnotations>
@@ -3874,8 +3870,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2DiscussionTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2DiscussionPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2DiscussionTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,edited,deleted,transferred,pinned,unpinned,labeled,unlabeled,locked,unlocked,category_changed,answered,unanswered]"/>
     </eAnnotations>
@@ -3906,8 +3901,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Discussion_commentTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Discussion_commentTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,edited,deleted]"/>
     </eAnnotations>
@@ -3965,8 +3959,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Issue_commentTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Issue_commentPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Issue_commentTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,edited,deleted]"/>
     </eAnnotations>
@@ -3996,7 +3989,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2IssuesTypes" eSuperTypes="#//GithubwfRootOnOneOf2IssuesPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2IssuesTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[opened,edited,deleted,transferred,pinned,unpinned,closed,reopened,assigned,unassigned,labeled,unlabeled,locked,unlocked,milestoned,demilestoned]"/>
     </eAnnotations>
@@ -4026,7 +4019,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2LabelTypes" eSuperTypes="#//GithubwfRootOnOneOf2LabelPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2LabelTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,edited,deleted]"/>
     </eAnnotations>
@@ -4056,7 +4049,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2MemberTypes" eSuperTypes="#//GithubwfRootOnOneOf2MemberPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2MemberTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[added,edited,deleted]"/>
     </eAnnotations>
@@ -4086,8 +4079,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Merge_groupTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Merge_groupPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Merge_groupTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[checks_requested]"/>
     </eAnnotations>
@@ -4117,8 +4109,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2MilestoneTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2MilestonePropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2MilestoneTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,closed,opened,edited,deleted]"/>
     </eAnnotations>
@@ -4162,7 +4153,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2ProjectTypes" eSuperTypes="#//GithubwfRootOnOneOf2ProjectPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2ProjectTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,updated,closed,reopened,edited,deleted]"/>
     </eAnnotations>
@@ -4192,8 +4183,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Project_cardTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Project_cardPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Project_cardTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,moved,converted,edited,deleted]"/>
     </eAnnotations>
@@ -4224,8 +4214,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Project_columnTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Project_columnPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Project_columnTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,updated,moved,deleted]"/>
     </eAnnotations>
@@ -4269,8 +4258,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_requestTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Pull_requestPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_requestTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[opened,synchronize,reopened]"/>
     </eAnnotations>
@@ -4286,8 +4274,7 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="items" lowerBound="1" eType="ecore:EClass http://at.jku.bise/jsonMM#//JsonDocument"
         containment="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_requestPatternProperties0"
-      eSuperTypes="#//GithubwfRootOnOneOf2Pull_requestPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_requestPatternProperties0">
     <eAnnotations source="PatternProperties">
       <details key="PatternProperties" value="true"/>
       <details key="pattern" value="^(branche|tag|path)s(-ignore)?$"/>
@@ -4337,8 +4324,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_reviewTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_reviewTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[submitted,edited,dismissed]"/>
     </eAnnotations>
@@ -4369,8 +4355,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_review_commentTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_review_commentTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[created,edited,deleted]"/>
     </eAnnotations>
@@ -4401,8 +4386,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[opened,synchronize,reopened]"/>
     </eAnnotations>
@@ -4418,8 +4402,7 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="items" lowerBound="1" eType="ecore:EClass http://at.jku.bise/jsonMM#//JsonDocument"
         containment="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetPatternProperties0"
-      eSuperTypes="#//GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetPatternProperties0">
     <eAnnotations source="PatternProperties">
       <details key="PatternProperties" value="true"/>
       <details key="pattern" value="^(branche|tag|path)s(-ignore)?$"/>
@@ -4466,8 +4449,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2PushPatternProperties0"
-      eSuperTypes="#//GithubwfRootOnOneOf2PushPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2PushPatternProperties0">
     <eAnnotations source="PatternProperties">
       <details key="PatternProperties" value="true"/>
       <details key="pattern" value="^(branche|tag|path)s(-ignore)?$"/>
@@ -4523,8 +4505,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Registry_packageTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Registry_packagePropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Registry_packageTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[published,updated]"/>
     </eAnnotations>
@@ -4554,7 +4535,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2ReleaseTypes" eSuperTypes="#//GithubwfRootOnOneOf2ReleasePropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2ReleaseTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[published,unpublished,created,edited,deleted,prereleased,released]"/>
     </eAnnotations>
@@ -5248,8 +5229,7 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runTypes"
-      eSuperTypes="#//GithubwfRootOnOneOf2Workflow_runPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runTypes">
     <eAnnotations source="Default">
       <details key="Default" value="[requested,completed]"/>
     </eAnnotations>
@@ -5265,8 +5245,7 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="items" lowerBound="1" eType="ecore:EClass http://at.jku.bise/jsonMM#//JsonDocument"
         containment="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runWorkflows"
-      eSuperTypes="#//GithubwfRootOnOneOf2Workflow_runPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runWorkflows">
     <eAnnotations source="Type">
       <details key="Type" value="array"/>
     </eAnnotations>
@@ -5284,8 +5263,7 @@
     </eAnnotations>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="items" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runPatternProperties0"
-      eSuperTypes="#//GithubwfRootOnOneOf2Workflow_runPropertiesAbstract">
+  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runPatternProperties0">
     <eAnnotations source="PatternProperties">
       <details key="PatternProperties" value="true"/>
       <details key="pattern" value="^branches(-ignore)?$"/>
@@ -8621,8 +8599,6 @@
       </eAnnotations>
     </eStructuralFeatures>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1WithPropertiesAbstract"
-      abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1Continue_45on_45errorAbstract"
       abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="NormalJobStepsItemsAllOf1Continue_45on_45errorTypeString"
@@ -9408,46 +9384,10 @@
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2PropertiesAbstract"
       abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Branch_protection_rulePropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Check_runPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Check_suitePropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2DiscussionPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Discussion_commentPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Issue_commentPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2IssuesPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2LabelPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2MemberPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Merge_groupPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2MilestonePropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2ProjectPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Project_cardPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Project_columnPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_requestPropertiesAbstract"
-      abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_requestPatternProperties0Items">
     <eStructuralFeatures xsi:type="ecore:EReference" name="items" lowerBound="1" eType="ecore:EClass http://at.jku.bise/jsonMM#//JsonDocument"
         containment="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_reviewPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_review_commentPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract"
-      abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetPatternProperties0Abstract"
       abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Pull_request_targetPatternProperties0TypeString"
@@ -9541,12 +9481,6 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="patternProperties0" lowerBound="1"
         eType="ecore:EClass http://at.jku.bise/jsonMM#//NullValue" containment="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2PushPropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Registry_packagePropertiesAbstract"
-      abstract="true"/>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2ReleasePropertiesAbstract"
-      abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_callAbstract"
       abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_callTypeString"
@@ -11002,8 +10936,6 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="patternProperties0" lowerBound="1"
         eType="ecore:EClass http://at.jku.bise/jsonMM#//NullValue" containment="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runPropertiesAbstract"
-      abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runPatternProperties0Abstract"
       abstract="true"/>
   <eClassifiers xsi:type="ecore:EClass" name="GithubwfRootOnOneOf2Workflow_runPatternProperties0TypeString"

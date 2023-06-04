@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -20,7 +21,7 @@ package githubwf;
  *        annotation="Comment Comment='https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstepswithentrypoint'"
  * @generated
  */
-public interface NormalJobStepsItemsAllOf1WithEntrypoint extends NormalJobStepsItemsAllOf1WithPropertiesAbstract {
+public interface NormalJobStepsItemsAllOf1WithEntrypoint extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Entrypoint</b></em>' attribute.
 	 * <!-- begin-user-doc -->

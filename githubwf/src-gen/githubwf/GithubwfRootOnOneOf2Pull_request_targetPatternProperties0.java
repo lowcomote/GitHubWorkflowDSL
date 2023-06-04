@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -20,7 +21,7 @@ package githubwf;
  * @model annotation="PatternProperties PatternProperties='true' pattern='^(branche|tag|path)s(-ignore)?$'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Pull_request_targetPatternProperties0 extends GithubwfRootOnOneOf2Pull_request_targetPropertiesAbstract {
+public interface GithubwfRootOnOneOf2Pull_request_targetPatternProperties0 extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Key</b></em>' attribute.
 	 * <!-- begin-user-doc -->

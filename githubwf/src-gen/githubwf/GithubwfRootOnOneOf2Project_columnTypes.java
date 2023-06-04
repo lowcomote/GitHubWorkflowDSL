@@ -2,6 +2,7 @@
  */
 package githubwf;
 
+import org.eclipse.emf.ecore.EObject;
 
 /**
  * <!-- begin-user-doc -->
@@ -19,7 +20,7 @@ package githubwf;
  * @model annotation="Default Default='[created,updated,moved,deleted]'"
  * @generated
  */
-public interface GithubwfRootOnOneOf2Project_columnTypes extends GithubwfRootOnOneOf2Project_columnPropertiesAbstract {
+public interface GithubwfRootOnOneOf2Project_columnTypes extends EObject {
 	/**
 	 * Returns the value of the '<em><b>Types</b></em>' containment reference.
 	 * <!-- begin-user-doc -->

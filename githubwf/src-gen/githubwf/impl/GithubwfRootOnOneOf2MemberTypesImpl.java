@@ -13,6 +13,7 @@ import org.eclipse.emf.ecore.EClass;
 import org.eclipse.emf.ecore.InternalEObject;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
+import org.eclipse.emf.ecore.impl.MinimalEObjectImpl;
 
 /**
  * <!-- begin-user-doc -->
@@ -27,7 +28,7 @@ import org.eclipse.emf.ecore.impl.ENotificationImpl;
  *
  * @generated
  */
-public class GithubwfRootOnOneOf2MemberTypesImpl extends GithubwfRootOnOneOf2MemberPropertiesAbstractImpl implements GithubwfRootOnOneOf2MemberTypes {
+public class GithubwfRootOnOneOf2MemberTypesImpl extends MinimalEObjectImpl.Container implements GithubwfRootOnOneOf2MemberTypes {
 	/**
 	 * The cached value of the '{@link #getTypes() <em>Types</em>}' containment reference.
 	 * <!-- begin-user-doc -->
